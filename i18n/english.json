@@ -53,7 +53,7 @@
     "cmd-disabledcommand-help" : "Manages the disabled commands of the server.",
     "cmd-disabledcommand-add-help" : "Disables a command on the server.",
     "cmd-disabledcommand-remove-help" : "Enables anew a disabled command.",
-    "cmd-disabledcommand-list-help" : "Displays the disabled commands list",
+    "cmd-disabledcommand-list-help" : "Displays the disabled commands list.",
     "cmd-language-help" : "Sets my language.\nAvailable languages can be displayed with language list.",
     "cmd-kick-help" : "Kicks a user from the server.",
     "cmd-ban-help" : "Bans a user from the server.",
