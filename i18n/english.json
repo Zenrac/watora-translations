@@ -49,7 +49,6 @@
     "cmd-prefix-now-help" : "Displays the current server prefix.",
     "cmd-prefix-change-help" : "Allows to change the current server prefix.",
     "cmd-prefix-reset-help" : "Resets the server prefix to the global one.",
-    "cmd-prefix-now-help" : "Displays the current server prefix.",
     "cmd-ignore-help" : "Disables my commands in the current channel.",
     "cmd-disabledcommand-help" : "Manages the disabled commands of the server.",
     "cmd-disabledcommand-add-help" : "Disables a command on the server.",
