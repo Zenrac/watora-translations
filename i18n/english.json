@@ -377,7 +377,7 @@
     "cmd-getrole-role-not-obtainable" : "This role cannot be given, you can make it obtainable with {}.",
     "cmd-getrole-not-enough-perm" : "{}, I don't have enough permissions to remove your {} role.",
     "cmd-getrole-not-enough-perm-add" : "I don't have enough permissions to give the {} role.",    
-    "cmd-getrole-remove-succes" : "{}, I remove your  {} role.",
+    "cmd-getrole-remove-succes" : "{}, I remove your {} role.",
     "cmd-getrole-add-succes" : "You now have the `{}` role !",
 
     "music-join-playing-a-song" : "I'm already playing a song in a voice channel. You don't have enough permission to make me join yours.",
