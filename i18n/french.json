@@ -20,7 +20,7 @@
     "music-no-youtube-live" : "N'ajoutez pas de lien youtube pour le moment.",
     "music-playblacklisted" : "Je ne peux pas jouer cette vidéo. Un mot ou l'URL est interdit par la commande {}.",
     "music-upnext" : "Maintenant",
-    "music-enqueued" : "Vous avez ajouté {}",
+    "music-enqueued" : "Vous avez ajouté {} à la playlist.",
     "music-position-in-queue" : "Position dans la playlist: {}",
     "music-estimated-time" : "temps estimé avant lecture : {}",
     "music-duration" : "Durée",
