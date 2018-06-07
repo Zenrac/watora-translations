@@ -302,7 +302,7 @@
     "cmd-help-cmd-not-found" : "Aucune commande nommée {} trouvée.",
     "cmd-help-help-not-found" : "Je n'ai trouvé aucune aide pour cette commande!",
     "cmd-help-title" : "Liste des commandes",
-    "cmd-help-description" : "Vous pouvez créer vos propres alias et commandes avec les commandes customisée.",
+    "cmd-help-description" : "Vous pouvez créer vos propres commandes et vos alias avec les commandes customisées.",
     "cmd-help-more-info-cmd" : "Pour plus d'information sur une commande utilisez",
     "cmd-help-more-info-cat" : "Pour plus d'information sur une catégorie utilisez",
     "cmd-help-support" : "Pour toutes questions, vous pouvez les poser sur {}",
