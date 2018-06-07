@@ -377,7 +377,7 @@
     "cmd-getrole-role-not-obtainable" : "Ce rôle ne peut pas être obtenu, vous pouvez en rendre obtenables avec {}.",
     "cmd-getrole-not-enough-perm" : "{}, je n'ai pas assez de permission pour vous retirer le rôle {}.",
     "cmd-getrole-not-enough-perm-add" : "je n'ai pas assez de permission pour vous retirer le rôle {}.",    
-    "cmd-getrole-remove-succes" : "{}, je retire votre {} role.",
+    "cmd-getrole-remove-succes" : "{}, je retire votre rôle {}.",
     "cmd-getrole-add-succes" : "Vous avez désormais le rôle `{}` !",
 
     "music-join-playing-a-song" : "Je joue déjà une musique dans un salon vocal. Vous n'avez pas assez de permission pour me faire rejoindre le votre.",
