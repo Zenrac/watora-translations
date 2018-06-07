@@ -238,7 +238,7 @@
     "cmd-flip-tails" : "PILE!",
     "cmd-flip-heads" : "FACE!",
     "cmd-customcommand-in-basic-command" : "Cette commande éxiste déjà dans mes commandes basiques.",
-    "cmd-customcommand-added" : "Commande customisée supprimée avec succès.",
+    "cmd-customcommand-added" : "Commande customisée ajoutée avec succès.",
     "cmd-customcommand-already-exists" : "Cette commande existe déjà. Utilisez {} pour l'éditer.",
     "cmd-customcommand-raw-content" : "Le contenu de la commande customisée {} est :",
     "cmd-customcommand-raw-dont-exist" : "Cette commande n'éxiste pas.",
