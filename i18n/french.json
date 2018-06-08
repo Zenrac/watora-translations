@@ -394,6 +394,7 @@
     "music-stop-song-running" : "Une musique est en cours, je ne peux pas me déconnecter!",
     "music-stop-succes" : "Je me déconnecte et je vide la playlist...",
     "music-pause-succes" : "{} a mis la musique sur pause.", 
+    "music-resume-succes" : "{} a remis la musique qui était sur pause.",         
     "music-skip-succes" : "{} a passé la musique.",
     "music-skip-added" : "Vote ajouté.",
     "music-skip-already" : "Vous avez déjà voté pour skip cette musique.",
