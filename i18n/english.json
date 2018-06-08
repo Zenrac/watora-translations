@@ -394,6 +394,7 @@
     "music-stop-song-running" : "A song is running, I can't leave!",
     "music-stop-succes" : "Disconnecting and cleaning queue...",
     "music-pause-succes" : "{} has paused the song.", 
+    "music-resume-succes" : "{} has resumed the song.",     
     "music-skip-succes" : "{} has skipped the song.",
     "music-skip-added" : "Skip vote added.",
     "music-skip-already" : "You have already voted to skip this song.",
