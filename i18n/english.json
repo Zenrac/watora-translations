@@ -462,7 +462,7 @@
     "music-clear-empty" : "I can't clear an empty queue.",
     "music-clear-cleared" : "The queue has been cleared!",
     "music-promote-empty" : "I can't promote something in an empty queue.",
-    "music-promote-error" : "You have to specify a song position between 0 and {}.",
+    "music-promote-error" : "You have to specify a song position between 1 and {}.",
     "music-promote-promoted" : "Promoted {} to the first position of the queue.",
     "music-promote-playlist" : "You cannot use this command with a playlist...",    
     "music-shuffle-empty" : "I can't shuffle an empty queue.",
