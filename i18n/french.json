@@ -144,6 +144,8 @@
     "cmd-pl-add-help" : "Ajoute une musique à l'autoplaylist actuelle, si vous ne spécifiez pas d'URL, ajoute la musique actuelle à l'autoplaylist.\nVous pouvez utilisez des mots clés pour ajouter sans URL.",
     "cmd-pl-remove-help" : "Retire une musique de l'autoplaylist actuelle, si vous ne spécifiez pas d'URL, retire la musique actuelle de l'autoplaylist.\nVous pouvez utilisez des mots clés pour essayer de retirer sans url.\nVous pouvez spécifier une position dans l'autoplaylist (peut être trouvé avec plinfo)",
     "cmd-plremove-help" : "Retire une musique de l'autoplaylist actuelle, si vous ne spécifiez pas d'URL, retire la musique actuelle de l'autoplaylist.\nVous pouvez utilisez des mots clés pour essayer de retirer sans url.\nVous pouvez spécifier une position dans l'autoplaylist (peut être trouvé avec plinfo)",
+    "cmd-pl-clear-help" : "Supprime une autoplaylist et tout son contenu.\nAttention : Cette action est irréversible.",
+    "cmd-plclear-help" : "Supprime une autoplaylist et tout son contenu.\nAttention : Cette action est irréversible.",   
     "cmd-repeat-help" : "Permet de répéter la playlist actuelle.",
     "cmd-clear-help" : "Vide la playlist.",
     "cmd-promote-help" : "Déplace une musique au sommet de la playlist.\nSi vous ne spécifiez pas de musique, déplace la dernière musique de la playlist.",
