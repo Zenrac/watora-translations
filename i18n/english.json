@@ -144,6 +144,8 @@
     "cmd-pl-add-help" : "Adds a song to the current autoplaylist, if you don't specify an url, adds the current song to the autoplaylist.\nYou can use keywords to try to add it without url.",
     "cmd-pl-remove-help" : "Removes a song to the current autoplaylist, if you don't specify an url, removes the current song from the autoplaylist.\nYou can use keywords to try to remove it without url.\nYou can specify the position in the autoplaylist (can be find with plinfo)",
     "cmd-plremove-help" : "Removes a song to the current autoplaylist, if you don't specify an url, removes the current song from the autoplaylist.\nYou can use keywords to try to remove it without url.\nYou can specify the position in the autoplaylist (can be find with plinfo)",
+    "cmd-pl-clear-help" : "Deletes an autoplaylist and all his content.\nWarning : This operation cannot be undone.",
+    "cmd-plclear-help" : "Deletes an autoplaylist and all his content.\nWarning : This operation cannot be undone.",
     "cmd-repeat-help" : "Repeats the current queue.",
     "cmd-clear-help" : "Clears the current queue.",
     "cmd-promote-help" : "Promotes a song to the top of the queue.\nIf you don't specify a position, it will promote the last song in queue.",
