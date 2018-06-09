@@ -432,7 +432,7 @@
     "music-plinfo-warnings" : "Warning : There are {} dead links in your autoplaylist. You can remove them all with {}",
     "music-plinfo-warning" : "Warning : There is a dead link in your autoplaylist. You can remove it easily with {}",
     "music-plinfo-too-much" : "The autoplaylist has too much songs to be displayed here. I'm going to send you the autoplaylist content in DM in few seconds.",
-    "music-plrepair-someone" : "You can only repair your own personal autoplaylist.",
+    "music-plrepair-someone" : "You can only edit your own personal autoplaylist.",
     "music-plrepair-loading" : "I'm repairing this autoplaylist, please wait...",
     "music-plrepair-all-ok" : "Everything is okay, this autoplaylist don't need to be repaired !",
     "music-plrepair-removed-links" : "Success, {} dead links have been removed from the autoplaylist.",
@@ -450,6 +450,10 @@
     "music-plremove-not-found" : "I didn't find this song in the current autoplaylist.",
     "music-plremove-removed" : "This song has been removed from the autoplaylist.",
     "music-plremove-removed-t" : "{} has been removed from the autoplaylist.",
+    "music-plclear-your-p-a" : "your personal autoplaylist",
+    "music-plclear-confirmation" : "Do you really want to delete **{}** ? Type `yes` or `no`.",
+    "music-plclear-cancelled" : "Cancelling the deletion of the autoplaylist.",    
+    "music-plclear-cleared" : "**{}** has been succefully deleted.",      
     "music-repeat-disabled" : "I'll not repeat the queue anymore.",
     "music-repeat-empty" : "I can't repeat an empty queue.",
     "music-repeat-enabled" : "OK, I'll repeat the current queue!",
@@ -493,5 +497,5 @@
     "music-moveto-stream" : "Cannot move while a stream is playing...",
     "music-moveto-correct" : "Please give me a correct times.",
     "music-moveto-exceeds" : "This times exceeds the music duration...",
-    "music-download-only" : "Only youtube links can be downloaded."       
+    "music-download-only" : "Only youtube links can be downloaded."
 }
