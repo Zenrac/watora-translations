@@ -385,7 +385,7 @@
     "music-join-playing-a-song" : "Je joue déjà une musique dans un salon vocal. Vous n'avez pas assez de permission pour me faire rejoindre le votre.",
     "music-join-no-channel" : "Aucun salon à rejoindre. S'il vous plaît, spécifiez en un ou connectez-vous.",
     "music-join-failed" : "Je n'arrive pas à me connecter à votre salon vocal pour l'instant. Réessayez plus tard.",
-    "music-join-succes" : "Connecté à: {}",
+    "music-join-succes" : "Connectée à: {}",
     "music-join-moved-fail" : "Impossible de me déplacer dans ce salon. Peut-être qu'il me manque des permissions?",
     "music-join-moved-succes" : "Je me déplace vers: {}",
     "music-play-adding-pl-cancelled" : "J'arrête d'ajouter la playlist... Je ne suis plus dans le salon vocal.",
