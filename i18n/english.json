@@ -175,6 +175,8 @@
     "cmd-defvolume-now-help" : "Displays the current default volume.",
     "cmd-defvolume-set-help" : "Sets the default volume.",
     "cmd-defvolume-reset-help" : "Resets my default volume.", 
+    
+    "cmd-settings-title" : "Guild settings",    
     "cmd-settings-help" : "Displays my current guild settings.",
     "cmd-settings-guild-pref" : "Prefix",
     "cmd-settings-language" : "Language",
@@ -536,5 +538,6 @@
     "music-download-only" : "Only youtube links can be downloaded.",
     "music-defvolume-set" : "The default volume on this server is now {}",
     "music-defvolume-reset" : "The default volume has been reset to {}", 
-    "music-defvolume-now" : "The current default volume is {}"  
+    "music-defvolume-now" : "The current default volume is {}" 
+    
 }
