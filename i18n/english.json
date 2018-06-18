@@ -16,6 +16,7 @@
     "role-not-enough-high" : "Your role is not enough high.",
     "put-the-role-id-instead" : "Invalid type of command, you have to put the ID of the role, you can find it with",
     
+    "music-over-used" : "Sorry. I'm currently over-used. To keep a decent global performance, you cannot play a song for the moment.",
     "music-no-result" : "Sorry, this video is not available anymore. Try to use {} to perform an advanced search.",
     "music-no-youtube-live" : "Don't add youtube live for the moment.",
     "music-playblacklisted" : "I can't play this video. A word or the URL is blacklisted by the {} command.",
@@ -539,5 +540,4 @@
     "music-defvolume-set" : "The default volume on this server is now {}",
     "music-defvolume-reset" : "The default volume has been reset to {}", 
     "music-defvolume-now" : "The current default volume is {}" 
-    
 }
