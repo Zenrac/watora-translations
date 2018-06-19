@@ -160,6 +160,7 @@
     "cmd-remove-help" : "Removes a song from the queue.\nIf you don't specify any position, removes the last song in queue.",
     "cmd-playnow-help" : "Immediately plays a song.",
     "cmd-previous-help" : "Enqueues the previous song.", 
+    "cmd-replay-help" : "Enqueues the current song.",     
     "cmd-playblacklist-help" : "Management of the play command blacklist.",
     "cmd-playblacklist-list" : "Displays the blacklisted words and URL for the play command on this server.",
     "cmd-playblacklist-set" : "Allows to set the blacklisted words and URL for the play command.",
@@ -167,6 +168,7 @@
     "cmd-stream-help" : "Streams a song.",
     "cmd-setdj-help" : "Configures a role as a DJ role (or several).\nMember with a DJ role can uses every musical commands.\nreset : removes the DJ permissions of every role on the server.\nnow : displays every roles with the DJ permissions.\neveryone : grants my DJ permissions to everyone on the server.",
     "cmd-radio-help" : "Radio commands management.",
+    "cmd-radio-play-help" : "Adds a radio to the queue to be played.",
     "cmd-radio-list-help" : "Displays the list of my available radio stations.",
     "cmd-search-help" : "Searches multiple videos at once with the selected parameters.\nYou can add one of them to the queue. If no service are specified, youtube is selected by default, if no number are specified, three videos are selected.\n\nList of the services: platform where the video is searched :\n- youtube (yt) (by default)\n- soundcloud (sc)\n- yahoo (yh)\n\nnote: if your search starts with a number, you should quote your search. -> 'your_search'",
     "cmd-supersearch-help" : "Searches even more videos at once with the selected parameters.\nYou can add one of them to the queue. If no service are specified, youtube is selected by default, if no number are specified, three videos are selected.\n\nList of the services: platform where the video is searched :\n- youtube (yt) (by default)\n- soundcloud (sc)\n- yahoo (yh)\n\nnote: if your search starts with a number, you should quote your search. -> 'your_search'",
@@ -505,7 +507,7 @@
     "music-shuffle-shuffled" : "Queue shuffled !",  
     "music-remove-empty" : "I can't remove something in an empty queue.",    
     "music-remove-removed" : "Removed {} from the queue.",    
-    "music-previous-no-previous" : "There is no previous song!",        
+    "music-previous-no-previous" : "There is no previous song!",     
     "music-pbl-are" : "The blacklisted words for the {} command are : {}",
     "music-pbl-empty" : "The blacklist for the {} command is empty on this server!",
     "music-pbl-set" : "The blacklisted words for the {} command are now : {}",
@@ -540,4 +542,5 @@
     "music-defvolume-set" : "The default volume on this server is now {}",
     "music-defvolume-reset" : "The default volume has been reset to {}", 
     "music-defvolume-now" : "The current default volume is {}" 
+    
 }
