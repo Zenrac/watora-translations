@@ -535,7 +535,7 @@
     "music-search-confirmation" : "It's ok? Type {}, {} or {}",
     "music-search-no-answer" : "No answer? Well, okay...",
     "music-search-exited" : "Advanced search exited.",
-    "music-search-stopping" : "Well..",
+    "music-search-stopping" : "Well...",
     "music-supersearch-too-big" : "This number is way too big.",
     "music-supersearch-negative" : "No negative number please.",
     "music-supersearch-invalid" : "This is not a valid choice!",
