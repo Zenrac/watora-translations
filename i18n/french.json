@@ -2,6 +2,7 @@
     "need-manage-messages-permission" : "J'ai besoin de la permission `gérer les messages`.",
     "need-manage-roles-permission" : "J'ai besoin de la permission `gérer les rôles`.",
     "need-embed-permission" : "J'ai besoin de la permission `intégrer des liens`.",
+    "need-attach-files-permission" : "J'ai besoin de la permission `attacher des fichiers`.",
     "need-connect-permission" : "J'ai besoin de la permission `se connecter` dans ce salon vocal !",
     "need-speak-permission" : "J'ai besoin de la permission `parler` dans ce salon vocal !",
     "need-embed-permission-for-goodbye" : "J'ai besoin de la permission `intégrer des liens` pour envoyer des messages d'au revoir dans ce salon.",    
