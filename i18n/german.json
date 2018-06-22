@@ -431,6 +431,8 @@
     "music-karaoke-disabling" : "Disabling the Karaoke mod on this server.",
     "music-karaoke-enabling" : "Enabling Karaoke mod on this server. Commands are now restricted to this channel only.",
     "music-stop-song-running" : "Es wird gerade noch ein Lied abgespielt, weshalb ich den Sprach-Kanal nicht verlassen kann!",
+    "music-stop-vote" : "Your vote to make me disconnect myself has been added!",    
+    "music-stop-already" : "You have already voted to make me disconnect myself...",        
     "music-stop-succes" : "Ich verlasse den Sprach-Kanal und lösche die Playlist...",
     "music-pause-succes" : "{} hat das Lied gestoppt.", 
     "music-resume-succes" : "{} hat das Lied fortgesetzt.",     
@@ -499,6 +501,8 @@
     "music-repeat-enabled" : "OK, I'll repeat the current queue!",
     "music-clear-empty" : "I can't clear an empty queue.",
     "music-clear-cleared" : "The queue has been cleared!",
+    "music-clear-vote" : "Your vote to clear the queue has been added.",       
+    "music-clear-already" : "You have already voted to clear the queue.",    
     "music-promote-empty" : "I can't promote something in an empty queue.",
     "music-promote-error" : "You have to specify a song position between 1 and {}.",
     "music-promote-promoted" : "Promoted {} to the first position of the queue.",
@@ -542,5 +546,4 @@
     "music-defvolume-set" : "Das Standartvolumen auf dem Server beträgt nun {}",
     "music-defvolume-reset" : "Das Standardvolumen wurde auf {} zurückgesetzt", 
     "music-defvolume-now" : "Das derzeitige Standardvolumen beträgt {}" 
-    
 }
