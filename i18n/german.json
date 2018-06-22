@@ -2,7 +2,7 @@
     "need-manage-messages-permission" : "Mir fehlt die `manage messages` Berechtigung.",
     "need-manage-roles-permission" : "Mir fehlt die `manage roles` Berechtigung.",
     "need-embed-permission" : "Mir fehlt die `embed links` Berechtigung.",
-    "need-attach-files-permission" : ""Mir fehlt die `attach files` Berechtigung.",        
+    "need-attach-files-permission" : "Mir fehlt die `attach files` Berechtigung.",        
     "need-connect-permission" : "Mir fehlt die `connect` Berechtigung in diesen Sprach-Kanal!",
     "need-speak-permission" : "Mir fehlt die `speak` Berechtigung in diesen Sprach-Kanal!",
     "need-embed-permission-for-goodbye" : "Mir fehlt die `embed links` Berechtigung, um eine Abschiedsnachricht in diesen Kanal senden zu können.",    
