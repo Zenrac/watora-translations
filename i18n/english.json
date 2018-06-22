@@ -2,6 +2,7 @@
     "need-manage-messages-permission" : "I lack the `manage messages` permission.",
     "need-manage-roles-permission" : "I lack the `manage roles` permission.",
     "need-embed-permission" : "I lack the `embed links` permission.",
+    "need-attach-files-permission" : "I lack the `attach files` permission.",    
     "need-connect-permission" : "I lack the `connect` permission in this voice channel !",
     "need-speak-permission" : "I lack the `speak` permission in this voice channel !",
     "need-embed-permission-for-goodbye" : "I lack the `embed links` permission in order to send goodbye messages in this channel.",    
@@ -545,6 +546,5 @@
     "music-download-only" : "Only youtube links can be downloaded.",
     "music-defvolume-set" : "The default volume on this server is now {}",
     "music-defvolume-reset" : "The default volume has been reset to {}", 
-    "music-defvolume-now" : "The current default volume is {}" 
-    
+    "music-defvolume-now" : "The current default volume is {}"     
 }
