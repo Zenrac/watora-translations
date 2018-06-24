@@ -44,7 +44,7 @@
     "bot-not-mp" : "Dieser Befehl kann nicht in Privatnachrichten benutzt werden.",
     "bot-not-enough-permissions" : "Du kannst diesen Befehl nicht benutzen, da dir die benötigten Berechtigungen fehlen.",
     
-    "cmd-clean-help" : "Löscht meine Nachrichten von diesen Kanal.\Wenn du nicht angibst, wie viele Nachrichten gelöscht werden sollen, werden 100 meiner Nachrichten gelöscht.",
+    "cmd-clean-help" : "Löscht meine Nachrichten von diesen Kanal.\nWenn du nicht angibst, wie viele Nachrichten gelöscht werden sollen, werden 100 meiner Nachrichten gelöscht.",
     "cmd-purge-help" : "Löscht bis zu (num_msg) Nachrichten in diesen Kanal.\nWenn du nicht angibst, wie viele Nachrichten gelöscht werden sollen, werden 100 Nachrichten gelöscht.",
     "cmd-stfu-help" : "Löscht bis zu (num_msg) Nachrichten von einen Benutzer in diesen Kanal.\nWenn du nicht angibst, wie viele Nachrichten gelöscht werden sollen, werden 100 Nachrichten gelöscht.",   
     "cmd-prefix-help" : "Manages the server prefix.",
