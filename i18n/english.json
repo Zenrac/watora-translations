@@ -568,5 +568,4 @@
     "music-autoleave-unreasonable" : "You have to choose a time between {} and {} seconds if you're not Patron on my server.",
     "music-autoleave-unreasonable-patron" : "You cannot set a time bigger than {}, use {} if you want me to never disconnect myself for inactivity.",
     "music-autoleave-never" : "Never"        
-    
 }
