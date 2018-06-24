@@ -179,9 +179,14 @@
     "cmd-defvolume-now-help" : "Zeigt mein momentanes Standartvolumen.",
     "cmd-defvolume-set-help" : "Setzt mein Standarvolumen.",
     "cmd-defvolume-reset-help" : "Setzt mein Standarvolumen zurück.", 
+    "cmd-autoleave-help" : "Activity time before disconnecting from voice channel management.",
+    "cmd-autoleave-now-help" : "Displays my current time before leaving the voice channel for inactivity.",
+    "cmd-autoleave-set-help" : "Edits my time before leaving the voice channel for inactivity.",
+    "cmd-autoleave-reset-help" : "Resets my time before leaving the voice channel for inactivity.",    
+    "cmd-autoleave-never-help" : "Disables my auto-disconnect function for inactivity.",      
+    "cmd-settings-help" : "Zeigt meine derzeitigen Gilden-Einstellungen an.",        
     
     "cmd-settings-title" : "Gilden-Einstellungen",    
-    "cmd-settings-help" : "Zeigt meine derzeitigen Gilden-Einstellungen an.",
     "cmd-settings-guild-pref" : "Präfix",
     "cmd-settings-language" : "Sprache",
     "cmd-settings-dj-roles" : "DJ Rollen",
@@ -553,5 +558,11 @@
     "music-download-only" : "Nur Lieder auf YouTube können gedownloadet werden.",
     "music-defvolume-set" : "Das Standartvolumen auf dem Server beträgt nun {}",
     "music-defvolume-reset" : "Das Standardvolumen wurde auf {} zurückgesetzt", 
-    "music-defvolume-now" : "Das derzeitige Standardvolumen beträgt {}" 
+    "music-defvolume-now" : "Das derzeitige Standardvolumen beträgt {}",
+    "music-autoleave-reset" : "The time before leaving the voice channel for inactivity has been reset to {}.", 
+    "music-autoleave-now" : "My current time before leaving the voice channel for inactivity is {}.",    
+    "music-autoleave-now-never" : "My auto-disconnect function for inactivity has been disabled, I'll not disconnect myself for inactivity.",    
+    "music-autoleave-unreasonable" : "You have to choose a time between {} and {} seconds if you're not Patron on my server.",
+    "music-autoleave-unreasonable-patron" : "You cannot set a time bigger than {}, use {} if you want me to never disconnect myself for inactivity.",
+    "music-autoleave-never" : "Never" 
 }
