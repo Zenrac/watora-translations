@@ -68,7 +68,7 @@
     "cmd-welcome-help" : "Enables a message that will be sent to the channel when someone join the server.\nIf you specify a picture url in your message, it will automatically hide your link.\nIn your messages you can use the following keywords and they will be replaced :\n\n@name : user's name\n@mention : user's mention\n@serv : server's name",
     "cmd-welcome-welcome_off-help" : "Deaktiviert die Willkommensnachricht auf diesen Kanal.",
     "cmd-goodbye-help" : "Enables a message that will be sent to the channel when someone leave the server.\nIf you specify a picture url in your message, it will automatically hide your link.\nIn your messages you can use the following keywords and they will be replaced :\n\n@name : user's name\n@mention : user's mention\n@serv : server's name",
-    "cmd-goodbye-goodbye_off-help" : "Deaktiviert die Abschiedsnachricht.",
+    "cmd-goodbye-goodbye_off-help" : "Deaktiviert die Abschiedsnachricht auf diesen Kanal.",
     "cmd-autorole-help" : "Sets an autorole (or several) for new members of the server.",
     "cmd-joinclan-help" : "Allows to get a role. You cannot have multiple clans at the same time.",
     "cmd-clan-help" : "Clans managing in this server.",
