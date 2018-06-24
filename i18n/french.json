@@ -29,7 +29,7 @@
     "music-not-in-dm" : "Les commandes musicales ne peuvent pas être utilisées en MP. Désolée!", 
     "music-not-my-channel" : "Vous devez être dans {} pour utiliser cette commande.",
     "music-longer-than-2-hours" : "Désolée, je ne peux pas jouer cette musique. Elle dépasse votre limite. Vous devez être Patron sur mon serveur pour ajouter des musiques de plus de 2 heures.",
-    "music-volume-higher-than-100" : "Vous devez être Patron to be Patron sur mon serveur pour mettre un volume supérieur à 100.",
+    "music-volume-higher-than-100" : "Vous devez être Patron sur mon serveur pour mettre un volume supérieur à 100.",
     "music-when-adding-pl" : "Vous ne pouvez pas ajouter de musique quand une playlist est en train de s'ajouter...",
     "music-processing-songs" : "Chargement de {} musiques...",
     "is-searching" : "Recherche...",
@@ -565,7 +565,7 @@
     "music-autoleave-reset" : "Le temps de déconnexion pour inactivité a été réinitialisé à {}.", 
     "music-autoleave-now" : "Le temps de déconnexion pour inactivité actuel est {}.",    
     "music-autoleave-now-never" : "Le temps de déconnexion pour inactivité est désactivé, je ne me déconnecterai pas pour inactivité.",    
-    "music-autoleave-unreasonable" : "Vous devez choisir un temps entre {} et {} secondes si vous n'êtes pas Patron.",
+    "music-autoleave-unreasonable" : "Vous devez choisir un temps entre {} et {} secondes si vous n'êtes pas Patron sur mon serveur.",
     "music-autoleave-unreasonable-patron" : "Vous ne pouvez pas sélectionner un temps supérieur à {}, utilisez {} si vous souhaitez que je ne me déconnecte jamais pour inactivité.",
     "music-autoleave-never" : "Jamais"    
 }
