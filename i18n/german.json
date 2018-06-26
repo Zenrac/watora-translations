@@ -577,5 +577,5 @@
     "music-npmsg-not-found" : "I didn't find a text channel {}",
     "music-npmsg-now" : "Now playing message at the beginning of new song is now sent on {}.",
     "music-npmsg-now-never" : "Now playing message at the beginning of new song is disabled.",
-    "music-npmsg-now-default" : "Now playing message are sent automatically depending of where you are using commands."      
+    "music-npmsg-now-default" : "Now playing message is sent automatically depending of where you are using commands."      
 }
