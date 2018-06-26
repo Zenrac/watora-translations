@@ -207,7 +207,7 @@
     "cmd-settings-pbl" : "Mots blacklist de play",
     "cmd-settings-lvc" : "Déconnexion après",
     "cmd-settings-dv" : "Volume par défaut",
-    "cmd-settings-np" : "Message de notification",       
+    "cmd-settings-np" : "Messages de notification",       
     "cmd-blacklist-added" : "Cet utilisateur a bien été ajouté à la blacklist du serveur.",
     "cmd-blacklist-a-bl" : "Cet utilisateur est déjà dans la blacklist du serveur.",
     "cmd-blacklist-removed" : "Cet utilisateur a été retiré de la blacklist du serveur.",
