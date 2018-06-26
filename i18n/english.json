@@ -188,7 +188,7 @@
     "cmd-npmsg-now-help" : "Displays my current setting about auto now playing messages at the beginning of new song.",
     "cmd-npmsg-set-help" : "Choose a default channel for auto now playing messages.",
     "cmd-npmsg-reset-help" : "Resets my setting about auto now playing messages at the beginning of new song.",    
-    "cmd-npmsg-never-help" : "Disable now playing message at the beginning of new song.",        
+    "cmd-npmsg-never-help" : "Disable now playing messages at the beginning of new song.",        
     "cmd-settings-help" : "Displays my current guild settings.",
     
     "cmd-settings-title" : "Guild settings",    
