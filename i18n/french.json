@@ -184,6 +184,11 @@
     "cmd-autoleave-set-help" : "Modifie mon temps de déconnexion pour inactivité.",
     "cmd-autoleave-reset-help" : "Réinitialise mon temps de déconnexion pour inactivité.",    
     "cmd-autoleave-never-help" : "Désactive ma déconnexion automatique pour inactivité.",      
+    "cmd-npmsg-help" : "Gestion du message de notification au début de chaque nouvelle musique.",
+    "cmd-npmsg-now-help" : "Affiche ma configuration sur l'envoi de message au début de chaque nouvelle musique.",
+    "cmd-npmsg-set-help" : "Défini un salon par défaut pour le message de notifications.",
+    "cmd-npmsg-reset-help" : "Réinitialise la configuration du message de notifications au début de chaque nouvelle musique.",    
+    "cmd-npmsg-never-help" : "Désactive l'envoi du message de notification au début de chaque nouvelle musique.",      
     "cmd-settings-help" : "Affiche mes paramètres actuels du serveur.",   
 
     "cmd-settings-title" : "Paramètres du serveur",
@@ -202,6 +207,7 @@
     "cmd-settings-pbl" : "Mots blacklist de play",
     "cmd-settings-lvc" : "Déconnexion après",
     "cmd-settings-dv" : "Volume par défaut",
+    "cmd-settings-np" : "Message de notification",       
     "cmd-blacklist-added" : "Cet utilisateur a bien été ajouté à la blacklist du serveur.",
     "cmd-blacklist-a-bl" : "Cet utilisateur est déjà dans la blacklist du serveur.",
     "cmd-blacklist-removed" : "Cet utilisateur a été retiré de la blacklist du serveur.",
@@ -567,5 +573,13 @@
     "music-autoleave-now-never" : "Le temps de déconnexion pour inactivité est désactivé, je ne me déconnecterai pas pour inactivité.",    
     "music-autoleave-unreasonable" : "Vous devez choisir un temps entre {} et {} secondes si vous n'êtes pas Patron sur mon serveur.",
     "music-autoleave-unreasonable-patron" : "Vous ne pouvez pas sélectionner un temps supérieur à {}, utilisez {} si vous souhaitez que je ne me déconnecte jamais pour inactivité.",
-    "music-autoleave-never" : "Jamais"    
+    "music-autoleave-never" : "Jamais",
+    "music-npmsg-reset" : "Le message de notification au début de chaque nouvelle musique est à nouveau envoyé automatiquement en fonction de là où vous utilisez les commandes.",
+    "music-npmsg-set" : "Le message de notification au début de chaque nouvelle musique s'enverra dans le salon {}.",
+    "music-npmsg-set-disabled" : "Le message de notification au début de chaque nouvelle musique est désormais désactivé.",
+    "music-npmsg-not-found" : "Je n'ai pas trouvé de salon textuel {}",
+    "music-npmsg-now" : "Le message de notification au début de chaque nouvelle musique est envoyé dans le salon {}.",
+    "music-npmsg-now-never" : "Le message de notification au début de chaque nouvelle musique est désactivé.",
+    "music-npmsg-now-default" : "Le message de notification au début de chaque nouvelle musique est envoyé automatiquement en fonction de là où vous utilisez les commandes."
+    
 }

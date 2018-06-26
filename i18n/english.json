@@ -183,7 +183,12 @@
     "cmd-autoleave-now-help" : "Displays my current time before leaving the voice channel for inactivity.",
     "cmd-autoleave-set-help" : "Edits my time before leaving the voice channel for inactivity.",
     "cmd-autoleave-reset-help" : "Resets my time before leaving the voice channel for inactivity.",    
-    "cmd-autoleave-never-help" : "Disables my auto-disconnect function for inactivity.",         
+    "cmd-autoleave-never-help" : "Disables my auto-disconnect function for inactivity.",       
+    "cmd-npmsg-help" : "Auto now playing messages management.",
+    "cmd-npmsg-now-help" : "Displays my current setting about auto now playing messages at the beginning of new song.",
+    "cmd-npmsg-set-help" : "Choose a default channel for auto now playing messages.",
+    "cmd-npmsg-reset-help" : "Resets my setting about auto now playing messages at the beginning of new song.",    
+    "cmd-npmsg-never-help" : "Disable now playing message at the beginning of new song.",        
     "cmd-settings-help" : "Displays my current guild settings.",
     
     "cmd-settings-title" : "Guild settings",    
@@ -202,6 +207,7 @@
     "cmd-settings-pbl" : "Play blacklist words",
     "cmd-settings-lvc" : "Leaving voice after",
     "cmd-settings-dv" : "Default volume",  
+    "cmd-settings-np" : "Now playing messages",       
     "cmd-blacklist-added" : "User has been blacklisted.",
     "cmd-blacklist-a-bl" : "User is already blacklisted.",
     "cmd-blacklist-removed" : "User has been removed from the guild blacklist.",
@@ -567,5 +573,13 @@
     "music-autoleave-now-never" : "My auto-disconnect function for inactivity has been disabled, I'll not disconnect myself for inactivity.",    
     "music-autoleave-unreasonable" : "You have to choose a time between {} and {} seconds if you're not Patron on my server.",
     "music-autoleave-unreasonable-patron" : "You cannot set a time bigger than {}, use {} if you want me to never disconnect myself for inactivity.",
-    "music-autoleave-never" : "Never"        
+    "music-autoleave-never" : "Never",    
+    "music-npmsg-reset" : "Now playing message at the beginning of new song is now sent automatically depending of where you are using commands.",
+    "music-npmsg-set" : "Now playing message at the beginning of new song will be send on {}.",
+    "music-npmsg-set-disabled" : "Now playing message at the beginning of new song is now disabled.",
+    "music-npmsg-not-found" : "I didn't find a text channel {}",
+    "music-npmsg-now" : "Now playing message at the beginning of new song is now sent on {}.",
+    "music-npmsg-now-never" : "Now playing message at the beginning of new song is disabled.",
+    "music-npmsg-now-default" : "Now playing message are sent automatically depending of where you are using commands."    
+    
 }
