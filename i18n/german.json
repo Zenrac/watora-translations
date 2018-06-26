@@ -447,7 +447,7 @@
     "music-play-adding-pl-cancelled" : "Adding playlist cancelled... I'm not in the voice channel anymore.",
     "music-play-added-pl" : "{} songs succefully added in the queue. (in {}s, about {}s per song)",
     "music-play-not-added-pl" : "Entschuldigung, aber es wurde kein Lied zur Playlist hinzugefügt.",
-    "music-bind-disabling" : "I'm not bind to any channel on this server anymore.",
+    "music-bind-disabling" : "I'm not bound to any channel on this server anymore.",
     "music-bind-enabling" : "I'm now bound to this channel on this server. Commands are now restricted to this channel only.",
     "music-stop-song-running" : "Es wird gerade noch ein Lied abgespielt, weshalb ich den Sprach-Kanal nicht verlassen kann!",
     "music-stop-vote" : "Your vote to make me disconnect myself has been added!",    

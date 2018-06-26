@@ -449,7 +449,7 @@
     "music-play-adding-pl-cancelled" : "Adding playlist cancelled... I'm not in the voice channel anymore.",
     "music-play-added-pl" : "{} songs succefully added in the queue. (in {}s, about {}s per song)",
     "music-play-not-added-pl" : "No song has been added. Sorry.",
-    "music-bind-disabling" : "I'm not bind to any channel anymore.",
+    "music-bind-disabling" : "I'm not bound to any channel anymore.",
     "music-bind-enabling" : "I'm now bound to this channel. Commands are now restricted to this channel only.",
     "music-stop-song-running" : "A song is running, I can't leave without votes!",
     "music-stop-vote" : "Your vote to make me disconnect myself has been added!",    
