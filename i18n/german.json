@@ -487,7 +487,7 @@
     "music-plnew-already-exists" : "Entschuldigung, aber die Autoplaylist {} existiert bereits!",
     "music-plnew-created" : "Neue Autoplaylist {} erstellt!",
     "music-plinfo-not-found" : "Entschuldigung, aber ich konnte diese Autoplaylist nicht finden!",
-    "music-plinfo-disabled" : "Die Autoplaylist ist zurzeit deaktiviert! Benutze {} um eine Autoplaylist zu laden oder gib den genauen Namen dieser an.",
+    "music-pl-disabled" : "Die Autoplaylist ist zurzeit deaktiviert! Benutze {} um eine Autoplaylist zu laden.",
     "music-plinfo-loading" : "Ich berechne die Autoplaylist, gedulte dich bitte einen Moment...",
     "music-plinfo-empty-auto" : "Es gibt kein Lied in dieser Autoplaylist, benutze {} um welche hinzuzufügen!",
     "music-plinfo-not-accessible" : "{} IST NICHT ERREICHBAR, ENTFERNE ES MIT {}",
