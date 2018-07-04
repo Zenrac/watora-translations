@@ -452,7 +452,7 @@
     "cmd-marry-a-together" : "Mais vous êtes déjà mariés ensemble !",
     "cmd-marry-confirmation" : "Vous avez 120 secondes pour écrire {} ou {}",
     "cmd-marry-happily" : "Vive les mariés",
-    "cmd-marry-success" : "Félicitations, {} et {} sont désormais liés par les liens du mariage !",
+    "cmd-marry-success" : "Félicitations, {} et {} sont désormais liés par les liens du mariage!",
     "cmd-marry-declined" : "Désolée {}, votre demande en mariage a été refusée...",
     "cmd-divorce-a-single" : "Vous êtes déjà célibataire...",
     "cmd-divorce-success" : "Compris, vous êtes désormais célibataire !",    

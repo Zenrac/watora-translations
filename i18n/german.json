@@ -450,7 +450,7 @@
     "cmd-marry-a-together" : "But you are already married together !",
     "cmd-marry-confirmation" : "You have 120 seconds to write {} or {}",
     "cmd-marry-happily" : "Happily married",
-    "cmd-marry-success" : "Congratulations, {} and {} are now bound by marriage !",
+    "cmd-marry-success" : "Congratulations, {} and {} are now bound by marriage!",
     "cmd-marry-declined" : "Sorry {}, your proposal has been declined...",
     "cmd-divorce-a-single" : "You're already single...",
     "cmd-divorce-success" : "Understand, now you're single !",    
