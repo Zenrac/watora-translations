@@ -124,7 +124,7 @@
     "cmd-setrole-help" : "Configures which roles can be obtained with the getrole command.\nreset : removes every roles which can be obtained with the getrole command.\nnow : displays every roles which can be obtained with the getrole command.",
     "cmd-getrole-help" : "Allows to get a role or to remove it. Warning, this is case sensitive.",
     "cmd-join-help" : "Summons me into your voice channel or into the specified one.",
-    "cmd-play-help" : "Plays a song with an url or key words.",
+    "cmd-play-help" : "Enqueues a song with an url or keywords.\nCan also enqueue a stream or a radio.",
     "cmd-bind-help" : "Avoid the use of the commands in every channel except in the one where the command is used.",
     "cmd-stop-help" : "Stops the player and clears the queue.",
     "cmd-pause-help" : "Pauses the currently playing song.",
@@ -148,7 +148,7 @@
     "cmd-plinfo-help" : "Gives informations about an autoplaylist, if you don't specify one, about the current autoplaylist.",
     "cmd-pl-repair-help" : "Repairs an autoplaylist, if you don't specify one, repairs the current autoplaylist.",
     "cmd-plrepair-help" : "Repairs an autoplaylist, if you don't specify one, repairs the current autoplaylist.",
-    "cmd-lyrics-help" : "Displays the lyrics of a song.\nIf you don't specify any url or key words, it displays the current song lyrics.",
+    "cmd-lyrics-help" : "Displays the lyrics of a song.\nIf you don't specify any url or keywords, it displays the current song lyrics.",
     "cmd-pladd-help" : "Adds a song to the current autoplaylist, if you don't specify an url, adds the current song to the autoplaylist.\nYou can use keywords to try to add it without url.",
     "cmd-pl-add-help" : "Adds a song to the current autoplaylist, if you don't specify an url, adds the current song to the autoplaylist.\nYou can use keywords to try to add it without url.",
     "cmd-pl-remove-help" : "Removes a song to the current autoplaylist, if you don't specify an url, removes the current song from the autoplaylist.\nYou can use keywords to try to remove it without url.\nYou can specify the position in the autoplaylist (can be find with plinfo)",
@@ -191,6 +191,8 @@
     "cmd-npmsg-reset-help" : "Resets my setting about auto now playing messages at the beginning of new song.",    
     "cmd-npmsg-never-help" : "Disable now playing messages at the beginning of new song.",        
     "cmd-settings-help" : "Displays my current guild settings.",
+    "cmd-marry-help" : "Marries you to an user.",
+    "cmd-divorce-help" : "Divorces you from whoever you were married to.",
     
     "cmd-settings-title" : "Guild settings",    
     "cmd-settings-guild-pref" : "Prefix",
@@ -391,6 +393,7 @@
     "cmd-userinfo-roles" : "Roles",
     "cmd-userinfo-member" : "Member",
     "cmd-userinfo-user-id" : "User ID",
+    "cmd-userinfo-married-with" : "Married with",
     "cmd-serverinfo-since" : "Since {}. That's over {} days ago!",
     "cmd-serverinfo-region" : "Region",
     "cmd-serverinfo-users" : "Users",
@@ -441,6 +444,19 @@
     "cmd-getrole-not-enough-perm-add" : "I don't have enough permissions to give the {} role.",    
     "cmd-getrole-remove-succes" : "{}, I remove your {} role.",
     "cmd-getrole-add-succes" : "You now have the `{}` role !",
+    "cmd-marry-too-young" : "But... I'm too young for that !",
+    "cmd-marry-married-to" : "Married to {}",
+    "cmd-marry-proposed" : "{} has proposed to {}",
+    "cmd-marry-user-a-married" : "Sorry, {} is already married with {}.",
+    "cmd-marry-author-a-married" : "Sorry but you are already married!\nUse {} if you want to divorce.",
+    "cmd-marry-a-together" : "But you are already married together !",
+    "cmd-marry-confirmation" : "You have 120 seconds to write {} or {}",
+    "cmd-marry-happily" : "Happily married",
+    "cmd-marry-success" : "Congratulations, {} and {} are now bound by marriage !",
+    "cmd-marry-declined" : "Sorry {}, your proposal has been declined...",
+    "cmd-divorce-a-single" : "You're already single...",
+    "cmd-divorce-success" : "Understand, now you're single !",
+    
 
     "music-join-playing-a-song" : "I'm already playing a song in a voice channel. You don't have enough permission to make me join yours.",
     "music-join-no-channel" : "No channel to join. Please either specify a valid channel or join one.",
@@ -585,6 +601,5 @@
     "music-npmsg-not-found" : "I didn't find a text channel {}",
     "music-npmsg-now" : "Now playing message at the beginning of new song is now sent on {}.",
     "music-npmsg-now-never" : "Now playing message at the beginning of new song is disabled.",
-    "music-npmsg-now-default" : "Now playing message is sent automatically depending of where you are using commands."    
-    
+    "music-npmsg-now-default" : "Now playing message is sent automatically depending of where you are using commands."        
 }
