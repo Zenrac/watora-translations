@@ -378,7 +378,7 @@
     "cmd-userinfo-voice-members" : "{} avec {} autres",
     "cmd-userinfo-voice-alone" : "{} avec lui-même",
     "cmd-userinfo-not-connected" : "Pas connecté.",
-    "cmd-userinfo-day-ago" : "Il y a {} jours",
+    "cmd-userinfo-day-ago" : "Il y a {} jour",
     "cmd-userinfo-days-ago" : "Il y a {} jours",
     "cmd-userinfo-listening-music" : "Ecoute {} par {}", 
     "cmd-userinfo-playing" : "Joue à",
