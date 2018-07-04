@@ -192,7 +192,7 @@
     "cmd-npmsg-never-help" : "Désactive l'envoi du message de notification au début de chaque nouvelle musique.",      
     "cmd-settings-help" : "Affiche mes paramètres actuels du serveur.",   
     "cmd-marry-help" : "Vous marie avec un utilisateur.",
-    "cmd-divorce-help" : "Vous divorce peut importe l'utilisateur avec qui vous êtiez marié.",    
+    "cmd-divorce-help" : "Vous divorce peut importe avec qui vous étiez marié.",    
 
     "cmd-settings-title" : "Paramètres du serveur",
     "cmd-settings-guild-pref" : "Préfixe",
