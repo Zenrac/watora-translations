@@ -298,7 +298,7 @@
     "cmd-customcommand-raw-content" : "Le contenu de la commande customisée {} est :",
     "cmd-customcommand-raw-dont-exist" : "Cette commande n'existe pas.",
     "cmd-customcommand-raw-no-cc" : "Il n'a pas de commande customisée sur ce serveur. Utilisez {} pour commencer à en ajouter.",
-    "cmd-customcommand-success-edit" : "Commande customisée édité avec succès.",
+    "cmd-customcommand-success-edit" : "Commande customisée éditée avec succès.",
     "cmd-customcommand-failed-edit" : "Cette commande n'existe pas. Utilisez {} pour en ajouter.",    
     "cmd-customcommand-deleted" : "Commande customisée supprimée avec succès.",
     "cmd-customcommand-list" : "**Liste des commandes customisées:**\n", 
