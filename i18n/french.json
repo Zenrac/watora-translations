@@ -456,6 +456,8 @@
     "cmd-marry-declined" : "Désolée {}, votre demande en mariage a été refusée...",
     "cmd-divorce-a-single" : "Vous êtes déjà célibataire...",
     "cmd-divorce-success" : "Compris, vous êtes désormais célibataire !",    
+    "cmd-divorce-cancelled" : "Divorce annulé.",  
+    "cmd-divorce-confirmation" : "Voulez-vous vraiment divorcer avec {} ? Vous êtes mariés depuis le {}.\nÉcrivez {} ou {}.",       
 
     "music-join-playing-a-song" : "Je joue déjà une musique dans un salon vocal. Vous n'avez pas assez de permission pour me faire rejoindre le vôtre.",
     "music-join-no-channel" : "Aucun salon à rejoindre. S'il vous plaît, spécifiez-en un ou connectez-vous.",
