@@ -9,8 +9,8 @@
     "need-embed-permission-for-goodbye" : "I lack the `embed links` permission in order to send goodbye messages in this channel.",    
     "need-embed-permission-for-welcome" : "I lack the `embed links` permission in order to send welcome messages in this channel.", 
     "need-nsfw-channel-to-be-used" : "You have to be in a NSFW channel to use this command!",
-    "cant-send-pm" : "I can't send you a DM, try to send me this command in DM.",
-    "message-send-to-mp" : "Message sent, check your DM!",
+    "cant-send-pm" : "I can't send you a DM, try to send me this command in DMs.",
+    "message-send-to-mp" : "Message sent, check your DMs!",
     "have-to-be-lover" : "You have to be Lover on my server to do that!",
     
     "command-invalid-usage" : "That doesn't seem to be a valid option. Use `{}` for further information.",  
