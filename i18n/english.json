@@ -532,7 +532,7 @@
     "music-plinfo-display" : "The autoplaylist {} has {} songs !",
     "music-plinfo-warnings" : "Warning : There are {} dead links in your autoplaylist. You can remove them all with {}",
     "music-plinfo-warning" : "Warning : There is a dead link in your autoplaylist. You can remove it easily with {}",
-    "music-plinfo-too-much" : "The autoplaylist has too much songs to be displayed here. I'm going to send you the autoplaylist content in DM in few seconds.",
+    "music-plinfo-too-much" : "The autoplaylist has too much songs to be displayed here. I'm going to send you the autoplaylist content in DMs in few seconds.",
     "music-plrepair-someone" : "You can only edit your own personal autoplaylist.",
     "music-plrepair-loading" : "I'm repairing this autoplaylist, please wait...",
     "music-plrepair-all-ok" : "Everything is okay, this autoplaylist don't need to be repaired !",
