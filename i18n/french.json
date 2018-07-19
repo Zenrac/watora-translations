@@ -476,6 +476,7 @@
     "music-plsettings-nobody" : "Personne",  
     "music-plsettings-personal" : "Personnelle",      
     "music-plsettings-autopl" : "Autoplaylist personnelle de {}",
+    "music-plsettings-got-deleted" : "L'autoplaylist actuelle a été supprimée. Vous ne pouvez pas la modifier ou afficher des informations dessus.",         
     
     "music-join-playing-a-song" : "Je joue déjà une musique dans un salon vocal. Vous n'avez pas assez de permission pour me faire rejoindre le vôtre.",
     "music-join-no-channel" : "Aucun salon à rejoindre. S'il vous plaît, connectez-vous.",
