@@ -284,7 +284,7 @@
     "cmd-ily-nope" : "I'm not in love with you...",
     "cmd-ily-yes" : "Me too :heart:|Seriously ? >///<|It's too much >///< :heart:|I'm in love with you since a long time :heart:|I know, and you know my feelings too :heart:|Thanks! Me too :heart: :heart:",
     "cmd-ily-no" : "Not me... :broken_heart:|Stop harassing me...|I've already answered no...|Sorry, it's not reciprocal...|But ... do I know you?|I prefer to stay friend with you..|Sorry.. I'm already with someone...",
-    "cmd-roll" : "{} get a {}.",
+    "cmd-roll" : "{} gets a {}.",
     "cmd-flip-nice-try" : "Nice try. How about this instead ?",
     "cmd-flip-success" : "flips a coin and it gives...",
     "cmd-flip-tails" : "TAILS!",
