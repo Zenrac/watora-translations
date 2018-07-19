@@ -77,7 +77,7 @@
     "cmd-clan-list-help" : "Displays the available clans of the server.",   
     "cmd-8ball-help" : "Beantwortet dir zufällig eine Frage.",
     "cmd-ily-help" : "Wenn du wissen möchtest, ob ich dich liebe.",
-    "cmd-roll-help" : "Generates a random number between 0 and the max specifed.\nCan also generates a random number between two numbers.\nOtherwise generates a random number between 0 and 100.",
+    "cmd-roll-help" : "Generates a random number between 0 and the max specifed.\nCan also generate a random number between two numbers.\nOtherwise generate a random number between 0 and 100.",
     "cmd-flip-help" : "Wirft eine Münze, wenn kein Benutzer angegeben ist. Anderfalls wird der Benutzer geworfen.",
     "cmd-dog-help" : "Zeigt ein zufälliges Bild von einem Hund.",
     "cmd-cat-help" : "Zeigt ein zufälliges Bild von einer Katze.",
