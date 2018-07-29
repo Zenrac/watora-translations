@@ -1,7 +1,7 @@
 # Watora Translations
 
 You can translate yourself Watora to your own languages.<br>
-You can also correct my spelling mistakes.<br><br> 
+You can also correct my spelling mistakes.<br>
 
 ### Before trying to translate the bot, this is some things to know :<br><br> 
 
