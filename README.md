@@ -13,6 +13,6 @@ You can also correct my spelling mistakes.<br><br>
 
 - In short : Do not remove the following characters : ``` * ` {} \n``` <br><br>
  
-If you have any questions you can DM me on discord (Zenrac#0001), otherwise if you are looking for people to translate together take a look to the channel translations-help on [the Watora's offical discord](https://discord.gg/ArJgTpM "Watora's server").<br><br>
+If you have any questions you can DM me on discord (Zenrac#0001), otherwise if you are looking for people to translate together take a look to the channel *#translations-help* on [Watora's offical discord](https://discord.gg/ArJgTpM "Watora's server").<br><br>
 
 Anyway, a special role **Translator** has been added in the [Watora's server](https://discord.gg/ArJgTpM) roles. Some credits are also displayed in the credits commands, and maybe other stuff will be added later.<br><br>
