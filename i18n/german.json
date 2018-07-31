@@ -595,7 +595,7 @@
     "music-setdj-modified" : "My DJ permissions are now granted to everyone on this server.",
     "music-setdj-are-now" : "The server DJ roles are now : {}",
     "music-setdj-is-now" : "The server DJ role is now : {}",
-    "music-radio-invalid-syntax" : "Dieses Radio ist mir unbekannt. Überprüfe deine Rechtsschreibung oder benutze {}, um dir eine Liste aller Verfügbaren Radiostationen anzeigen zu lassen.",
+    "music-radio-invalid-syntax" : "Dieses Radio ist mir unbekannt. Überprüfe deine Rechtsschreibung oder benutze {}, um dir eine Liste aller Verfügbaren Radiostationen anzeigen zu lassen. Otherwrise you can find a fallback URL and play it with the play command.",
     "music-radio-list-title" : "Verfügbare Radiostationen",
     "music-search-ensure" : "Überprüfe bitte deine Suchanfrage (Formuliere diese eventuell um).",
     "music-search-max" : "Du kannst nicht mehr als {} Videos auf einmal suchen.",
