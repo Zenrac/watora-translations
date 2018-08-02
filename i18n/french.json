@@ -71,7 +71,7 @@
     "cmd-goodbye-help" : "Active un message qui sera envoyé lorsque des utilisateurs quitteront le serveur.\nSi vous spécifiez un url d'une image, ça cachera automatiquement le lien.\nDans vos messages, vous pouvez utiliser les mots clés suivants et ils seront remplacés :\n\n@name : Le nom de l'utilisateur\n@mention : Mentionne l'utilisateur\n@serv : Le nom du serveur\n@id : L'ID de l'utilisateur\n@number : Nombre de membre sur le serveur",
     "cmd-goodbye-goodbye_off-help" : "Désactive le message d'au revoir sur ce salon.",
     "cmd-autorole-help" : "Configure un rôle automatique (ou plusieurs) pour les nouveaux membres sur le serveur.",
-    "cmd-joinclan-help" : "Permet d'obtenir un rôle ou de le retirer. Vous ne pouvez pas avoir plusieurs clan à la fois.",
+    "cmd-joinclan-help" : "Permet d'obtenir un rôle ou de le retirer. Vous ne pouvez pas avoir plusieurs clans à la fois.",
     "cmd-clan-help" : "Gestion des clans sur le serveur.",
     "cmd-clan-add-help" : "Permet d'ajouter un clan au serveur, les membres peuvent le rejoindre avec joinclan.",
     "cmd-clan-delete-help" : "Permet de supprimer une clan du serveur.",
