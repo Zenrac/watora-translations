@@ -174,7 +174,7 @@
     "cmd-radio-list-help" : "Affiche la liste des radios disponibles.",
     "cmd-search-help" : "Recherche plusieurs vidéos en même temps avec les paramètres choisis.\nVous pouvez ajouter une d'entre-elles à la playlist. Si aucun service n'est spécifié, youtube est choisis par défaut.\n\nListe des service (plateforme sur laquelle est cherchée la vidéo) :\n- youtube (yt) (par défaut)\n- soundcloud (sc)",
     "cmd-moveto-help" : "Permet de se déplacer vers un certain moment de la musique.",
-    "cmd-download-help" : "Permet d'obtenir un lien de téléchargement de la musique actuelle.",
+    "cmd-download-help" : "Permet d'obtenir un lien de téléchargement d'une vidéo YouTube.\nSi vous ne spécifiez pas d'URL, pour la musique actuelle.",
     "cmd-defvolume-help" : "Gestion du volume par défaut.",
     "cmd-defvolume-now-help" : "Affiche mon volume par défaut actuel.",
     "cmd-defvolume-set-help" : "Modifie mon volume par défaut.",

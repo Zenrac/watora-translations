@@ -174,7 +174,7 @@
     "cmd-radio-list-help" : "Displays the list of my available radio stations.",
     "cmd-search-help" : "Searches multiple videos at once with the selected parameters.\nYou can add one of them to the queue. If no service are specified, youtube is selected by default.\n\nList of the services (platform where the video is searched) :\n- youtube (yt) (by default)\n- soundcloud (sc)",
     "cmd-moveto-help" : "Moves the song to a specific moment.",
-    "cmd-download-help" : "Allows to create a download link of the current song.",
+    "cmd-download-help" : "Allows to create a download link for a youtube video.\nIf don't specify an URL, for the current song.",
     "cmd-defvolume-help" : "Default volume manager.",
     "cmd-defvolume-now-help" : "Displays the current default volume.",
     "cmd-defvolume-set-help" : "Sets the default volume.",
