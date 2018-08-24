@@ -531,7 +531,7 @@
     "music-plnow-now" : "L'autoplaylist actuelle est {} !",
     "music-plstart-loaded-user" : "L'autoplaylist personnelle de {} a été chargée!",
     "music-plstart-your-loaded" : "Votre autoplaylist personnelle a été chargée!",
-    "music-plstart-loaded" : "L'autoplaylist {} a été chargé!",
+    "music-plstart-loaded" : "L'autoplaylist {} a été chargée!",
     "music-plstart-dont-have" : "Désolée! Cet utilisateur n'a pas d'autoplaylist personnelle.",
     "music-plstart-doesnt-exists" : "L'autoplaylist nommée {} n'existe pas! S'il vous plaît, vérifiez votre message ou utilisez {} si vous souhaitez la créer.",
     "music-plnew-special-char" : "S'il vous plaît, n'utilisez pas de caractères spéciaux.",
