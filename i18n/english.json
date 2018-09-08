@@ -45,9 +45,9 @@
     "bot-not-mp" : "This command cannot be used in DMs.",
     "bot-not-enough-permissions" : "You cannot use this command. You don't have enough permissions.",
     
-    "cmd-clean-help" : "Cleans up my messages from the channel.\nIf you don't specify a search number, 100 messages will be deleted.",
-    "cmd-purge-help" : "Removes up to (num_msg) messages posted in chat.\nIf you don't specify a search number, 100 messages will be deleted.",
-    "cmd-stfu-help" : "Removes up to (num_msg) messages posted in chat from a user.\nIf you don't specify a search number, 100 messages will be deleted.",   
+    "cmd-clean-help" : "Cleans up my messages from the channel.\nIf you don't specify a search number, up to 100 messages will be deleted.",
+    "cmd-purge-help" : "Removes up to (num_msg) messages posted in chat.\nIf you don't specify a search number, up to 100 messages will be deleted.",
+    "cmd-stfu-help" : "Removes up to (num_msg) messages posted in chat from a user.\nIf you don't specify a search number, up to 100 messages will be deleted.",   
     "cmd-prefix-help" : "Manages the server prefix.",
     "cmd-prefix-change-help" : "Allows to change the current server prefix.",
     "cmd-prefix-reset-help" : "Resets the server prefix to the global one.",
