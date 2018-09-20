@@ -222,7 +222,8 @@
     
     "cmd-blacklist-added" : "User has been blacklisted.",
     "cmd-blacklist-r-added" : "This role has been blacklisted.",    
-    "cmd-blacklist-r-removed" : "This role has been removed from the guild blacklist.",    
+    "cmd-blacklist-r-removed" : "This role has been removed from the guild blacklist.",   
+    "cmd-blacklist-r-a-bl" : "Role is already blacklisted.",    
     "cmd-blacklist-a-bl" : "User is already blacklisted.",
     "cmd-blacklist-removed" : "User has been removed from the guild blacklist.",
     "cmd-blacklist-not-bl" : "User is not blacklisted.",

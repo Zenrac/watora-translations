@@ -223,7 +223,8 @@
     
     "cmd-blacklist-added" : "Cet utilisateur a été ajouté à la blacklist du serveur.",
     "cmd-blacklist-r-added" : "Ce rôle a été ajouté à la blacklist du serveur.",    
-    "cmd-blacklist-r-removed" : "Ce rôle a été retiré à la blacklist du serveur.",       
+    "cmd-blacklist-r-removed" : "Ce rôle a été retiré à la blacklist du serveur.",  
+    "cmd-blacklist-r-a-bl" : "Ce rôle est déjà dans la blacklist du serveur.",    
     "cmd-blacklist-a-bl" : "Cet utilisateur est déjà dans la blacklist du serveur.",
     "cmd-blacklist-removed" : "Cet utilisateur a été retiré de la blacklist du serveur.",
     "cmd-blacklist-not-bl" : "Cet utilisateur n'est pas dans la blacklist du serveur.",
