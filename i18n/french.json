@@ -207,7 +207,7 @@
     "cmd-settings-o-roles" : "Rôles obtenables",
     "cmd-settings-cc" : "Commandes customisées",
     "cmd-settings-dc" : "Commandes désactivées",
-    "cmd-settings-bluser" : "Utilisateurs blacklist",
+    "cmd-settings-bluser" : "Blacklist",
     "cmd-settings-wm" : "Messages de bienvenue",
     "cmd-settings-gm" : "Messages d'au revoir",
     "cmd-settings-ic" : "Salons ignorés",

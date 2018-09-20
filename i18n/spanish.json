@@ -205,7 +205,7 @@
     "cmd-settings-o-roles" : "Obtainable roles",
     "cmd-settings-cc" : "Custom commands",
     "cmd-settings-dc" : "Disabled commands",
-    "cmd-settings-bluser" : "Blacklisted users",    
+    "cmd-settings-bluser" : "Blacklist",    
     "cmd-settings-wm" : "Welcome messages",
     "cmd-settings-gm" : "Goodbye messages",
     "cmd-settings-ic" : "Ignored channels",
