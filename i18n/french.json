@@ -254,7 +254,7 @@
     "cmd-kick-confirmation-kick" : "Voulez-vous vraiment kick **{}** ? Ecrivez `yes` ou `no`.",
     "cmd-kick-cancelling-kick" : "Kick annulé, pas de réponse...",
     "cmd-kick-kicked" : "Vous avez été kick de **{}** par",
-    "cmd-kick-failed" : "Mais le ban n'a pas fonctionné!",
+    "cmd-kick-failed" : "Mais le kick n'a pas fonctionné!",
     "cmd-kick-succes" : "{} a été kick par",
     "cmd-kick-cancelled" : "Kick annulé.",
     "cmd-ban-confirmation-ban" : "Voulez-vous vraiment ban **{}** ? Ecrivez `yes` ou `no`.",
