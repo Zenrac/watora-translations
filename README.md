@@ -1,5 +1,6 @@
 # Watora Translations
 
+Watora is a Music discord bot.<br>
 You can translate yourself Watora to your own languages.<br>
 You can also correct my spelling mistakes.<br>
 
