@@ -535,7 +535,7 @@
     "music-plstart-your-loaded" : "Your personal autoplaylist has been loaded!",
     "music-plstart-loaded" : "The autoplaylist {} has been loaded!",
     "music-plstart-dont-have" : "Sorry! This user don't have a personal autoplaylist.",
-    "music-plstart-doesnt-exists" : "La lista automática llamo {} no existe! Pro favor verifique su mensaje o teclee  {} si quiere crearla.",
+    "music-plstart-doesnt-exists" : "La lista automática llamada {} no existe! Pro favor verifique su mensaje o teclee  {} si quiere crearla.",
     "music-plnew-special-char" : "Por favor no use caractares especiales.",
     "music-plnew-try-to-hack" : "No puedes crear una lista personal asi, y menos si no es tu ID.",
     "music-plnew-already-exists" : "{} ya existe! perdon...",
