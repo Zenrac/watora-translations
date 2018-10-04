@@ -66,7 +66,7 @@
     "cmd-ban-help" : "Banea a un usuario del servidor.",
     "cmd-hackban-help" : "Banea a un usuario del servidor por su ID.",
     "cmd-welcome-help" : "Habilita un mensaje que será enviado al canal cuando alguien se una al servidor.\nSi escribes una url de una imagen en el mensaje, automáticamente esconde el enlace.\nEn tus mensajes puedes usar las siguientes palabras clave y estas serán reemplazadas:\n\n@name : Nombre de usuario\n@mention : Mención de usuario\n@serv : Nombre del servidor\n@id : ID de usuario\n@number : Numero de usuarios en el servidor",
-    "cmd-welcome-welcome_off-help" : "Deshabilita el mensaje de bienvenida en el canal",
+    "cmd-welcome-welcome_off-help" : "Deshabilita el mensaje de bienvenida en el canal.",
     "cmd-goodbye-help" :  "Habilita un mensaje que será enviado al canal cuando alguien deje servidor.\nSi escribes una url de una imagen en el mensaje, automáticamente esconde el enlace.\nEn tus mensajes puedes usar las siguientes palabras clave y estas serán reemplazadas:\n\n@name : Nombre de usuario\n@mention : Mención de usuario\n@serv : Nombre del servidor\n@id : ID de usuario\n@number : Numero de usuarios en el servidor",
     "cmd-goodbye-goodbye_off-help" : "Deshabilita el mensaje de despedida del canal",
     "cmd-autorole-help" : "Selecciona un autorrol(o several) para nuevos miembros en el servidor",
