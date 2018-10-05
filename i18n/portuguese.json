@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 ﻿{
     "need-manage-messages-permission" : "Preciso de permissão para `gerência de mensagens`.",
     "need-manage-roles-permission" : "Preciso de permissão para `gerêia de papeis`.",
+=======
+{
+    "need-manage-messages-permission" : "Preciso de permissão para `gerência de mensagens`.",
+    "need-manage-roles-permission" : "Preciso de permissão para `gerência de papeis`.",
+>>>>>>> b5fc35d15c6d120dbf13a65b28e73c361ad2fd22
     "need-embed-permission" : "Preciso de permissão para `embutir links`.",
     "need-attach-files-permission" : "Preciso de permissão para `anexar arquivos`.",   
     "need-add-emojis" : "Preciso de permissão para `adicionar reações`.",      
@@ -9,7 +15,11 @@
     "need-embed-permission-for-goodbye" : "Preciso de permissão para `embutir links` para enviar mensagens de despedida nesse canal.",    
     "need-embed-permission-for-welcome" : "Preciso de permissão para `embutir links` para enviar mensagens de boas vindas nesse canal.", 
     "need-nsfw-channel-to-be-used" : "Você deve estar em um canal NSFW para utilizar esse comando!",
+<<<<<<< HEAD
     "cant-send-pm" : "Eu não posso enviar para Você uma DM, tente enviar esse comando pelas DMs.",
+=======
+    "cant-send-pm" : "Eu não posso enviar para você uma DM, tente enviar esse comando pelas DMs.",
+>>>>>>> b5fc35d15c6d120dbf13a65b28e73c361ad2fd22
     "message-send-to-mp" : "Mesagem enviada, verifique suas DMs!",
     "have-to-be-lover" : "Você deve ser um Lover no meu servidor para fazer isso!",
     
@@ -32,7 +42,11 @@
     "music-not-in-dm" : "Comandos de música não podem ser utilizadas em DMs. Desculpa!", 
     "music-not-my-channel" : "Você deve colocar entre {} para utilizar esse comando.",
     "music-volume-higher-than-100" : "Você deve ser um Patron no meu servidor para configurar o volume para mais do que 100.",
+<<<<<<< HEAD
     "music-when-adding-pl" : "Você não pode adicionar música quando a sua lista de músicas já foi previamente adicionada...",
+=======
+    "music-when-adding-pl" : "Você não pode adicionar músicas quando a sua lista de música já foi previamente adicionada...",
+>>>>>>> b5fc35d15c6d120dbf13a65b28e73c361ad2fd22
     "is-searching" : "Buscando...",
     "no-result" : "Sem resultado.",
     "not-connected" : "Eu não atualmente conectado I am not currently connected to voice!",
@@ -46,7 +60,11 @@
     "bot-not-enough-permissions" : "Você não pode utilizar esse comando. Você não tem as permissões necessárias.",
     
     "cmd-clean-help" : "Limpa as minhas mensagens de um canal.\nSe não especificar um número na busca, até 100 mensagens serão apagadas.",
+<<<<<<< HEAD
     "cmd-purge-help" : "Retira até (num_msg) mensagens enviadas na conversa.\nSe não especificar um número na busca, atá 100 mensagens serão apagadas.",
+=======
+    "cmd-purge-help" : "Retira até (num_msg) mensagens enviadas na conversa.\nSe não especificar um número na busca, até 100 mensagens serão apagadas.",
+>>>>>>> b5fc35d15c6d120dbf13a65b28e73c361ad2fd22
     "cmd-stfu-help" : "Retira até (num_msg) mensagens enviadas na conversa de um usuário. posted in chat from a user.\nSe não especificar um número na busca, até 100 mensagens serão apagadas.",   
     "cmd-prefix-help" : "Gerencia o prefixo do servidor.",
     "cmd-prefix-change-help" : "Permite mudar o prefixo atual do servidor.",
@@ -66,10 +84,17 @@
     "cmd-kick-help" : "Expulsa um usuário do servidor.",
     "cmd-ban-help" : "Bane um usuário do servidor.",
     "cmd-hackban-help" : "Bane um usuário do servidor a partir do seu ID.",
+<<<<<<< HEAD
     "cmd-welcome-help" : "Habilita as mensagens que serão enviadas ao canal quando alguém entra no servidor.\nSe você especificar uma url de imagem na sua mensagem, ela irá esconder automaticamente seu link.\nPode utilizar as seguinte palavras reservadas em suas mensagens e elas serão substituídas:\n\n@name : Nome do usuário\n@mention : Referência ao usuário\n@serv : Nome do servidor\n@id : ID do usuário\n@number : Número do usuário no servidor",
     "cmd-welcome-welcome_off-help" : "Desabilita as mensagens de bem vindo do canal.",
     "cmd-goodbye-help" : "Habilita as mensagens que serão enviadas ao canal quando alguém deixar o servidor.\nSe você especificar uma url de imagem na sua mensagem, ela irá esconder automaticamente seu link.\nPode utilizar as seguinte palavras reservadas em suas mensagens e elas serão substituídas:\n\n@name : Nome do usuário\n@mention : Referência ao usuário\n@serv : Nome do servidor\n@id : ID do usuário\n@number : Número do usuário no servidor",
     "cmd-goodbye-goodbye_off-help" : "Desabilita as mensagens de despedida do canal.",
+=======
+    "cmd-welcome-help" : "Enables a message that will be sent to the channel when someone join the server.\nIf you specify a picture url in your message, it will automatically hide your link.\nIn your messages you can use the following keywords and they will be replaced :\n\n@name : User name\n@mention : User mention\n@serv : Server name\n@id : User ID\n@number : User number on server",
+    "cmd-welcome-welcome_off-help" : "Disables the welcome message on the channel.",
+    "cmd-goodbye-help" : "Enables a message that will be sent to the channel when someone leave the server.\nIf you specify a picture url in your message, it will automatically hide your link.\nIn your messages you can use the following keywords and they will be replaced :\n\n@name : User name\n@mention : User mention\n@serv : Server name\n@id : User ID\n@number : Number of user on the server",
+    "cmd-goodbye-goodbye_off-help" : "Disables the goodbye message on the channel.",
+>>>>>>> b5fc35d15c6d120dbf13a65b28e73c361ad2fd22
     "cmd-autorole-help" : "Sets an autorole (or several) for new members of the server.",
     "cmd-joinclan-help" : "Permite pegar um papel. Você não pode ter clãs multiplos ao mesmo tempo.",
     "cmd-clan-help" : "Gerência de Clãs nesse servidor.",
@@ -194,9 +219,15 @@
     "cmd-npmsg-set-help" : "Escolhe um canal padrão para as mensagens de notificação automáticas.",
     "cmd-npmsg-reset-help" : "Resets my setting about auto now playing messages at the beginning of new song.",    
     "cmd-npmsg-never-help" : "Disable now playing messages at the beginning of new song.",        
+<<<<<<< HEAD
     "cmd-settings-help" : "Exibe as minhas configuralçies atuais do servidor.",
     "cmd-marry-help" : "Casar você com um usuário.",
     "cmd-divorce-help" : "Separa você de qualquer usuário no qual você era casado(a).",
+=======
+    "cmd-settings-help" : "Displays my current guild settings.",
+    "cmd-marry-help" : "Casar você com um usuário.",
+    "cmd-divorce-help" : "Divorces you from whoever you were married to.",
+>>>>>>> b5fc35d15c6d120dbf13a65b28e73c361ad2fd22
     
     "cmd-settings-title" : "Parâmetros do servidor",    
     "cmd-settings-guild-pref" : "Prefixo",
@@ -213,8 +244,13 @@
     "cmd-settings-ic" : "Canais ignorados",
     "cmd-settings-bind" : "Conais conectados",      
     "cmd-settings-lvc" : "Leaving voice after",
+<<<<<<< HEAD
     "cmd-settings-dv" : "Volume padrão,  
     "cmd-settings-np" : "Mensagem de notificações",
+=======
+    "cmd-settings-dv" : "Volume padrão",  
+    "cmd-settings-np" : "Mensagem de notificação",
+>>>>>>> b5fc35d15c6d120dbf13a65b28e73c361ad2fd22
     "cmd-settings-glob" : "Geral",
     "cmd-settings-commands" : "Comandos",
     "cmd-settings-permissions" : "Permissões",
@@ -223,7 +259,11 @@
     
     "cmd-blacklist-added" : "O usuário entrou para a lista negra.",
     "cmd-blacklist-r-added" : "Esse papel está colocado na Lista negra.",    
+<<<<<<< HEAD
     "cmd-blacklist-r-removed" : "This role has been removed from the guild blacklist.",   
+=======
+    "cmd-blacklist-r-removed" : "This role has been removed from the guild blacklist.",     
+>>>>>>> b5fc35d15c6d120dbf13a65b28e73c361ad2fd22
     "cmd-blacklist-r-a-bl" : "Role is already blacklisted.",    
     "cmd-blacklist-a-bl" : "User is already blacklisted.",
     "cmd-blacklist-removed" : "User has been removed from the guild blacklist.",
@@ -578,6 +618,7 @@
     "music-plclone-confirmation" : "**{}** is going to be cloned. Please type the new autoplaylist name :",
     "music-plclone-cloned" : "**{}** has been cloned with success as **{}**.",  
     "music-plclone-cancelled" : "Cancelling autoplaylist cloning.",        
+<<<<<<< HEAD
     "music-repeat-disabled" : "I'll not repeat the queue anymore.",
     "music-repeat-empty" : "I can't repeat an empty queue.",
     "music-repeat-enabled" : "OK, I'll repeat the queue!",
@@ -639,3 +680,65 @@
     "music-npmsg-now-never" : "Now playing message at the beginning of new song is disabled.",
     "music-npmsg-now-default" : "Now playing message is sent automatically depending of where you are using commands."        
 }
+=======
+    "music-repeat-disabled" : "Não vou mais repetir a playlist.",
+    "music-repeat-empty" : "Não posso repetir uma playlist vazia.",
+    "music-repeat-enabled" : "OK, irei repetir a playlist!",
+    "music-clear-empty" : "Não posso limpar uma playlist vazia.",
+    "music-clear-cleared" : "A playlist foi limpa!",
+    "music-clear-vote" : "Seu voto para limpar a playlist foi adicionado.",       
+    "music-clear-already" : "Você já votou para limpar a playlist.",        
+    "music-promote-empty" : "Não posso promover algo numa playlist vazia.",
+    "music-promote-error" : "Você precisa especificar a posição da música entre 1 e {}.",
+    "music-promote-promoted" : "Promoveu {} à primeira posição da playlist.",
+    "music-promote-promoted-to" : "Promoveu {} à posição {} da playlist.",    
+    "music-promote-playlist" : "Você não pode usar esse comando numa playlist...",    
+    "music-shuffle-empty" : "Playlist embaralhada!",  
+    "music-remove-empty" : "Não posso remover algo de uma playlist vazia.",    
+    "music-remove-removed" : "Removeu {} da playlist.",    
+    "music-remove-removed-multiples" : "Foram removidas {} músicas da playlist.",       
+    "music-previous-no-previous" : "Não há uma música anterior.",     
+    "music-stream-added" : "Eu adicionei a faixa à playlist.",
+    "music-setdj-everyone" : "Minhas permissões de DJ foram concedidas a todos nessa sessão.",
+    "music-setdj-are" : "Os DJs da sessão são : {}",   
+    "music-setdj-is" : "O DJ da sessão é : {}",
+    "music-setdj-no-roles" : "Não há nenhum DJ nessa sessão!",
+    "music-setdj-all-removed" : "Todos os DJs foram removidos!",
+    "music-setdj-modified" : "Minhas permissões de DJ foram concedidas a todos nessa sessão.",
+    "music-setdj-are-now" : "Os DJs da sessão são : {}",
+    "music-setdj-is-now" : "O DJ da sessão é : {}",
+    "music-radio-invalid-syntax" : "Não conheço essa rádio, use {} para mostrar a lista das minhas estações de rádios disponíveis. Ou você pode usar uma URL com o comando play.",
+    "music-radio-list-title" : "Estações de rádio disponíveis.",
+    "music-search-ensure" : "Por favor, certifique que sua busca está correta.",
+    "music-search-max" : "Você não pode pesquisar mais de {} vídeos por vez.",
+    "music-search-loading" : "Procurando...",
+    "music-search-didnt-find" : "Não encontrei nada, desculpe...",
+    "music-search-result" : "Resultado",
+    "music-search-no-answer" : "Sem resposta? Bom, OK...",
+    "music-search-exited" : "Busca avançada retirada.",
+    "music-search-stopping" : "Bom...",
+    "music-supersearch-select" : "Digite o número da música que você deseja que toque.", 
+    "music-moveto-stream" : "Não se pode mover enquanto o streaming estiver tocando...",
+    "music-moveto-correct" : "Por favor, me de tempos corretos.",
+    "music-moveto-exceeds" : "Estes tempos excedem a duração da música...",
+    "music-moveto-moved" : "Mover música para {}.",    
+    "music-download-only" : "Somente links do YouTube podem ser baixados.",
+    "music-defvolume-set" : "Agora, o padrão de volume nesse servidor é {}",
+    "music-defvolume-reset" : "O padrão de volume foi ajustado para {}", 
+    "music-defvolume-now" : "O padrão de volume atual é {}",
+    "music-autoleave-set" : "Por agora, eu vou deixar o canal de voz por inatividade após {}.",
+    "music-autoleave-reset" : "O tempo antes de sair do canal de voz por inatividade foi reajustado para {}.", 
+    "music-autoleave-now" : "Meu atual tempo de saída do canal por inatividade é {}.",    
+    "music-autoleave-now-never" : "Minha função de desconexão automática por inatividade foi desabilitada, não vou mais me desconectar por inatividade.",
+    "music-autoleave-unreasonable" : "Você tem que escolher entre {} e {} segundos se você não é Patron do meu servidor.",
+    "music-autoleave-unreasonable-patron" : "Você não pode configurar um tempo maior que {}, use {} se você deseja nunca me desconectar por inatividade.",
+    "music-autoleave-never" : "Nunca",  
+    "music-npmsg-reset" : "Agora, as mensagens no início de uma nova música serão enviadas automaticamente, dependendo de onde você está usando os comandos.",
+    "music-npmsg-set" : "Agora, as mensagens no começo de uma nova música serão enviadas no {}.",
+    "music-npmsg-set-disabled" : "Agora, as mensagens no início de uma nova música estão desabilitadas.",
+    "music-npmsg-not-found" : "Eu não encontrei o canal de texto {}",
+    "music-npmsg-now" : "Agora as mensagens de uma nova música serão enviadas para {}.",
+    "music-npmsg-now-never" : "Agora, as mensagens no começo de uma nova música estão desabilitadas.",
+    "music-npmsg-now-default" : "Agora, as mensagens no início de uma nova música serão enviadas automaticamente, dependendo de onde você está usando os comandos."
+}
+>>>>>>> b5fc35d15c6d120dbf13a65b28e73c361ad2fd22
