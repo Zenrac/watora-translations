@@ -1,9 +1,9 @@
 {
     "need-manage-messages-permission": "Mi manca il permesso di 'gestisci i messaggi`.",
     "need-manage-roles-permission": "Mi manca il permesso Gestisci ruoli`. ",
-    "need-embed-permission": "Mi manca il permesso link incorporati ".",
+    "need-embed-permission": "Mi manca il permesso link incorporati .",
     "need-attach-files-permission": "Mi manca il permesso` allega i file`. ",
-    "need-add-emojis": "Mi manca il permesso di aggiungere reazioni ".",
+    "need-add-emojis": "Mi manca il permesso di aggiungere reazioni .",
     "need-connect-permission": "Mi manca il permesso` connect` in questo canale vocale! ",
     "need-speak-permission": "Mi manca il permesso di parlare in questo canale vocale!",
     "need-embed-permission-for-addby": "Mi manca l'autorizzazione" incorpora link "per inviare messaggi di addio in questo canale.",
