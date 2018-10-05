@@ -635,5 +635,5 @@
     "music-npmsg-not-found" : "Eu não encontrei o canal de texto {}",
     "music-npmsg-now" : "Agora as mensagens de uma nova música serão enviadas para {}.",
     "music-npmsg-now-never" : "Agora, as mensagens no começo de uma nova música estão desabilitadas.",
-    "music-npmsg-now-default" : "Agora, as mensagens no início de uma nova música serão enviadas automaticamente, dependendo de onde você está usando os comandos."              
+    "music-npmsg-now-default" : "Agora, as mensagens no início de uma nova música serão enviadas automaticamente, dependendo de onde você está usando os comandos."
 }
