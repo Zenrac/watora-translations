@@ -626,7 +626,7 @@
     "music-autoleave-set" : "Por agora, eu vou deixar o canal de voz por inatividade após {}.",
     "music-autoleave-reset" : "O tempo antes de sair do canal de voz por inatividade foi reajustado para {}.", 
     "music-autoleave-now" : "Meu atual tempo de saída do canal por inatividade é {}.",    
-    "music-autoleave-now-never" : "Minha função de desconexão automática por inatividade foi desabilitada, não vou mais me desconectar por inatividade."
+    "music-autoleave-now-never" : "Minha função de desconexão automática por inatividade foi desabilitada, não vou mais me desconectar por inatividade.",
     "music-autoleave-unreasonable" : "Você tem que escolher entre {} e {} segundos se você não é Patron do meu servidor.",
     "music-autoleave-unreasonable-patron" : "Você não pode configurar um tempo maior que {}, use {} se você deseja nunca me desconectar por inatividade.",
     "music-autoleave-never" : "Nunca",  
