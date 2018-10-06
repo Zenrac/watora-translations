@@ -32,7 +32,7 @@
     "music-not-in-dm" : "Comandos de música não podem ser utilizadas em DMs. Desculpa!", 
     "music-not-my-channel" : "Você deve colocar entre {} para utilizar esse comando.",
     "music-volume-higher-than-100" : "Você deve ser um Patron no meu servidor para configurar o volume para mais do que 100.",
-    "music-when-adding-pl" : "Você não pode adicionar música quando a sua lista de músicas já foi previamente adicionada...",
+    "music-when-adding-pl" : "Você não pode adicionar músicas quando a sua lista de músicas já foi previamente adicionada...",
     "is-searching" : "Buscando...",
     "no-result" : "Sem resultado.",
     "not-connected" : "Eu não atualmente conectado I am not currently connected to voice!",
@@ -77,6 +77,7 @@
     "cmd-clan-delete-help" : "Permite retirar o clã do servidor.",
     "cmd-clan-list-help" : "Exibe os clãs disponíveis no servidor.",   
     "cmd-8ball-help" : "Responde de forma aleatória a sua pergunta.",
+
     "cmd-ily-help" : "If you want to know if I love you.",
     "cmd-roll-help" : "Gerar um número aleatório entre 0 e um máximo especificado.\nPode também gerar um número aleatório entre dois números.\nDe outra forma gera um número aleatório entre 0 e 100.",
     "cmd-flip-help" : "Flips a coin if no user is specified, otherwise flip a user.",
@@ -197,7 +198,7 @@
     "cmd-settings-help" : "Exibe as minhas configuralçies atuais do servidor.",
     "cmd-marry-help" : "Casar você com um usuário.",
     "cmd-divorce-help" : "Separa você de qualquer usuário no qual você era casado(a).",
-    
+  
     "cmd-settings-title" : "Parâmetros do servidor",    
     "cmd-settings-guild-pref" : "Prefixo",
     "cmd-settings-language" : "Lingua",
@@ -589,7 +590,8 @@
     "music-promote-error" : "Você precisa especificar a posição da música entre 1 e {}.",
     "music-promote-promoted" : "Promoveu {} à primeira posição da playlist.",
     "music-promote-promoted-to" : "Promoveu {} à posição {} da playlist.",    
-    "music-promote-playlist" : "Você não pode usar esse comando numa playlist...",    
+    "music-promote-playlist" : "Você não pode usar esse comando numa playlist...", 
+    "music-shuffle-shuffled" : "Queue shuffled !",      
     "music-shuffle-empty" : "Playlist embaralhada!",  
     "music-remove-empty" : "Não posso remover algo de uma playlist vazia.",    
     "music-remove-removed" : "Removeu {} da playlist.",    
