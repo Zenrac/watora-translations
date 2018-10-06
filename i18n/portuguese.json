@@ -591,7 +591,7 @@
     "music-promote-promoted" : "Promoveu {} à primeira posição da playlist.",
     "music-promote-promoted-to" : "Promoveu {} à posição {} da playlist.",    
     "music-promote-playlist" : "Você não pode usar esse comando numa playlist...", 
-    "music-shuffle-shuffled" : "Queue shuffled !",      
+    "music-shuffle-shuffled" : "Lista misturada !",      
     "music-shuffle-empty" : "Playlist embaralhada!",  
     "music-remove-empty" : "Não posso remover algo de uma playlist vazia.",    
     "music-remove-removed" : "Removeu {} da playlist.",    
