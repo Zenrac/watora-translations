@@ -631,10 +631,10 @@
     "music-autoleave-unreasonable-patron" : "Non puoi impostare un tempo superiore a {}, usa {} se vuoi che non mi disconnetta per inattività.",
     "music-autoleave-never" : "Mai",    
     "music-npmsg-reset" : "Il messaggio 'Sto riproducendo' all'inizio di ogni nuova canzone è stato inviato automaticamente in base a dove stai usando i comandi.",
-    "music-npmsg-set" : "Il messaggio 'Sto riproducendo' all'inizio della nuova canzone verrà inviata su {}.",
+    "music-npmsg-set" : "Il messaggio 'Sto riproducendo' all'inizio della nuova canzone verrà inviato su {}.",
     "music-npmsg-set-disabled" : "Il messaggio 'Sto riproduicendo' all'inizio della nuova canzone è disabilitato.",
     "music-npmsg-not-found" : "Non trovo il canale di testo {}",
-    "music-npmsg-now" : "Now playing message at the beginning of new song is now sent on {}.",
+    "music-npmsg-now" : "Il messaggio 'Sto riproducendo' all'inizio della nuova canzone verrà inviato su {}.",
     "music-npmsg-now-never" : "Il messaggio 'Sto riproduicendo' all'inizio della nuova canzone è disabilitato.",
     "music-npmsg-now-default" : "Il messaggio 'Sto riproducendo' all'inizio di ogni nuova canzone è stato inviato automaticamente in base a dove stai usando i comandi."        
 }
