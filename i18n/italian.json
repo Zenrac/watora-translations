@@ -556,7 +556,7 @@
     "music-plrepair-all-ok" : "E' tutto ok, questa autoplaylist non necessita di essere riparata !",
     "music-plrepair-removed-links" : "Completato, {} link inesistenti sono stati rimossi dall'autoplaylist.",
     "music-plrepair-removed-link" : "Completato, `1` link inesistente è stato rimosso dall'autoplaylist.",
-    "music-lyrics-title-not-find" : "Cannot find the title, please ensure your URL is correct.",
+    "music-lyrics-title-not-find" : "Impossibile trovare il titolo, assicurati che l'indirizzo URL sia corretto.",
     "music-lyrics-no-current-song" : "Nessuna canzone è al momento riprodotta, inserisci un indirizzo URL.",
     "music-lyrics-not-found" : "Non è possibile mostrare le lyrics per questa canzone. Mi spiace.",
     "music-pladd-already-present" : "Canzone già presente nell'autoplaylist!",
