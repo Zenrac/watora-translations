@@ -556,7 +556,7 @@
     "music-plrepair-all-ok" : "Everything is okay, this autoplaylist don't need to be repaired !",
     "music-plrepair-removed-links" : "Success, {} dead links have been removed from the autoplaylist.",
     "music-plrepair-removed-link" : "Success, `1` dead link has been removed from the autoplaylist.",
-    "music-lyrics-title-not-find" : "Cannot find the title, please ensure your URL is correct.",
+    "music-lyrics-title-not-find" : "Impossibile trovare il titolo, assicurati che l'indirizzo URL sia corretto.",
     "music-lyrics-no-current-song" : "No song currently being played, please specify an URL.",
     "music-lyrics-not-found" : "Could not find the lyrics for this song. Sorry.",
     "music-pladd-already-present" : "Song already present in the autoplaylist!",
