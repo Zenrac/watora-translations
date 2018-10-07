@@ -197,7 +197,7 @@
     "cmd-settings-help" : "Affiche mes paramètres actuels du serveur.",   
     "cmd-marry-help" : "Vous marie avec un utilisateur.",
     "cmd-divorce-help" : "Vous divorce peut importe avec qui vous étiez marié.", 
-    "cmd-owo-help" : "Active ou désactive le Mode OwO.",     
+    "cmd-owo-help" : "Active ou désactive mon Mode OwO.",     
 
     "cmd-settings-title" : "Paramètres du serveur",
     "cmd-settings-guild-pref" : "Préfixe",
