@@ -196,6 +196,7 @@
     "cmd-settings-help" : "Displays my current guild settings.",
     "cmd-marry-help" : "Marries you to an user.",
     "cmd-divorce-help" : "Divorces you from whoever you were married to.",
+    "cmd-owo-help" : "Enables or disables my OwO Mod.",    
     
     "cmd-settings-title" : "Guild settings",    
     "cmd-settings-guild-pref" : "Prefix",
@@ -219,6 +220,7 @@
     "cmd-settings-permissions" : "Permissions",
     "cmd-settings-messages" : "Messages",
     "cmd-settings-player" : "Player",
+    "cmd-settings-owo" : "OwO Mod",
     
     "cmd-blacklist-added" : "User has been blacklisted.",
     "cmd-blacklist-r-added" : "This role has been blacklisted.",    

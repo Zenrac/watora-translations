@@ -196,6 +196,7 @@
     "cmd-settings-help": "Visualizza le mie attuali impostazioni della gilda.",
     "cmd-marry-help": "Ti sposa con un utente.",
     "cmd-divorce-help": "Divorzia da chiunque tu fossi sposato.",
+    "cmd-owo-help" : "Enables or disables my OwO Mod.", 
     
     "cmd-settings-title": "Impostazioni gilda",
     "cmd-settings-guild-pref": "Prefisso",
@@ -219,6 +220,7 @@
     "cmd-settings-permissions": "Autorizzazioni",
     "cmd-settings-messages": "Messaggi",
     "cmd-settings-player": "Player",
+    "cmd-settings-owo" : "OwO Mod",
     
     "cmd-blacklist-added": "L'utente è stato nella lista nera.",
     "cmd-blacklist-r-added": "Questo ruolo è stato inserito nella blacklist.",

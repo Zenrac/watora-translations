@@ -195,6 +195,7 @@
     "cmd-settings-help" : "Muesta mi configuración de gremio actual.",
     "cmd-marry-help" : "Le casa con un usuario.",
     "cmd-divorce-help" : "Le divorcia de aquel con el que estuvo casado(a).",
+    "cmd-owo-help" : "Enables or disables my OwO Mod.",
 
     "cmd-settings-title" : "Configuración del gremio",
     "cmd-settings-guild-pref" : "Prefijo",
@@ -218,6 +219,7 @@
     "cmd-settings-permissions" : "Permisos",
     "cmd-settings-messages" : "Mensages",
     "cmd-settings-player" : "Reproductor",
+    "cmd-settings-owo" : "OwO Mod",
 
     "cmd-blacklist-added" : "Usuario ha sido incluido en la lista negra.",
     "cmd-blacklist-r-added" : "Este rol ha sido incluido en la lista negra.",

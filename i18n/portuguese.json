@@ -198,6 +198,7 @@
     "cmd-settings-help" : "Exibe as minhas configuralçies atuais do servidor.",
     "cmd-marry-help" : "Casar você com um usuário.",
     "cmd-divorce-help" : "Separa você de qualquer usuário no qual você era casado(a).",
+    "cmd-owo-help" : "Enables or disables my OwO Mod.", 
   
     "cmd-settings-title" : "Parâmetros do servidor",    
     "cmd-settings-guild-pref" : "Prefixo",
@@ -221,6 +222,7 @@
     "cmd-settings-permissions" : "Permissões",
     "cmd-settings-messages" : "Mensagens",
     "cmd-settings-player" : "Tocador",
+    "cmd-settings-owo" : "OwO Mod",
     
     "cmd-blacklist-added" : "O usuário entrou para a lista negra.",
     "cmd-blacklist-r-added" : "Esse papel está colocado na Lista negra.",    

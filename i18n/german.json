@@ -195,7 +195,8 @@
     "cmd-npmsg-never-help" : "Deaktiviert die 'Wird gerade abgespielt' Benachrichtigungen ab Beginn der Wiedergabe des nächsten Songs.",    
     "cmd-settings-help" : "Zeigt meine derzeitigen Gilden-Einstellungen an.",        
     "cmd-marry-help" : "Verheiratet dich mit einem anderen Benutzer.",
-    "cmd-divorce-help" : "Scheidet von dem Benutzer, mit dem du gegenwärtig verheiratet bist.",    
+    "cmd-divorce-help" : "Scheidet von dem Benutzer, mit dem du gegenwärtig verheiratet bist.",  
+    "cmd-owo-help" : "Enables or disables my OwO Mod.",     
     
     "cmd-settings-title" : "Gilden-Einstellungen",    
     "cmd-settings-guild-pref" : "Präfix",
@@ -219,6 +220,7 @@
     "cmd-settings-permissions" : "Berechtigungen",
     "cmd-settings-messages" : "Benachrichtigungen",
     "cmd-settings-player" : "Player",   
+    "cmd-settings-owo" : "OwO Mod",
     
     "cmd-blacklist-added" : "Benutzer wurde zur Blacklist hinzugefügt.",
     "cmd-blacklist-r-added" : "Diese Rolle wurde zur Blacklist hinzugefügt.",    

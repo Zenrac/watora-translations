@@ -196,7 +196,8 @@
     "cmd-npmsg-never-help" : "Désactive l'envoi du message de notification au début de chaque nouvelle musique.",      
     "cmd-settings-help" : "Affiche mes paramètres actuels du serveur.",   
     "cmd-marry-help" : "Vous marie avec un utilisateur.",
-    "cmd-divorce-help" : "Vous divorce peut importe avec qui vous étiez marié.",    
+    "cmd-divorce-help" : "Vous divorce peut importe avec qui vous étiez marié.", 
+    "cmd-owo-help" : "Active ou désactive le Mode OwO.",     
 
     "cmd-settings-title" : "Paramètres du serveur",
     "cmd-settings-guild-pref" : "Préfixe",
@@ -220,6 +221,7 @@
     "cmd-settings-permissions" : "Permissions",
     "cmd-settings-messages" : "Messages",
     "cmd-settings-player" : "Lecteur",
+    "cmd-settings-owo" : "Mode OwO",
     
     "cmd-blacklist-added" : "Cet utilisateur a été ajouté à la blacklist du serveur.",
     "cmd-blacklist-r-added" : "Ce rôle a été ajouté à la blacklist du serveur.",    
