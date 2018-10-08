@@ -299,7 +299,7 @@
     "cmd-clan-no-clans" : "There are no clans on this server. Use `{}` to start to add some.",      
     "cmd-8ball-options" : "Yes !|No...|Maybe...|Definitely not|For sure !|Do not even think about it|I don't think...|Surely!",
     "cmd-ily-nope" : "I'm not in love with you...",
-    "cmd-ily-yes" : "Me too |For real ? ❤|It's too much ❤|I'm in love with you since a long time ?|I know, and you know my feelings too ❤|Thanks! Me too ❤ ❤",
+    "cmd-ily-yes" : "Me too ❤|For real ? ❤|It's too much >///< ❤|I'm in love with you since a long time ❤|I know, and you know my feelings too ❤|Thanks! Me too ❤ ❤",
     "cmd-ily-no" : "Not me... 💔|Stop harassing me...|I've already answered no...|Sorry, it's not reciprocal...|But ... do I know you?|I prefer to stay friend with you..|Sorry... I'm already with someone...",
     "cmd-roll" : "{} gets a {}.",
     "cmd-flip-nice-try" : "Nice try. How about this instead ?",
@@ -474,6 +474,9 @@
     "cmd-divorce-success" : "Understand, now you're single !",
     "cmd-divorce-cancelled" : "Divorce cancelled.",  
     "cmd-divorce-confirmation" : "Do you really want to divorce with {} ? You are married since the {}.\nType {} or {}.",    
+    "cmd-owo-status" : "My OwO Mod is now",
+    "cmd-owo-enabled" : "enabled",
+    "cmd-owo-disabled" : "disabled",    
 
     "music-spotify-processing-a" : "Processing album {}",
     "music-spotify-processing-p" : "Processing playlist {}",

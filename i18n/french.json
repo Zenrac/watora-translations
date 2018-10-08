@@ -475,6 +475,9 @@
     "cmd-divorce-success" : "Compris, vous êtes désormais célibataire !",    
     "cmd-divorce-cancelled" : "Divorce annulé.",  
     "cmd-divorce-confirmation" : "Voulez-vous vraiment divorcer avec {} ? Vous êtes mariés depuis le {}.\nÉcrivez {} ou {}.", 
+    "cmd-owo-status" : "Mon Mode OwO est désormais",
+    "cmd-owo-enabled" : "activé",
+    "cmd-owo-disabled" : "désactivé",
 
     "music-spotify-processing-a" : "Chargement de l'album {}",
     "music-spotify-processing-p" : "Chargement de la playlist {}",

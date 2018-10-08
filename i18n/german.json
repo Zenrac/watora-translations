@@ -472,7 +472,10 @@
     "cmd-divorce-a-single" : "Du bist bereits Single ...",
     "cmd-divorce-success" : "Verstanden, du bist nun Single !",
     "cmd-divorce-cancelled" : "Scheidung abgebrochen.",  
-    "cmd-divorce-confirmation" : "Möchtest du dich wirklich von `{}` scheiden lassen ? Ihr seid bereits seit dem **{}** verheiratet.\nSchreibe {} oder {}.",    
+    "cmd-divorce-confirmation" : "Möchtest du dich wirklich von `{}` scheiden lassen ? Ihr seid bereits seit dem **{}** verheiratet.\nSchreibe {} oder {}.",   
+    "cmd-owo-status" : "My OwO Mod is now",
+    "cmd-owo-enabled" : "enabled",
+    "cmd-owo-disabled" : "disabled",
 
     "music-spotify-processing-a" : "Verarbeite Album {}",
     "music-spotify-processing-p" : "Verarbeite Playlist {}",

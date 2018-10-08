@@ -474,6 +474,9 @@
     "cmd-divorce-success" : "Ricevuto, ora sei single !",
     "cmd-divorce-cancelled" : "Divorzio annullato.",  
     "cmd-divorce-confirmation" : "Vuoi veramente divorziare da {} ? Siete sposati da {}.\nScrivi {} o {}.",    
+    "cmd-owo-status" : "My OwO Mod is now",
+    "cmd-owo-enabled" : "enabled",
+    "cmd-owo-disabled" : "disabled",       
 
     "music-spotify-processing-a" : "Elaborazione album {}",
     "music-spotify-processing-p" : "Elaborazione playlist {}",
@@ -543,7 +546,7 @@
     "music-plnew-try-to-hack" : "Non puoi creare una autoplaylist personale come questa, specialmente se non è il tuo ID.",
     "music-plnew-already-exists" : "{} già esiste! Mi spiace...",
     "music-plnew-created" : "Nuova autoplaylist {} creata!",
-    "music-plinfo-not-found" : "Non riesco a trovare questa autoplaylist...Mi spiace!",
+    "music-plinfo-not-found" : "Non riesco a trovare questa autoplaylist... Mi spiace!",
     "music-pl-disabled" : "L'autoplaylist è al momento disabilitata! Usa {} per caricarne.",
     "music-plinfo-loading" : "Sto calcolando questa autoplaylist, attendere prego...",
     "music-plinfo-empty-auto" : "Non ci sono canzoni in questa autoplaylist, usa {} per aggiungerne qualcuna!",

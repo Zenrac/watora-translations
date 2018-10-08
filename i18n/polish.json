@@ -474,6 +474,9 @@
     "cmd-divorce-success" : "Understand, now you're single !",
     "cmd-divorce-cancelled" : "Divorce cancelled.",  
     "cmd-divorce-confirmation" : "Do you really want to divorce with {} ? You are married since the {}.\nType {} or {}.",    
+    "cmd-owo-status" : "My OwO Mod is now",
+    "cmd-owo-enabled" : "enabled",
+    "cmd-owo-disabled" : "disabled",      
 
     "music-spotify-processing-a" : "Processing album {}",
     "music-spotify-processing-p" : "Processing playlist {}",
