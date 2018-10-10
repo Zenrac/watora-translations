@@ -198,7 +198,7 @@
     "cmd-settings-help" : "Exibe as minhas configuralçies atuais do servidor.",
     "cmd-marry-help" : "Casar você com um usuário.",
     "cmd-divorce-help" : "Separa você de qualquer usuário no qual você era casado(a).",
-    "cmd-owo-help" : "Enables or disables my OwO Mod.",
+    "cmd-owo-help" : "Habilita ou desabilita meu mod OwO.",
 
     "cmd-settings-title" : "Parâmetros do servidor",
     "cmd-settings-guild-pref" : "Prefixo",
@@ -222,7 +222,7 @@
     "cmd-settings-permissions" : "Permissões",
     "cmd-settings-messages" : "Mensagens",
     "cmd-settings-player" : "Tocador",
-    "cmd-settings-owo" : "OwO Mod",
+    "cmd-settings-owo" : "Mod OwO",
 
     "cmd-blacklist-added" : "O usuário entrou para a lista negra.",
     "cmd-blacklist-r-added" : "Esse papel está colocado na Lista negra.",
@@ -476,9 +476,9 @@
     "cmd-divorce-success" : "Understand, now you're single !",
     "cmd-divorce-cancelled" : "Divorce cancelled.",
     "cmd-divorce-confirmation" : "Do you really want to divorce with {} ? You are married since the {}.\nType {} or {}.",
-    "cmd-owo-status" : "My OwO Mod is now",
-    "cmd-owo-enabled" : "enabled",
-    "cmd-owo-disabled" : "disabled",
+    "cmd-owo-status" : "Meu mod OwO é agora",
+    "cmd-owo-enabled" : "habilitado",
+    "cmd-owo-disabled" : "desabilidato",
 
     "music-spotify-processing-a" : "Processing album {}",
     "music-spotify-processing-p" : "Processing playlist {}",
