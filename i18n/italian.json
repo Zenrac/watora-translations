@@ -196,7 +196,7 @@
     "cmd-settings-help": "Visualizza le mie attuali impostazioni della gilda.",
     "cmd-marry-help": "Ti sposa con un utente.",
     "cmd-divorce-help": "Divorzia da chiunque tu fossi sposato.",
-    "cmd-owo-help" : "Enables or disables my OwO Mod.", 
+    "cmd-owo-help" : "Abilita o disabilita il mio OwO Mod.",
     
     "cmd-settings-title": "Impostazioni gilda",
     "cmd-settings-guild-pref": "Prefisso",
@@ -474,9 +474,9 @@
     "cmd-divorce-success" : "Ricevuto, ora sei single !",
     "cmd-divorce-cancelled" : "Divorzio annullato.",  
     "cmd-divorce-confirmation" : "Vuoi veramente divorziare da {} ? Siete sposati da {}.\nScrivi {} o {}.",    
-    "cmd-owo-status" : "My OwO Mod is now",
-    "cmd-owo-enabled" : "enabled",
-    "cmd-owo-disabled" : "disabled",       
+    "cmd-owo-status" : "Ora il mio OwO Mod è",
+    "cmd-owo-enabled" : "abilitato",
+    "cmd-owo-disabled" : "disabilitato",
 
     "music-spotify-processing-a" : "Elaborazione album {}",
     "music-spotify-processing-p" : "Elaborazione playlist {}",
