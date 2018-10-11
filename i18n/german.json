@@ -196,7 +196,7 @@
     "cmd-settings-help" : "Zeigt meine derzeitigen Gilden-Einstellungen an.",        
     "cmd-marry-help" : "Verheiratet dich mit einem anderen Benutzer.",
     "cmd-divorce-help" : "Scheidet von dem Benutzer, mit dem du gegenwärtig verheiratet bist.",  
-    "cmd-owo-help" : "Enables or disables my OwO Mod.",     
+    "cmd-owo-help" : "Aktiviert oder deaktiviert meinen OwO Modul.",     
     
     "cmd-settings-title" : "Gilden-Einstellungen",    
     "cmd-settings-guild-pref" : "Präfix",
@@ -219,8 +219,8 @@
     "cmd-settings-commands" : "Befehle",
     "cmd-settings-permissions" : "Berechtigungen",
     "cmd-settings-messages" : "Benachrichtigungen",
-    "cmd-settings-player" : "Player",   
-    "cmd-settings-owo" : "OwO Mod",
+    "cmd-settings-player" : "Spieler",   
+    "cmd-settings-owo" : "OwO Modul",
     
     "cmd-blacklist-added" : "Benutzer wurde zur Blacklist hinzugefügt.",
     "cmd-blacklist-r-added" : "Diese Rolle wurde zur Blacklist hinzugefügt.",    
@@ -474,9 +474,9 @@
     "cmd-divorce-success" : "Verstanden, du bist nun Single !",
     "cmd-divorce-cancelled" : "Scheidung abgebrochen.",  
     "cmd-divorce-confirmation" : "Möchtest du dich wirklich von `{}` scheiden lassen ? Ihr seid bereits seit dem **{}** verheiratet.\nSchreibe {} oder {}.",   
-    "cmd-owo-status" : "My OwO Mod is now",
-    "cmd-owo-enabled" : "enabled",
-    "cmd-owo-disabled" : "disabled",
+    "cmd-owo-status" : "Mein OwO Modul ist jetzt",
+    "cmd-owo-enabled" : "aktiviert",
+    "cmd-owo-disabled" : "deaktiviert",
 
     "music-spotify-processing-a" : "Verarbeite Album {}",
     "music-spotify-processing-p" : "Verarbeite Playlist {}",
