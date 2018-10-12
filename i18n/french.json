@@ -49,9 +49,9 @@
     "cmd-purge-help" : "Supprime (num_msg) messages postés sur le salon.\nSi vous ne spécifiez pas de nombre, jusqu'à 100 messages seront supprimés.",
     "cmd-stfu-help" : "Supprime (num_msg) messages postés par une personne dans le chat.\nSi vous ne spécifiez pas de nombre, jusqu'à 100 messages seront supprimés.",   
     
-    "cmd-prefix-help" : "Gestion du prefixe sur le serveur.",
+    "cmd-prefix-help" : "Gestion du préfixe sur le serveur.",
     "cmd-prefix-now-help" : "Affiche le préfixe actuel du serveur.",
-    "cmd-prefix-change-help" : "Permet de modifier le prefixe du serveur actuel.",
+    "cmd-prefix-change-help" : "Permet de modifier le préfixe du serveur actuel.",
     "cmd-prefix-reset-help" : "Réinitialise le préfixe du serveur.",
     "cmd-ignore-help" : "Désactive toutes mes commandes dans le salon actuel.",
     "cmd-disabledcommand-help" : "Gestion des commandes désactivées sur le serveur.",
