@@ -16,7 +16,7 @@
     "command-invalid-usage" : "To nie wygląda na poprawną opcję. Użyj `{}` by uzyskać więcej informacji.",  
     "not-enough-permissions" : "Nie mam wystarczających uprawnień.",    
     "role-not-enough-high" : "Twoja rola nie jest wystarczająco wysoka.",
-    "put-the-role-id-instead" : "Invalid type of command, you have to put the ID of the role, you can find it with",
+    "put-the-role-id-instead" : "Nieprawidłowy typ komendy, musisz wpisać ID roli, możesz go znaleźć za pomocą",
     
     "music-over-used" : "Sorry. I'm currently over-used. To keep a decent global performance, you cannot play a song for the moment.",
     "music-no-result" : "Sorry, there is no result for your search. Try to use {} to perform an advanced search.",
