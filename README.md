@@ -22,8 +22,6 @@ If you have any questions you can DM me on discord (Zenrac#0001), otherwise if y
 
 Anyway, a special role **Translator** has been added in the server's roles. Some credits are also displayed in the credit command, and maybe other stuffs will be added later.<br><br>
 
-[![Server](https://img.shields.io/discord/221989003400970241.svg?logo=discord&style=for-the-badge)](https://discord.gg/q98qeYN)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
