@@ -472,7 +472,7 @@
     "cmd-divorce-a-single" : "Tu ya eres soltero/a...",
     "cmd-divorce-success" : "Entendido, ahora estas soltero/a !",
     "cmd-divorce-cancelled" : "Divorcio cancelado.",
-    "cmd-divorce-confirmation" : "Estas seguro que quieres divorciarte de {} ? Ustedes han estado casados desde el {}.\Responde {} o {}.",
+    "cmd-divorce-confirmation" : "Estas seguro que quieres divorciarte de {} ? Ustedes han estado casados desde el {}.\nResponde {} o {}.",
     "cmd-owo-status" : "Mi Modo OwO esta activo",
     "cmd-owo-enabled" : "habilitado",
     "cmd-owo-disabled" : "deshabilitado",
