@@ -97,7 +97,7 @@
   "cmd-manga-help" : "Mangalar hakkında bilgiler gösterir.",
   "cmd-char-help" : "Bir karakter hakkında bilgiler gösterir. (Anime/Manga)",
   "cmd-nextep-help" : "Bir sonraki anime bölümünden önce kalan zamanı görüntüler.",
-  "cmd-weeb-help" : "Anime komutlarım listesini görüntüler. (weeb.sh ve triggered-api.tk tarafından desteklenmektedir)",
+  "cmd-picture-help" : "Resim komutların listesini görüntüler. (weeb.sh ve triggered-api.tk tarafından desteklenmektedir)",
   "cmd-help-help" : "Komutlarımı gösterir veya komut için yardımı görüntüler.",
   "cmd-stats-help" : "İstatistiklerimi gösterir",
   "cmd-ping-help" : "Pingimi verir.",
