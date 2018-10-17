@@ -322,7 +322,7 @@
     "cmd-poll-someone-asks" : "asks",
     "cmd-meme-one-user" : "Please mention only one user at once.",
     "cmd-choice-no-choices" : "You have to specify more than one option, separated by `|`.",
-    "cmd-choice-empty-option" : "I choosed the empty option.",
+    "cmd-choice-empty-option" : "I chosed the empty option.",
     "cmd-choice-too-much-cmds" : "Too much commands at the same time.",
     "cmd-anime-english-title" : "English title",
     "cmd-anime-episode" : "Episode",
