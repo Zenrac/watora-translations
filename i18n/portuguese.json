@@ -1,646 +1,1289 @@
 {
+
     "need-manage-messages-permission" : "Preciso de permissão para `gerência de mensagens`.",
+
     "need-manage-roles-permission" : "Preciso de permissão para `gerência de papeis`.",
+
     "need-embed-permission" : "Preciso de permissão para `embutir links`.",
+
     "need-attach-files-permission" : "Preciso de permissão para `anexar arquivos`.",
+
     "need-add-emojis" : "Preciso de permissão para `adicionar reações`.",
+
     "need-connect-permission" : "Preciso de permissão para `conectar` nesse canal de voz !",
+
     "need-speak-permission" : "Preciso de permissão para `fala` nesse canal de voz !",
+
     "need-embed-permission-for-goodbye" : "Preciso de permissão para `embutir links` para enviar mensagens de despedida nesse canal.",
+
     "need-embed-permission-for-welcome" : "Preciso de permissão para `embutir links` para enviar mensagens de boas vindas nesse canal.",
+
     "need-nsfw-channel-to-be-used" : "Você deve estar em um canal NSFW para utilizar esse comando!",
+
     "cant-send-pm" : "Eu não posso enviar para você uma DM, tente enviar esse comando pelas DMs.",
+
     "message-send-to-mp" : "Mesagem enviada, verifique suas DMs!",
+
     "have-to-be-lover" : "Você deve ser um Lover no meu servidor para fazer isso!",
 
+
+
     "command-invalid-usage" : "Isso não parece ser um opção válida. Utilize `{}` para mais informação.",
+
     "not-enough-permissions" : "Eu não tenho permissões suficientes.",
+
     "role-not-enough-high" : "Seu papel não tem permissões suficientes.",
+
     "put-the-role-id-instead" : "Tipo de comando inválido, você deve informar o ID do papel, você pode encontrá-lo com",
 
+
+
     "music-over-used" : "Desculpe. Atualmente estou sobrecarregado. Para manter um serviço descente, você não pode tocar músicas no momentos.",
+
     "music-no-result" : "Desculpe, não há resultado para a sua busca. Tente utilizar {} para realizar uma busca avançada.",
+
     "music-load-failed" : "Desculpe, esse vídeo não está mais disponível. Tente utilizar {} para realizar uma busca avançada.",
+
     "music-upnext" : "Próxima",
+
     "music-enqueued" : "Música adicionada na lista",
+
     "music-p-enqueued" : "Lista de música adicionada na lista",
+
     "music-song" : "Música",
+
     "music-songs" : "Músicas",
+
     "music-position-in-queue" : "Posição na fila: {}",
+
     "music-estimated-time" : "tempo estimado antes de tocar : {}",
+
     "music-duration" : "Duração",
+
     "music-not-in-dm" : "Comandos de música não podem ser utilizadas em DMs. Desculpa!",
+
     "music-not-my-channel" : "Você deve colocar entre {} para utilizar esse comando.",
+
     "music-volume-higher-than-100" : "Você deve ser um Patron no meu servidor para configurar o volume para mais do que 100.",
+
     "music-when-adding-pl" : "Você não pode adicionar músicas quando a sua lista de músicas já foi previamente adicionada...",
+
     "is-searching" : "Buscando...",
+
     "no-result" : "Sem resultado.",
+
     "not-connected" : "Eu não atualmente conectado I am not currently connected to voice!",
+
     "not-playing" : "Eu não estou atualmente tocando nada.",
+
     "not-the-right-channel" : "Você precisa estar no meu canal de voz para utilizar esse comando.",
 
+
+
     "bot-disabled-command" : "Você não pode utilizar esse comando. Está desabilitado nesse servidor.",
+
     "bot-bind-mod" : "Você não pode utilizar comandos nesse canal, estou ligado a outro canal.",
+
     "bot-cooldown" : "Você está no período de cooldown. Tente novamente em",
+
     "bot-not-mp" : "Esse comando não pode ser utilizado em DMs.",
+
     "bot-not-enough-permissions" : "Você não pode utilizar esse comando. Você não tem as permissões necessárias.",
 
+
+
     "cmd-clean-help" : "Limpa as minhas mensagens de um canal.\nSe não especificar um número na busca, até 100 mensagens serão apagadas.",
+
     "cmd-purge-help" : "Retira até (num_msg) mensagens enviadas na conversa.\nSe não especificar um número na busca, até 100 mensagens serão apagadas.",
+
     "cmd-stfu-help" : "Retira até (num_msg) mensagens enviadas na conversa de um usuário. posted in chat from a user.\nSe não especificar um número na busca, até 100 mensagens serão apagadas.",
+
     "cmd-prefix-help" : "Gerencia o prefixo do servidor.",
+
     "cmd-prefix-change-help" : "Permite mudar o prefixo atual do servidor.",
+
     "cmd-prefix-reset-help" : "Atualiza o prefixo do servidor para o prefixo geral.",
+
     "cmd-prefix-now-help" : "Exibe o prefixo atual do servidor.",
+
     "cmd-ignore-help" : "Desabilita meu comandos no canal atual.",
+
     "cmd-disabledcommand-help" : "Gerencia os comandos desabilitados do servidor.",
+
     "cmd-disabledcommand-add-help" : "Desabilita um comando no servidor.",
+
     "cmd-disabledcommand-remove-help" : "Habilitar novamente um comando desabilitado.",
+
     "cmd-disabledcommand-list-help" : "Exibe a lista de comandos desabilitados.",
+
     "cmd-language-help" : "Configura uma língua.\nLínguas disponíveis podem ser exibidas na lista de línguas.",
+
     "cmd-blacklist-help" : "Gerencia a lista negra do servidor.",
+
     "cmd-blacklist-add-help" : "Adiciona um usuário a lista negra do servidor.\nUsuários da lista negra do servidor não podem usar os meus comandos.",
+
     "cmd-blacklist-remove-help" : "Retira um usuário ou papel da lista negra do servidor.",
+
     "cmd-blacklist-list-help" : "Exibe o conteúdo da lista negra do servidor.",
+
     "cmd-blacklist-clear-help" : "Limpa a lista negra do servidor.",
+
     "cmd-kick-help" : "Expulsa um usuário do servidor.",
+
     "cmd-ban-help" : "Bane um usuário do servidor.",
+
     "cmd-hackban-help" : "Bane um usuário do servidor a partir do seu ID.",
+
     "cmd-welcome-help" : "Habilita as mensagens que serão enviadas ao canal quando alguém entra no servidor.\nSe você especificar uma url de imagem na sua mensagem, ela irá esconder automaticamente seu link.\nPode utilizar as seguinte palavras reservadas em suas mensagens e elas serão substituídas:\n\n@name : Nome do usuário\n@mention : Referência ao usuário\n@serv : Nome do servidor\n@id : ID do usuário\n@number : Número do usuário no servidor",
+
     "cmd-welcome-welcome_off-help" : "Desabilita as mensagens de bem vindo do canal.",
+
     "cmd-goodbye-help" : "Habilita as mensagens que serão enviadas ao canal quando alguém deixar o servidor.\nSe você especificar uma url de imagem na sua mensagem, ela irá esconder automaticamente seu link.\nPode utilizar as seguinte palavras reservadas em suas mensagens e elas serão substituídas:\n\n@name : Nome do usuário\n@mention : Referência ao usuário\n@serv : Nome do servidor\n@id : ID do usuário\n@number : Número do usuário no servidor",
+
     "cmd-goodbye-goodbye_off-help" : "Desabilita as mensagens de despedida do canal.",
+
     "cmd-autorole-help" : "Configura um Sets an autorole (or several) for new members of the server.",
+
     "cmd-joinclan-help" : "Permite pegar um papel. Você não pode ter clãs multiplos ao mesmo tempo.",
+
     "cmd-clan-help" : "Gerência de Clãs nesse servidor.",
+
     "cmd-clan-add-help" : "Permite adicionar clãs ao servidor, membros podem participar através do joinclan",
+
     "cmd-clan-delete-help" : "Permite retirar o clã do servidor.",
+
     "cmd-clan-list-help" : "Exibe os clãs disponíveis no servidor.",
+
     "cmd-8ball-help" : "Responde de forma aleatória a sua pergunta.",
 
-    "cmd-ily-help" : "Se você deseja saber se eu te amo.",
+
+
+    "cmd-ily-help" : "Se você quer saber se eu te amo.",
+
     "cmd-roll-help" : "Gerar um número aleatório entre 0 e um máximo especificado.\nPode também gerar um número aleatório entre dois números.\nDe outra forma gera um número aleatório entre 0 e 100.",
-    "cmd-flip-help" : "Lance uma moeda se nenhum usuário for especificado, senão, lance um usuário.",
+
+    "cmd-flip-help" : "Vira uma moeda se nenhum usuário é especificado, de outra forma vira um usuário.",
+
     "cmd-dog-help" : "Exibe uma imagem aleatório de um cachorro.",
+
     "cmd-cat-help" : "Exibe uma imagem aleatório de um gato.",
-    "cmd-customcommand-help" : "Gerencie os comandos customizados do servidor.\nVocê também pode criar seus próprios comandos, para mais informações, use help cc add.\n\n- Imagens ligadas no comandos customizados são automaticamente escondidas.",
+
+    "cmd-customcommand-help" : "Gerencia os comandos personalizados do servidor.\nVocê também pode criar seu próprio comando,para mais informações use help cc add.\n\n- Links de imagens em comandos personalizados são automaticamente escondidos.",
+
     "cmd-customcommand-add-help" : "Permite adicionar um comando personalizado no servidor no servidor.\nColocando >>> no início, o comando personalizado executará o comando selecionado.\nColocando && entre comandos, cada comando será executado junto.",
+
     "cmd-customcommand-raw-help" : "Exibe o real conteúdo de um comando personalizado.",
+
     "cmd-customcommand-edit-help" : "Permite editar um comando personalizado no servidor que já existe no servidor.",
+
     "cmd-customcommand-delete-help" : "Permite apagar um comando personalizado no servidor no servidor.",
+
     "cmd-customcommand-list-help" : "Exibe a lista de comandos personalizados.",
+
     "cmd-ascii-help" : "Exibe um texto as arte ascii.",
+
     "cmd-poll-help" : "Cria um questionário interativo com as seguintes questões.",
+
     "cmd-meme-help" : "Gera um meme.\nMostra seu texto sobre o avatar do usuário ou sobre uma imagem personalizada.",
-    "cmd-osu-help" : "Mostra informaçes sobre um perfil de usuário.\nVocê pode escolher um modo, se você não especificar nenhum modo, será utilizado o padrão.\nLista de modos: Standard, Taiko, Ctb e Mania",
+
+    "cmd-osu-help" : "Exibe informações sobre um perfil osu!\nVocê pode escolher um modo, se você não especificar nenhum modo, o standart será usado.\nMode list : Standard, Taiko, Ctb, Mania",
+
     "cmd-choice-help" : "Seleciona ao acaso uma opção entre diversas opções.\nColocando >>> no início, iniciará o comando selecionado.\n\n- Links de imagens nesse comando são automaticamente escondidos.",
+
     "cmd-anime-help" : "Exibe informações sobre animê.",
+
     "cmd-manga-help" : "Exibe informações sobre mangá.",
+
     "cmd-char-help" : "Exibe informações sobre um personagem. (Anime/Manga)",
+
     "cmd-nextep-help" : "Exibe o tempo restante antes do próximo episódio do anime.",
-    "cmd-picture-help" : "Exibe a lista de meu comandos de imagem. (Provido por weeb.sh e triggered-api.tk)",
+
+    "cmd-weeb-help" : "Exibe a lista de comandos do meu anime. (Provido por weeb.sh e triggered-api.tk)",
+
     "cmd-help-help" : "Mostra meus comandos ou exibe a ajuda do comando.",
+
     "cmd-stats-help" : "Exibe as minhas estatísticas.",
+
     "cmd-ping-help" : "Mostra o meu ping.",
+
     "cmd-shard-help" : "Mostra qual fragmento você está.",
+
     "cmd-me-help" : "Permite falar como se fosse eu.",
+
     "cmd-avatar-help" : "Mostra um avatar de um usuário.\nSe você não especificar um usuário, mostra o seu.",
+
     "cmd-userinfo-help" : "Mostra informação de um usuário.\nSe você não especificar um usuário, mostra o seu.",
+
     "cmd-serverinfo-help" : "Mostra informações sobre o servidor.",
+
     "cmd-roleinfo-help" : "Mostra informações sobre um papel. Atenção, esse comando é case sensitive.",
+
     "cmd-info-help" : "Mostra informações sobre mim.",
+
     "cmd-credits-help" : "Mostra minha lista de agradecimentos especiais.",
+
     "cmd-changelog-help" : "Mostra minhas notas sobre o último patch.\nPara mais informações sobre notas de patches antigos, visite meu servidor oficial.",
+
     "cmd-don-help" : "Mostra informações e links para me apoiar.",
+
     "cmd-permsinfo-help" : "Mostra informações sobre as minhas permissões.",
+
     "cmd-id-help" : "Mostra o ID de um usuário.\nSe você não especificar um usuário, mostra o seu.",
+
     "cmd-invitation-help" : "Mostra meus links de convites.",
+
     "cmd-suggestion-help" : "Envia uma sugestão para o desenvolvedor.",
+
     "cmd-bug-help" : "Reporta um bug para o desenvolvedor.",
+
     "cmd-feedback-help" : "Envia um feedback sobre mim para o desenvolvedor.",
+
     "cmd-version-help" : "Mostra a minha versão atual.",
+
     "cmd-infoshard-help" : "Mostra informação sobre meus fragmentos.",
+
     "cmd-giverole-help" : "Atribui um papel para um usuário do clã.",
+
     "cmd-setrole-help" : "Configura quais papéis podem ser obtidos com o comando getrole.",
+
     "cmd-setrole-add-help" : "Torna um papel acessível através do comando getrole.",
-    "cmd-setrole-remove-help" : "Un-makes a role obtainable with the getrole command.",
-    "cmd-setrole-reset-help" : "Reinicia a lista de papeis obtidos.",
-    "cmd-setrole-list-help" : "Mostra todos os papeis que podem ser obtidos por comando getrole.",
-    "cmd-getrole-help" : "Permite adquirir um papel ou removê-lo. Cuidado, é case sensitive.",
-    "cmd-join-help" : "Summons me into your voice channel or into the specified one.",
-    "cmd-play-help" : "Enqueues a song with an url or keywords.\nCan also enqueue a stream or a radio.",
-    "cmd-bind-help" : "Avoid the use of the commands in every channel except in the one where the command is used.",
-    "cmd-stop-help" : "Stops the player and clears the queue.",
-    "cmd-pause-help" : "Pauses the currently playing song.",
-    "cmd-resume-help" : "Resumes a song if it is currently paused.",
+
+    "cmd-setrole-remove-help" : "Desfaz uma função adquirivel com o gertole command.",
+
+    "cmd-setrole-reset-help" : "Reseta a lista de funções adquiriveis.",
+
+    "cmd-setrole-list-help" : "Exibe todas as funções que podem ser obtidas com o getrole command.",
+
+    "cmd-getrole-help" : "Permite onter uma função ou remove-la. Atenção, isso faz distinção entre maiúsculas e minúsculas.",
+
+    "cmd-join-help" : "Me convoca para dentro do seu canal de voz ou para outro específico.",
+
+    "cmd-play-help" : "Coloque uma música na fila com a url ou com as palavras-chave.\nStream ou radio também podem ser postas na fila.",
+
+    "cmd-bind-help" : "Evita o uso dos comandos em todos os canais exceto no canal em que o comando é usado.",
+
+    "cmd-stop-help" : "Para o player e limpa a fila.",
+
+    "cmd-pause-help" : "Pause a música que esta tocando no momento.",
+
+    "cmd-resume-help" : "Retoma a música se ela foi pausada no momento.",
+
     "cmd-skip-help" : "Passa a musica atual.",
-    "cmd-forceskip-help" : "Skips the current song without needing to vote.\nIf you specify a queue position, skips every song until the chosen position.",
-    "cmd-np-help" : "Returns some informations about the current song.",
-    "cmd-queue-help" : "Prints the current song queue.",
-    "cmd-active-help" : "Displays all my players with their states.",
-    "cmd-volume-help" : "Sets the playback volume. Accepted values are from 0 to 1000.\nPutting + or - before the volume will make the volume change relative to the current volume.\nIf you don't specify any new volume, returns the current volume.",
-    "cmd-pl-help" : "Manages my autoplaylists.",
+
+    "cmd-forceskip-help" : "Pula a atual música sem precisar de voto.\nSe você especifica a posição na lista, pula todas as músicas até a posição escolhida.",
+
+    "cmd-np-help" : "Retorna algumas informações sobre a atual música.Returns some informations about the current song.",
+
+    "cmd-queue-help" : "Exibe a fila de músicas atualPrints the current song queue.",
+
+    "cmd-active-help" : "Exibe todos meus jogadores com seus estados.",
+
+    "cmd-volume-help" : "Define o volume de reprodução. Os valores aceitos são de 0 a 1000.\nColocando + ou - antes do volume vai fazer a mudança de volume mudar em relação para o volume atual.\n Se você não especificar nenhum novo volume, retornará ao volume atual.",
+
+    "cmd-pl-help" : "Gerenciar minhas autoplaylists.",
+
     "cmd-pl-off-help" : "Desabilita a lista de reprodução automática atual.",
+
     "cmd-ploff-help" : "Desabilita a lista de reprodução automática atual.",
+
     "cmd-pl-now-help" : "Exibe a lista de reprodução automática atual.",
+
     "cmd-plnow-help" : "Exibe a lista de reprodução automática atual",
+
     "cmd-pl-start-help" : "Inicial uma lista de reprodução automática.\nSe não for especificada uma lista de reprodução automática, carrega a sua.",
+
     "cmd-plstart-help" : "Inicial uma lista de reprodução automática.\nSe não for especificada uma lista de reprodução automática, carrega a sua.",
+
     "cmd-pl-new-help" : "Cria uma nova lista de reprodução automática que pode ser carregada.",
+
     "cmd-plnew-help" : "Cria uma nova lista de reprodução automática que pode ser carregada.",
+
     "cmd-pl-info-help" : "Dá informações sobre uma lista de reprodução automática, se não for especificada uma lista a informação será sobre a lista de reprodução automática atual.",
+
     "cmd-plinfo-help" : "Dá informações sobre uma lista de reprodução automática, se não for especificada uma lista a informação será sobre a lista de reprodução automática atual.",
+
     "cmd-pl-repair-help" : "Repara uma lista de reprodução automática, se não for especificada uma lista a reparação será sobre a lista de reprodução automática atual.",
+
     "cmd-plrepair-help" : "Repara uma lista de reprodução automática, se não for especificada uma lista a reparação será sobre a lista de reprodução automática atual.",
+
     "cmd-lyrics-help" : "Mostra a letra de uma música.\nSe não especificar nenhuma url ou palavras chaves, mostrará a letra da música atual.",
+
     "cmd-pladd-help" : "Adicionar uma música à lista de reprodução automática atual, se você não especificar uma url, adicionar a música atual na lista de reprodução automática.\nVocê pode utilizar palavras reservadas para tentar adiciona-la sem uma url.",
+
     "cmd-pl-add-help" : "Adicionar uma música à lista de reprodução automática atual, se você não especificar uma url, adicionar a música atual na lista de reprodução automática.\nVocê pode utilizar palavras reservadas para tentar adiciona-la sem uma url.",
 
+
+
     "cmd-pl-remove-help" : "Remove uma música da lista de reprodução automática atual, se você não especificar uma url, removes the current song from the lista de reprodução automática.\nVocê pode utilizar palavras reservadas para tentar remove-la sem uma url.\nVocê pode especificar uma posição na lista de reprodução automática (pode ser buscada com plinfo)",
+
     "cmd-plremove-help" : "Remove uma música da lista de reprodução automática atual, se você não especificar uma url, removes the current song from the lista de reprodução automática.\nVocê pode utilizar palavras reservadas para tentar remove-la sem uma url.\nVocê pode especificar uma posição na lista de reprodução automática (pode ser buscada com plinfo)",
+
     "cmd-pl-clear-help" : "Remove a lista de reprodução automática e todo o seu conteúdo.\nAlerta : Essa operação não pode ser desfeita.",
+
     "cmd-plclear-help" : "Remove a lista de reprodução automática e todo o seu conteúdo.\nAlerta : Essa operação não pode ser desfeita.",
+
     "cmd-plsettings-help" : "Exibe informações sobre uma lista de reprodução automática ou edita suas configurações.\nUsuário confiáveis podem reparar, adicionar e remover músicas da lista de reprodução automática.\nTodos podem utilizar todas as listas de reprodução automática, mesmo se elas são privadas.\nQualquer um pode adicionar/remover/reparar a lista de reprodução automática se ela não for privativa.",
+
     "cmd-pl-settings-help" : "Exibe informações sobre uma lista de reprodução automática ou edita suas configurações.\nUsuário confiáveis podem reparar, adicionar e remover músicas da lista de reprodução automática.\nTodos podem utilizar todas as listas de reprodução automática, mesmo se elas são privadas.\nQualquer um pode adicionar/remover/reparar a lista de reprodução automática se ela não for privativa.",
+
     "cmd-pl-clone-help" : "Cria uma lista de reprodução automática a partir da códiga de uma lista de reprodução automática existente.",
+
     "cmd-plclone-help" : "Cria uma lista de reprodução automática a partir da códiga de uma lista de reprodução automática existente.",
+
     "cmd-repeat-help" : "Repete a fila.",
+
     "cmd-clear-help" : "Limpa a fila atual.",
+
     "cmd-promote-help" : "Move uma música através da especificação de sua posição na lista.\nSe nenhuma posição é informada, move para a primeira posição da lista.\nSe nenhuma música for especificada, move a última música da lista para a primeira posição.",
+
     "cmd-shuffle-help" : "Mistura a fila.",
-    "cmd-remove-help" : "Removes a song from the queue.\nIf you don't specify any position, removes the last song in queue.\nOtherwise remove a song based on his position in queue.\nYou can specify a second position to remove every song between the two positions.",
+
+    "cmd-remove-help" : "Retira uma música da fila.\nSe você não especificar nenhuma posição, remove a última música na fila.\nDe outra forma, remove uma música baseado na sua posição na fila.\nVocê pode especificar uma segunda posição para remover toda música entre as duas posições.",
+
     "cmd-playnow-help" : "Toca imediatamente a música.",
-    "cmd-playnext-help" : "Enfileira uma música para a primeira posição da fila.",
+
+    "cmd-playnext-help" : "Lista uma música para a primeira posição da fila.",
+
     "cmd-previous-help" : "Coloca na fila a música anterior.",
+
     "cmd-replay-help" : "Coloca na fila a música atual.",
+
     "cmd-stream-help" : "Transmitir uma música.",
+
     "cmd-setdj-help" : "Configura um papel como papel DJ (ou vários).\nMembros com um papél DJ podem utilizar qualquer comando de música.\nreset : remove a permissão de DJ para cada papél no servidor.\nnow : exibe cada papél com permissão de DJ.\neveryone : concede minhas permissões DJ para todos no servidor.",
+
     "cmd-radio-help" : "Gerenciamento de comandos de rário.",
+
     "cmd-radio-play-help" : "Adiciona uma rádio a lista de reprodução.",
+
     "cmd-radio-list-help" : "Mostra a lista de estações de rádio disponíveis.",
-    "cmd-search-help" : "Searches multiple videos at once with the selected parameters.\nYou can add one of them to the queue. If no service are specified, YouTube is selected by default.\n\nList of the services (platform where the video is searched) :\n- YouTube (yt) (by default)\n- SoundCloud (sc)",
+
+    "cmd-search-help" : "Procura múltiplos vídeos de uma vez com os parametros selecionados.\nVocê pode adicionar um deles para a fila. Se nenhum serviço for especificado, o youtube é selecionado por padrão.\n\nLista dos serviços (plataforma onde o vídeo será procurado) :\n- YouTube (yt) (por padrão)\n- SoundCloud (sc)",
+
     "cmd-moveto-help" : "Move a música para um momento específico.",
+
     "cmd-download-help" : "Permite criar um link de download de um vídeo do Youtube.\nSe nenhuma URL for especificada, para a música atual.",
+
     "cmd-defvolume-help" : "Gerenciador de volume padrão.",
+
     "cmd-defvolume-now-help" : "Exibe meu volume padrão atual.",
+
     "cmd-defvolume-set-help" : "Configura meu volume padrão.",
+
     "cmd-defvolume-reset-help" : "Reconfigura meu volume atual.",
-    "cmd-autoleave-help" : "Activity time before disconnecting from voice channel management.",
+
+    "cmd-autoleave-help" : "Tempo de atividade antes de desconectar do gerenciamento de canal de voz.",
+
     "cmd-autoleave-now-help" : "Mostra o tempo restante até ser removido do canal de voz por inatividade.",
+
     "cmd-autoleave-set-help" : "Edita meu tempo antes de  my time before leaving the voice channel for inactivity.",
+
     "cmd-autoleave-reset-help" : "Reconfigura meu tempo antes de sair do canal de voz por inatividade.",
+
     "cmd-autoleave-never-help" : "Desabilita minha função de desconexão automática por inatividade.",
-    "cmd-npmsg-help" : "Auto now playing messages management.",
-    "cmd-npmsg-now-help" : "Displays my current setting about auto now playing messages at the beginning of new song.",
+
+    "cmd-npmsg-help" : "Auto agora está tocando mensagens de gerenciamento.",
+
+    "cmd-npmsg-now-help" : "Exibe minha configuração atual sobre auto agora reproduzindo mensagens no início da nova música.",
+
     "cmd-npmsg-set-help" : "Escolhe um canal padrão para as mensagens de notificação automáticas.",
-    "cmd-npmsg-reset-help" : "Resets my setting about auto now playing messages at the beginning of new song.",
+
+    "cmd-npmsg-reset-help" : "Redefine minha configuração sobre auto agora reproduzindo mensagens no início da nova música.",
+
     "cmd-npmsg-never-help" : "Desativa mensagens de tocando agora ao começar uma nova música.",
-    "cmd-settings-help" : "Exibe as minhas configuralçies atuais do servidor.",
+
+    "cmd-settings-help" : "Exibe as minhas configurações atuais do servidor.",
+
     "cmd-marry-help" : "Casar você com um usuário.",
+
     "cmd-divorce-help" : "Separa você de qualquer usuário no qual você era casado(a).",
+
     "cmd-owo-help" : "Habilita ou desabilita meu mod OwO.",
 
+
+
     "cmd-settings-title" : "Parâmetros do servidor",
+
     "cmd-settings-guild-pref" : "Prefixo",
+
     "cmd-settings-language" : "Lingua",
+
     "cmd-settings-dj-roles" : "Papéis DJ",
+
     "cmd-settings-clans" : "Clãs",
+
     "cmd-settings-autoroles" : "Autoroles",
+
     "cmd-settings-o-roles" : "Obtainable roles",
+
     "cmd-settings-cc" : "Comandos customizados",
+
     "cmd-settings-dc" : "Comandos desabilitados",
+
     "cmd-settings-bluser" : "Lista negra",
+
     "cmd-settings-wm" : "Mensagens de boas vindas",
+
     "cmd-settings-gm" : "Mensagens de despedida",
+
     "cmd-settings-ic" : "Canais ignorados",
+
     "cmd-settings-bind" : "Conais conectados",
+
     "cmd-settings-lvc" : "Leaving voice after",
+
     "cmd-settings-dv" : "Volume padrão",
+
     "cmd-settings-np" : "Mensagem de notificação",
+
     "cmd-settings-glob" : "Geral",
+
     "cmd-settings-commands" : "Comandos",
+
     "cmd-settings-permissions" : "Permissões",
+
     "cmd-settings-messages" : "Mensagens",
+
     "cmd-settings-player" : "Tocador",
+
     "cmd-settings-owo" : "Mod OwO",
 
+
+
     "cmd-blacklist-added" : "O usuário entrou para a lista negra.",
+
     "cmd-blacklist-r-added" : "Esse papel está colocado na Lista negra.",
+
     "cmd-blacklist-r-removed" : "Esse papel foi removido a lista negra do servidor.",
+
     "cmd-blacklist-r-a-bl" : "Esse papel já está na lista negra.",
+
     "cmd-blacklist-a-bl" : "Esse usuário já está na lista negra.",
+
     "cmd-blacklist-removed" : "Usuário foi removido da lista negra do servidor.",
+
     "cmd-blacklist-not-bl" : "Usuário não está na lista negra.",
+
     "cmd-blacklist-no-bl-og" : "Não há usuário na lista negra desse servidor.",
+
     "cmd-blacklist-now-empty" : "Lista negra do servidor agora está vazia.",
+
     "cmd-blacklist-is-empty" : "Lista negra do servidor está vazia.",
+
     "cmd-clean-cleaned-messages" : "mensagens foram removidas desse canal.",
+
     "cmd-clean-cleaned-message" : "mensagen foi removida desse canal.",
-    "cmd-prefix-set-prefix" : "Prefix set for this server.\nTo go back to the normal prefix, do `{}`.",
+
+    "cmd-prefix-set-prefix" : "Prefixo definido para esse servidor.\nPara voltar ao prefixo normal, tente `{}`.",
+
     "cmd-prefix-reset" : "Prefixo do servidor reconfigurado. Prefixo atual: `{}`",
+
     "cmd-prefix-current" : "Prefixo atual: `{}`",
+
     "cmd-ignore-commands-disabled" : "Meus comandos estão agora desabilitados nesse canal.",
+
     "cmd-ignore-commands-enabled" : "Meus comandos estão agora habilitados nesse canal.",
+
     "cmd-dc-cmd-not-found" : "Eu não tenho um comando como esse.",
+
     "cmd-dc-add-cmd-now-disabled" : "Comando `{}` agora desabilitado nesse servidor.",
+
     "cmd-dc-add-already-disabled" : "Esse comando já está desabilitado!. Utilize `{}` para habilitado novamente.",
+
     "cmd-dc-delete-enabled-anew" : "Comando `{}` está habilitado novamente.",
+
     "cmd-dc-delete-is-not-disabled" : "Esse comando não está desabilitado.",
+
     "cmd-dc-delete-no-disabled-commands" : "Não há comandos desabilitados nesse servidor. Utilize `{}` para começar a desabilitar algum.",
+
     "cmd-dc-list-list" : "**Lista de comandos desabilitados:**\n",
+
     "cmd-dc-list-no-dc-list" : "Sem comandos desabilitados nesse servidor.",
+
     "cmd-language-invalid-language" : "Não conheço este idioma! Podes ver a lista completa dos meus idiomas disponíveis com {}",
+
     "cmd-already-language" : "Já estou em Português!",
+
     "cmd-new-language" : "Não estou em português!",
+
     "cmd-kick-cant-kick" : "Eu não posso expulsar ou banir {}...",
+
     "cmd-kick-cant-kick-myself" : "Boa tentativa, mas eu posso expulsar ou banir por mim mesmo.",
-    "cmd-kick-confirmation-kick" : "Queres mesmo expulsar **{}** ? Digita `sim` ou `não`.",
+
+    "cmd-kick-confirmation-kick" : "Quer mesmo expulsar **{}** ? Digite `sim` ou `não`.",
+
     "cmd-kick-cancelling-kick" : "A cancelar a expulsão, sem resposta...",
-    "cmd-kick-kicked" : "Foste expulso de **{}** por",
+
+    "cmd-kick-kicked" : "Foi expulso de **{}** por",
+
     "cmd-kick-failed" : "Mas a expulsão não funcionou",
+
     "cmd-kick-succes" : "{} foi expulso por",
+
     "cmd-kick-cancelled" : "Expulsão cancelada",
-    "cmd-ban-confirmation-ban" : "Queres mesmo banir **{}** ? Digita `sim` ou `não`.",
+
+    "cmd-ban-confirmation-ban" : "Quer mesmo banir **{}** ? Digite `sim` ou `não`.",
+
     "cmd-ban-cancelling-ban" : "A cancelar a acção de banir, sem resposta...",
+
     "cmd-ban-banned" : "Foste banido de **{}** por",
+
     "cmd-ban-failed" : "Mas a acção de banir não funcionou!",
+
     "cmd-ban-succes" : "{} foi banido por",
+
     "cmd-ban-cancelled" : "Banimento cancelado",
-    "cmd-hackban-confirmation-ban" : "Do you really want to hackban **{}** ? Type `yes` or `no`.",
+
+    "cmd-hackban-confirmation-ban" : "Você realmente quer dar hackban no(a) **{}** ? Digite `sim` ou `não`.",
+
     "cmd-hackban-failed" : "Mas a ação de banir não funcionou!",
+
     "cmd-hackban-succes" : "{} foi banido por",
+
     "cmd-hackban-cancelled" : "Banimento cancelado",
+
     "cmd-welcome-no-welcome-now" : "Não encontrei nenhuma mensagem de boas-vindas neste canal. \nVocê pode definir uma mensagem de boas-vindas fazendo {}",
+
     "cmd-welcome-current" : "A mensagem atual de boas-vindas neste canal é",
+
     "cmd-welcome-enabled" : "A seguinte mensagem de boas-vindas foi ativada neste canal",
+
     "cmd-welcome-off-already" : "A mensagem de boas vindas já está desativada neste canal...",
+
     "cmd-welcome-off-success" : "A mensagem de boas vindas agora está desabilitada neste canal.",
+
     "cmd-goodbye-no-goodbye-now" : "Eu não encontrei nenhuma mensagem do despedida neste canal. \nVocê pode definir uma mensagem de despedida fazendo {}",
+
     "cmd-goodbye-current" : "A atual mensagem de despedida deste canal é...",
+
     "cmd-goodbye-enabled" : "A seguinte mensagem de despedida foi ativada neste canal",
+
     "cmd-goodbye-off-already" : "A mensagem de despedida já está desabilitada este canal...",
+
     "cmd-goodbye-off-success" : "A mensagem de despedida agora está desabilitada neste canal.",
+
     "cmd-autorole-list-roles" : "As funções automáticas neste servidor são",
+
     "cmd-autorole-list-one-role" : "A função automática neste servidor é",
+
     "cmd-autorole-no-autorole" : "Não há funções automáticas neste servidor!",
+
     "cmd-autorole-all-removed" : "Todas as funções automáticas foram removidas!",
+
     "cmd-autorole-updated-roles" : "A função automática do servidor agora são",
+
     "cmd-autorole-updated-one-role" : "As funções automáticas do servidor agora é",
+
     "cmd-joinclan-not-found" : "Eu não encontrei o clan...",
+
     "cmd-joinclan-no-clans-available" : "Nenhum clã pode ser juntado, você pode permitir que as pessoas obtenham com {}",
+
     "cmd-joinclan-cant-be-gived" : "Esta função não pode ser dada, você pode permitir que as pessoas as coloquem com {}",
+
     "cmd-joinclan-already-have-clan" : "Você já tem um clã ... Você não pode entrar em outro.",
+
     "cmd-joinclan-succes" : "Agora você tem a `{}` função !",
+
     "cmd-joinclan-role-not-found" : "Desculpe, não encontrei nenhuma função chamada `{}` neste servidor.",
+
     "cmd-clan-create-succes" : "Cla criado com sucesso.",
+
     "cmd-clan-create-already-exist" : "Este clan já existe",
+
     "cmd-clan-delete-succes" : "Clan deletado com sucesso.",
+
     "cmd-clan-not-existing" : "Este clan não existe.",
+
     "cmd-clan-list" : "**Lista de Clans:**\n",
+
     "cmd-clan-no-clans" : "Não há clans neste servidor. Use `{}` para adicionar algum.",
+
     "cmd-8ball-options" : "Yes !|Não...|Talvez...|Definitivamente não |Com certeza !|Nem pense nisso |Eu não acho...|Seguramente!",
+
     "cmd-ily-nope" : "Eu não estou apaixonado por você...",
+
     "cmd-ily-yes" : "Eu também ❤|De verdade? >///<|É demais >///< ❤|Eu estou apaixonado por você há muito tempo ❤|Eu sei, e você também conhece meus sentimentos ❤|Obrigado! Eu também ❤ ❤",
+
     "cmd-ily-no" : "Eu não... 💔|Parem de me assediar...|Eu já respondi não...|Desculpa, isso não é recíproco...|Mas ... eu te conheço?|Eu prefiro ser só seu amigo..|Desculpe... eu já estou com alguém...",
+
     "cmd-roll" : "{} recebe um {}.",
+
     "cmd-flip-nice-try" : "Boa tentativa. Que tal isso?",
+
     "cmd-flip-success" : "vire uma moeda e dê...",
-    "cmd-flip-tails" : "TAILS!",
-    "cmd-flip-heads" : "HEADS!",
+
+    "cmd-flip-tails" : "COROA!",
+
+    "cmd-flip-heads" : "CARA!",
+
     "cmd-customcommand-in-basic-command" : "Este comando já existe em meus comandos básicos.",
+
     "cmd-customcommand-added" : "Comando personalizado adicionado com sucesso.",
+
     "cmd-customcommand-already-exists" : "Este comando já existe. Use {} para editar.",
+
     "cmd-customcommand-raw-content" : "O conteúdo do comando personalizado{} é :",
+
     "cmd-customcommand-raw-dont-exist" : "Esse comando não existe.",
+
     "cmd-customcommand-raw-no-cc" : "Não há comandos personalizados neste servidor. Use  {} para adicionar algum.",
+
     "cmd-customcommand-success-edit" : "Comando personalizado editado.",
+
     "cmd-customcommand-failed-edit" : "Este comando não existe. Use {} para adicionar.",
+
     "cmd-customcommand-deleted" : "Comando personalizado deletado com sucesso",
+
     "cmd-customcommand-list" : "**Lista de comandos personalizados**\n",
+
     "cmd-ascii-too-long" : "Mensagem muito longa, descanse.",
+
     "cmd-poll-init" : "Diga uma opção de pesquisa para adicionar à enquete ou diga {} para publicar a enquete.",
+
     "cmd-poll-cancelled" : "Pesquisa cancelada, nenhuma opção foi dita.",
+
     "cmd-poll-someone-asks" : "pedidos",
+
     "cmd-meme-one-user" : "Por favor mencione apenas um usuário ao mesmo tempo.",
+
     "cmd-choice-no-choices" : "Você tem que especificar mais de uma função, separada por `|`.",
+
     "cmd-choice-empty-option" : "Eu escolhi a opção vazia",
+
     "cmd-choice-too-much-cmds" : "Comandos demais ao mesmo tempo",
+
     "cmd-anime-english-title" : "Título em Portugues",
+
     "cmd-anime-episode" : "Episodio",
+
     "cmd-anime-episodes" : "Episodios",
+
     "cmd-anime-type" : "Tipo",
+
     "cmd-anime-ranked" : "Classificado",
+
     "cmd-anime-popularity" : "Popularidade",
-    "cmd-anime-score" : "Pontuação",
+
+    "cmd-anime-score" : "Score",
+
     "cmd-anime-status" : "Status",
-    "cmd-anime-aired-from" : "Aired from",
+
+    "cmd-anime-aired-from" : "Aired por",
+
     "cmd-anime-to" : "para",
+
     "cmd-anime-aired" : "Aired",
+
     "cmd-manga-chapter" : "Capítulo",
+
     "cmd-manga-chapters" : "Capítulos",
+
     "cmd-manga-volume" : "Volume",
+
     "cmd-manga-volumes" : "Volumes",
-    "cmd-manga-published-from" : "Publicado de",
+
+    "cmd-manga-published-from" : "Publicado por",
+
     "cmd-manga-published" : "Publicado",
+
     "cmd-char-alternative-name" : "Nome alternativo",
-    "cmd-char-alternative-names" : "Nomes alternativos",
+
+    "cmd-char-alternative-names" : "Nomes alternativo",
+
     "cmd-char-seiyuu" : "Seiyuu",
+
     "cmd-char-favorite" : "Favorito",
+
     "cmd-char-favorites" : "Favoritos",
+
     "cmd-nextep-error" : "Oops! Tente novamente mais tarde!",
+
     "cmd-nextep-not-found" : "Eu não encontrei nenhum resultado para este anime",
-    "cmd-nextep-not-airing" : "This anime is not airing anymore!",
+
+    "cmd-nextep-not-airing" : "Esse anime não é mais airing!",
+
     "cmd-nextep" : "Próximo episódio",
+
     "cmd-nextep-day" : "Dia",
+
     "cmd-nextep-days" : "Dias",
+
     "cmd-nextep-hour" : "Hora",
+
     "cmd-nextep-hours" : "Horas",
+
     "cmd-nextep-minute" : "Minuto",
+
     "cmd-nextep-minutes" : "Minutos",
+
     "cmd-nextep-second" : "Segundo",
+
     "cmd-nextep-seconds" : "Segundos",
+
     "cmd-nextep-and" : "e",
+
     "cmd-weeb-alone" : "Desculpe ver você sozinho...",
+
     "cmd-weeb-dont-touch-me" : "Nããão ! Não me toque !",
+
     "cmd-bite" : "você foi mordido por",
+
     "cmd-stare" : "está olhando",
+
     "cmd-tickle" : "você recebeu cócegas de",
+
     "cmd-cuddle" : "você ganhou um abraço de",
+
     "cmd-kiss" : "você ganhou um beijo de",
+
     "cmd-pat" : "você recebeu um tapinha de",
+
     "cmd-lick" : "você ganhou uma lambida de",
+
     "cmd-hug" : "você ganhou uma abraço de",
+
     "cmd-poke" : "você foi cutucado por",
+
     "cmd-slap" : "você ganhou uma tapa de",
+
     "cmd-slap-yourself" : "você ganhou uma tapa de você mesmo?!",
+
     "cmd-punch" : "você ganhou um soco de",
+
     "cmd-punch-yourself" : "você ganhou um soco de você mesmo?!",
+
     "cmd-shoot" : "atira",
+
     "cmd-shoot-yourself" : "Eu não vou deixar você fazer isso!",
+
     "cmd-shoot-watora" : "Nem pense nisso!",
+
     "cmd-help-cmd-not-found" : "Nenhum comando chamado {} encontrado.",
+
     "cmd-help-help-not-found" : "Eu não encontrei nenhuma ajuda para este comando!",
+
     "cmd-help-title" : "Lista de comandos",
+
     "cmd-help-description" : "Você pode criar seus próprios apelidos e comandos com customcommands.",
-    "cmd-help-more-info-cmd" : "Pàra mais informações sobre um comando utilize",
-    "cmd-help-more-info-cat" : "Para mais informações sobre uma categoria utilize",
-    "cmd-help-support" : "Se você tem alguma dúvida você pode perguntar no {}",
+
+    "cmd-help-more-info-cmd" : "Para mais informações sobre um comando utilize",
+
+    "cmd-help-more-info-cat" : "Para mais informações sobre uma categoria, utilize",
+
+    "cmd-help-support" : "Se você tem alguma dúvida, você pode perguntar no {}",
+
     "cmd-shard" : "Este servidor está no fragmento {} !",
+
     "cmd-avatar-my-avatar" : "Meu avatar",
+
     "cmd-avatar-someone-avatar" : "Avatar de {}",
+
     "cmd-avatar-your-avatar" : "Seu avatar",
+
     "cmd-userinfo-voice-member" : "{} com {} outro",
+
     "cmd-userinfo-voice-members" : "{} com {} outros",
+
     "cmd-userinfo-voice-alone" : "{} por si próprios",
+
     "cmd-userinfo-not-connected" : "Não conectado.",
+
     "cmd-userinfo-day-ago" : "{} dia atrás",
+
     "cmd-userinfo-days-ago" : "{} dias atrás",
+
     "cmd-userinfo-listening-music" : "Ouvindo {} por {}",
+
     "cmd-userinfo-playing" : "Tocando",
+
     "cmd-userinfo-watching" : "Assistindo",
+
     "cmd-userinfo-streaming" : "Transmitindo",
+
     "cmd-userinfo-joined-discord" : "Entrou no Discord",
+
     "cmd-userinfo-joined-guild" : "Entrou nest servidor",
+
     "cmd-userinfo-server-shared" : "Servidor compartilhado",
+
     "cmd-userinfo-servers-shared" : "Servidores compartilhados",
+
     "cmd-userinfo-voice" : "Voz",
+
     "cmd-userinfo-role" : "Função",
+
     "cmd-userinfo-roles" : "Funções",
+
     "cmd-userinfo-member" : "Membro",
+
     "cmd-userinfo-user-id" : "ID do usuário",
+
     "cmd-userinfo-married-with" : "Casado com",
+
     "cmd-serverinfo-since" : "Desde {}. Isso aconteceu há {} dias!",
+
     "cmd-serverinfo-region" : "Região",
+
     "cmd-serverinfo-users" : "Usuários",
+
     "cmd-serverinfo-textchannels" : "Canais de Texto",
+
     "cmd-serverinfo-voicechannels" : "Canais de Voz",
+
     "cmd-serverinfo-roles" : "Funções",
+
     "cmd-serverinfo-owner" : "Proprietário",
+
     "cmd-serverinfo-server-id" : "ID do Servidor",
+
     "cmd-roleinfo-user" : "Usuário",
+
     "cmd-roleinfo-users" : "Usuários",
+
     "cmd-roleinfo-color" : "Cor Hex",
+
     "cmd-roleinfo-mentionable" : "Mencionável",
+
     "cmd-roleinfo-all-users" : "Todos os usuários",
+
     "cmd-roleinfo-creation" : "Criação",
+
     "cmd-info" : "**Sobre:** ```Eu sou Hazuki Watora, um bot criado por Zenrac#0001 em 2016 com python 3.5.\nEm 2018 eu totalmente reescrito do zero com a reescrita do discord.py in Python 3.6.\nEu sou principalmente um bot musical, mas não apenas isso! Eu fui totalmente codificado em discord.py. (Obrigado Danny)``````O personagem Hazuki Watora foi desenhado/criado por Peko. Eu não ganhei nenhuma imagem de Watora. https://www.zerochan.net/Peko / http://lumino.sakura.ne.jp``````Você pode obter minha lista de comandos com =help\nVocê pode obter mais informações sobre permissões com =permsinfo\nVocê pode exibir meu agradecimento especial com =credits``````fix\nAo me utilizar, você aceita o fato de que eu posso manter o histórico dos comandos utilizados.```",
+
     "cmd-credits-title" : "Lista de pessoas que tornaram este bot possível.",
+
     "cmd-credits-watora-designer" : "designer Watora",
+
     "cmd-credits-bot-dev" : "O desenvolvedor do bot",
+
     "cmd-current-translation-written-by" : "Tradução atual escrita por",
+
     "cmd-current-translation-author" : "Zenrac#0001",
+
     "cmd-don-make-a-donation" : "Faça uma doação",
+
     "cmd-don-thx-in-advance" : "Desde já, obrigado!",
+
     "cmd-don-top-donators" : "Top doadores",
+
     "cmd-don-server-cost" : "Custo do servidor",
+
     "cmd-perms-info" : "**Ajuda com permissões:**\n```Minhas permissões são em sua maioria baseadas nas permissões de seu servidor/canal.\n\nExamplos :\n- Você não pode usar o comando ban se você não pode banir usuários.\n- Você não pode usar o comando purge se você não pode gerenciar mensagens.\n\nEu não garantirei funcionalidades se você está sozinho em um canal de voz comigo, ou se você tiver permissões de DJ.``````fix\nPermissões de DJ :``````Elas permitem usar ualuer comando musical sem a necessidade de ter permissões elevadas no servidor.\n\nPara conceder as permissões de DJ para alguém, você precisa dar a ele a função de DJ.``````fix\nFunção de DJ :``````Esta é a função que permite usar todos os comandos musicais, concedendo as mesmas permissões em caso de alguém ficar sozinho em um canal comigo.\n\nVocê pode configurar uma função de DJ com o comando {}setdj .\nUma função chamada DJ está concedendo permissões de DJ por padrão..```",
+
     "cmd-id-your-id" : "{} seu ID é {}.",
+
     "cmd-id-my-id" : "Meu ID é",
+
     "cmd-id-user-id" : "O ID de {} é {}.",
+
     "cmd-invitation-add-me" : "Me adicione",
+
     "cmd-invitation-my-server" : "Meu servidor",
+
     "cmd-invitation" : "Convite",
+
     "cmd-suggestion-useless" : "Por favor, não tente enviar sugestões inúteis.",
+
     "cmd-suggestion-sent" : "Sugestão enviada! Obrigado!",
+
     "cmd-bug-useless" : "Por favor, não tente enviar relatórios inúteis.",
+
     "cmd-bug-sent" : "Relatório de erro enviado! Obrigado!",
+
     "cmd-feedback-useless" : "Por favor, não tente enviar feedback inútil.",
+
     "cmd-feedback-sent" : "Feedback enviado! Obrigado! :mailbox_with_mail:",
+
     "cmd-ver-current" : "Versão atual",
+
     "cmd-giverole-add" : "{} agora tem {} em suas funções",
+
     "cmd-giverole-remove" : "Eu removi a função {} das funções de {}.",
-    "cmd-setrole-reset" : "A partir de agora não há mais funções que podem ser obtidas pelo comando {}!",
-    "cmd-setrole-already" : "Essa função já foi obtida.",
+
+    "cmd-setrole-reset" : "A partir de agora, não há mais funções que podem ser obtidas pelo comando{}!",
+
+    "cmd-setrole-already" : "Essa função já pode ser obtida.",
+
     "cmd-setrole-added" : "Nova função ue pode ser obtida adicionada.",
-    "cmd-setrole-removed" : "This role has been remove from the role that can be obtained.",
-    "cmd-setrole-already-d" : "Esta função não pode ser obtida",
-    "cmd-setrole-list" : "**Obtainable roles list:**\n",
-    "cmd-getrole-no-role-available" : "Não há função que possa ser obtida, você pode tornar acessível com {}.",
-    "cmd-getrole-role-not-obtainable" : "Esta função não pode ser concedida, você pode tornar acessível com {}.",
-    "cmd-getrole-not-enough-perm" : "{}, eu não possuo permissões suficientes para remover sua função {}.",
-    "cmd-getrole-not-enough-perm-add" : " Eu não possuo permissões suficientes para conceder-lhe a função {}.",
-    "cmd-getrole-remove-succes" : "{}, eu removo sua função {}.",
-    "cmd-getrole-add-succes" : "Você agora possui a função `{}`!",
-    "cmd-marry-too-young" : "Mas... Eu sou muito jovem para isso!",
-    "cmd-marry-married-to" : "Casado com {}",
-    "cmd-marry-proposed" : "{} pediu em casamento {}",
-    "cmd-marry-user-a-married" : "Desculpe, {} já é casado com {}.",
-    "cmd-marry-author-a-married" : "Perdão, mas você já é casado!\nUse {} se quiser se divorciar.",
-    "cmd-marry-a-together" : "Mas vocês já são casados!",
+
+    "cmd-setrole-removed" : "Essa função foi removida pela função que pode ser obtida.",
+
+    "cmd-setrole-already-d" : "Essa função não pode ser obtida",
+
+    "cmd-setrole-list" : "**Lista de funções adquiriveis:**\n",
+
+    "cmd-getrole-no-role-available" : "Não há funções a serem obtidas, você pode fazer isso adquirível com {}.",
+
+    "cmd-getrole-role-not-obtainable" : "Essa função não pode ser dada, você pode fazer isso adquirivel com {}.",
+
+    "cmd-getrole-not-enough-perm" : "{}, Eu não tenho permissões suficientes para remover sua função {}.",
+
+    "cmd-getrole-not-enough-perm-add" : "Eu não tenho permissões suficientes para dar a função {}.",
+
+    "cmd-getrole-remove-succes" : "{}, Eu removo sua função {}.",
+
+    "cmd-getrole-add-succes" : "Agora você tem a função `{}` !",
+
+    "cmd-marry-too-young" : "Mas... Eu sou muito jovem pra isso !",
+
+    "cmd-marry-married-to" : "Casado(a) com {}",
+
+    "cmd-marry-proposed" : "{} propôs para {}",
+
+    "cmd-marry-user-a-married" : "Desculpa, {} já está casado com {}.",
+
+    "cmd-marry-author-a-married" : "Desculpe, mas você já esta casado(a)!\nUse {} se você quer se divorciar.",
+
+    "cmd-marry-a-together" : "Mas você já está casado !",
+
     "cmd-marry-confirmation" : "Você tem 120 segundos para digitar {} ou {}",
-    "cmd-marry-happily" : "Bem casados",
-    "cmd-marry-success" : "Parabéns, {} e {} agora estão unidos em matrimônio!",
+
+    "cmd-marry-happily" : "Alegremente casado",
+
+    "cmd-marry-success" : "Parabéns, {} e {} estão vínculados pelo casamento !",
+
     "cmd-marry-declined" : "Desculpe {}, sua proposta foi recusada...",
-    "cmd-divorce-a-single" : "Você já é solteiro...",
-    "cmd-divorce-success" : "Certo, agora você está solteiro!",
+
+    "cmd-divorce-a-single" : "Você já está solteiro...",
+
+    "cmd-divorce-success" : "Entenda, agora você é solteiro !",
+
     "cmd-divorce-cancelled" : "Divórcio cancelado.",
-    "cmd-divorce-confirmation" : "Você realmente deseja se divorciar do {}? Vocês são casados desde {}.\nDigite {} ou {}.",
+
+    "cmd-divorce-confirmation" : "Você quer se divorciar de {} ? Vocês estão casados desde {}.\nDigite {} ou {}.",
+
     "cmd-owo-status" : "Meu mod OwO é agora",
+
     "cmd-owo-enabled" : "habilitado",
+
     "cmd-owo-disabled" : "desabilidato",
 
+
+
     "music-spotify-processing-a" : " Processando álbum {}",
+
     "music-spotify-processing-p" : "Processando playlist {}",
+
     "music-spotify-not-supported" : "Isso não é uma URI ou URL compatível com o Spotify.",
+
     "music-spotify-maybe-prob" : "Você ou forneceu um URI inválido, ou houve um problema.",
+
     "music-spotify-disabled" : "Desculpe... Minha integração com o Spotify está desabilitada no momento. Tente novamente mais tarde!",
+
     "music-spotify-all-failed" : "Desculpe... Tudo Falhou, eu não adicionei nada!",
+
     "music-spotify-songs-failed" : "{} músicas falharam",
+
     "music-spotify-song-failed" : "{} música falhou",
 
+
+
     "music-autoplaylist-noten-perms" : "Esta lista de reprodução automática é privada. Você não tem permissão para editá-la.",
+
     "music-autoplaylist-only-owner" : "Apenas o dono da lista de reprodução automática pode editar as configurações da lista de reprodução automática.",
+
     "music-plsettings-yes" : "Sim",
+
     "music-plsettings-no" : "Não",
+
     "music-plsettings-created-by" : "Criado por",
+
     "music-plsettings-creation-date" : "Data de Criação",
+
     "music-plsettings-private" : "Privado",
+
     "music-plsettings-songs" : "Músicas",
+
     "music-plsettings-nobody" : "Ninguém",
+
     "music-plsettings-personal" : "Pessoal",
+
     "music-plsettings-autopl" : "{} lista de reprodução automática pessoal",
+
     "music-plsettings-got-deleted" : "A lista de reprodução automática atual foi removida. Você não pode editar ou exebir informações sobre ela.",
 
-    "music-join-playing-a-song" : "Eu já estou reproduzindo uma música em um canal de voz. Você não possui permissões suficientes para me juntar ao seu.",
-    "music-join-no-channel" : "Nenhum canal para seguir. Por favor, siga algum.",
-    "music-join-failed" : "Impossível conectar ao canal de voz. Tente novamente.",
-    "music-join-succes" : "Conectado com: {}",
-    "music-join-moved-fail" : "Impossível mover este canal. Talvez faltem permissões?",
+
+
+    "music-join-playing-a-song" : "Eu já estou tocando uma música no canal de voz. Você não tem permissão suficiente para me fazer acompanha-lo.",
+
+    "music-join-no-channel" : "Nenhum canal para que eu possa entrar. Por favor, entre em algum.",
+
+    "music-join-failed" : "Incapaz de conectar no canal de voz dessa vez. Por favor tente novamente.",
+
+    "music-join-succes" : "Conectado a: {}",
+
+    "music-join-moved-fail" : "Incapaz de mover este canal. Talvez falta de permissões?",
+
     "music-join-moved-succes" : "Movido para: {}",
-    "music-play-adding-pl-cancelled" : "Adição de playlist cancelada... Eu não estou mais no canal de voz.",
-    "music-play-added-pl" : "{} músicas adicionadas na fila (em {}s, cerca de {}s por música).",
-    "music-play-not-added-pl" : "Nenhuma música adicionada. Desculpe.",
-    "music-bind-disabling" : "Eu não estou mais vinculado a nenhum canal.",
-    "music-bind-enabling" : "Agora estou vinculado a este canal. Comandos estão restritos a somente este canal.",
-    "music-stop-song-running" : "Uma música está sendo reproduzida, eu não posso sair sem votos!",
-    "music-stop-vote" : "Seu voto para eu me desconectar foi foi adicionado!",
-    "music-stop-already" : "Você já votou para que eu me desconectasse...",
+
+    "music-play-adding-pl-cancelled" : "Cancelada a adesão de playlist... Eu não estou mais no canal de voz.",
+
+    "music-play-added-pl" : "{} Músicas adicionadas na fila com sucesso ( na {}, sobre {} por música).",
+
+    "music-play-not-added-pl" : "Nenhuma música foi adicionada. Desculpe.",
+
+    "music-bind-disabling" : "Não estou mais presa a nenhum canal.",
+
+    "music-bind-enabling" : "Agora estou presa a este canal. Comandos agora serão restritos apenas a este canal.",
+
+    "music-stop-song-running" : "Uma música está rodando, eu não posso sair sem nenhum voto!",
+
+    "music-stop-vote" : "Seu voto para me auto desconectar foi adicionado!",
+
+    "music-stop-already" : "Você já votou para eu mesma me desconectar...",
+
     "music-stop-succes" : "Desconectando e limpando fila...",
-    "music-pause-succes" : "{} pasou a música.",
+
+    "music-pause-succes" : "{} pausou a música.",
+
     "music-resume-succes" : "{} retomou a música.",
+
     "music-skip-succes" : "{} pulou a música.",
+
     "music-skip-added" : "Voto para pular adicionado.",
-    "music-skip-already" : "Você já votou para pular esta música.",
+
+    "music-skip-already" : "Você ja votou para pular esse som.",
+
     "music-forceskip-succes" : "{} forçou o pulo da música.",
+
     "music-forceskip-succes-to" : "{} forçou o pulo de {} músicas.",
+
     "music-queue-currently" : "Atualmente",
-    "music-queue-currently-streaming" : "Streaming agora",
+
+    "music-queue-currently-streaming" : "Atualmente transmitindo",
+
     "music-queue-added-by" : "adicionado por",
-    "music-queue-not-displayed" : "e {} mais",
+
+    "music-queue-not-displayed" : "e {} more",
+
     "music-volume-invalid-number" : "{} não é um número válido.",
+
     "music-volume-updated" : "Volume atualizado de {} para {}.",
-    "music-volume-unreasonable-volume-relative" : "Esta mudança de volume não é razoável: {}{:+} -> {}%. Informe um valor entre `{}%` e `{:+}%`.",
-    "music-volume-unreasonable-volume" : "Volume informado inválido: {}%. Informe um valor entre `0%` e `100%`.",
-    "music-volume-unreasonable-volume-patreon" : "Volume informado inválido: {}%. Informe um valor entre `0%` e `1000%`.",
-    "music-ploff-disabled" : "A autoplaylist foi desativada!",
-    "music-plnow-no-pl" : "A autoplaylist está desativada! Utilize {} para carregar uma autoplaylist!",
-    "music-plnow-now-user-auto" : "A autoplaylist atual é pessoal de {}.\nAutoplaylist: `{}/{}`",
-    "music-plnow-now-user" : "A autoplaylist atual é pessoal de {}.",
-    "music-plnow-now-auto" : "A autoplaylist atual é {}. \nAutoplaylist: `{}/{}`",
-    "music-plnow-now" : "A autoplaylist atual é {} !",
-    "music-plstart-loaded-user" : "Autoplaylist pessoal de {} foi carregada!",
-    "music-plstart-your-loaded" : "Sua autoplaylist pessoal foi carregada!",
-    "music-plstart-loaded" : "A autoplaylist {} foi carregada!",
-    "music-plstart-dont-have" : "Desculpe! Este usuário não possui uma autoplaylist pessoal.",
-    "music-plstart-doesnt-exists" : "A autoplaylist chamada {} não existe! Confirme sua mensagem ou utilize {} se quiser criá-la.",
-    "music-plnew-special-char" : "Por favor não utilize caracteres especiais.",
-    "music-plnew-try-to-hack" : "Você não pode criar uma autoplaylist pessoal tal qual esta, especialmente se este não for seu ID.",
-    "music-plnew-already-exists" : "{} já existe! Desculpe...",
-    "music-plnew-created" : "Nova autoplaylist {} criada!",
-    "music-plinfo-not-found" : "Não encontrei esta autoplaylist... Desculpe!",
-    "music-pl-disabled" : "A autoplaylist está atualmente inativa! Utilize {} para carregar uma.",
-    "music-plinfo-loading" : "Estou calculando esta autoplaylist, por favor aguarde...",
-    "music-plinfo-empty-auto" : "Não há músicas nesta autoplaylist, utilize {} para começar a adicionar!",
-    "music-plinfo-not-accessible" : "NÃO ESTÁ ACESSÍVEL, REMOVA COM {}",
-    "music-plinfo-perso-display" : "A autoplaylist pessoal de {} possui {} músicas!",
-    "music-plinfo-display" : "A autoplaylist {} possui {} músicas!",
-    "music-plinfo-warnings" : "Aviso: Há {} links quebrados na sua autoplaylist. Você pode remover todos com {}",
-    "music-plinfo-warning" : "Aviso: Há links quebrados na sua autoplaylist. Você pode removê-los facilmente com {}",
-    "music-plinfo-too-much" : "A autoplaylist possui muitas músicas para mostrar aqui. Eu lhe enviarei o conteúdo da autoplaylist com DMs em alguns segundos.",
-    "music-plrepair-someone" : "Você só pode editar sua própria autoplaylist pessoal.",
-    "music-plrepair-loading" : "Estou reparando esta autoplaylist, por favor aguarde...",
-    "music-plrepair-all-ok" : "Tudo está certo, esta autoplaylist não necessita ser reparada!",
-    "music-plrepair-removed-links" : "Sucesso, {} links quebrados foram removidos desta autoplaylist.",
-    "music-plrepair-removed-link" : "Sucesso, `1` link quebrado foi removido desta autoplaylist.",
-    "music-lyrics-title-not-find" : "Impossível encontrar o título, por favor confira se sua URL está correta.",
-    "music-lyrics-no-current-song" : "Nenhuma música sendo reproduzida, por favor especifique uma URL.",
-    "music-lyrics-not-found" : "Não foi possível encontrar a letra desta música. Desculpe.",
-    "music-pladd-already-present" : "Música já presente nesta autoplaylist!",
-    "music-pladd-added" : "{} foi adicionada a autoplaylist.",
-    "music-pladd-pl-added" : "Eu adicionei {} músicas a autoplaylist.",
-    "music-pladd-pls-added" : "Eu adicionei {} músicas, porém {} já estavam presentes.",
-    "music-pladd-all-already" : "Todas as músicas já estavam presentes na autoplaylist, nada foi adicionado.",
-    "music-pladd-already-present" : "Música já presente na autoplaylist!",
-    "music-plremove-not-found" : "Esta música não foi encontrada na autoplaylist.",
-    "music-plremove-removed" : "{} foi removida da autoplaylist.",
-    "music-plremove-pl-removed" : "Eu removi {} músicas da autoplaylist.",
-    "music-plremove-pls-removed" : "Eu removi {} músicas, porém {} não estavam na autoplaylist.",
-    "music-plremove-all-already" : "Nenhuma das músicas estava presente na autoplaylist, nada foi removido.",
-    "music-plclear-your-p-a" : "sua autoplaylist pessoal",
-    "music-plclear-confirmation" : "Você realmente deseja excluir **{}** ? Digite `sim` ou `não`.",
-    "music-plclear-cancelled" : "Cancelando exclusão da autoplaylist.",
-    "music-plclear-cleared" : "**{}** foi excluída com sucesso.",
-    "music-plclone-confirmation" : "**{}** será clonada. Por favor informe um novo nome para a autoplaylist:",
-    "music-plclone-cloned" : "**{}** foi clonada com sucesso como **{}**.",
-    "music-plclone-cancelled" : "Cancelando clonagem da autoplaylist.",
+
+    "music-volume-unreasonable-volume-relative" : "Alteração de volume sem razão fornecida: {}{:+} -> {}%. Fornecida uma mudança entre `{}%` e `{:+}%`.",
+
+    "music-volume-unreasonable-volume" : "Volume sem razão fornecido: {}%. Provide a value between `0%` and `100%`.",
+
+    "music-volume-unreasonable-volume-patreon" : "Volume sem razão fornecido: {}%. Provide a value between `0%` and `1000%`.",
+
+    "music-ploff-disabled" : "A lista de reprodução foi desabilitada!",
+
+    "music-plnow-no-pl" : "A lista de reprodução foi desabilitada! Use {} para carregar uma lista de reprodução!",
+
+    "music-plnow-now-user-auto" : "A atual lista de reprodução é a playlist pessoal de {} .\nLista de reprodução: `{}/{}`",
+
+    "music-plnow-now-user" : "A atual lista de reprodução é a playlist pessoal de {}.",
+
+    "music-plnow-now-auto" : "A lista de reprodução é {}. \nLista de reprodução: `{}/{}`",
+
+    "music-plnow-now" : "A atual playlist automática é {} !",
+
+    "music-plstart-loaded-user" : "A lista de reprodução de {} foi carregada!",
+
+    "music-plstart-your-loaded" : "Sua lista de reprodução foi carregada!",
+
+    "music-plstart-loaded" : "A lista de reprodução {} foi carregada!",
+
+    "music-plstart-dont-have" : "Desculpe! Esse usuário não possui uma lista de reprodução.",
+
+    "music-plstart-doesnt-exists" : "A lista de reprodução chamada {} não existe! Por favor garanta sua mensagem ou use {} se você deseja cria-la.",
+
+    "music-plnew-special-char" : "Por favor não use nenhum caractere especial.",
+
+    "music-plnew-try-to-hack" : "Você não pode criar uma playlist pessoa como essa, especialmente se não for seu ID.",
+
+    "music-plnew-already-exists" : "{} Já existe! Desculpe...",
+
+    "music-plnew-created" : "Nova lista de reprodução {} criada!",
+
+    "music-plinfo-not-found" : "Eu não consigo encontrar essa lista de reprodução... Desculpe!",
+
+    "music-pl-disabled" : "A lista de reprodução está atualmente desabilitada! Use {} para carregar uma.",
+
+    "music-plinfo-loading" : "Estou calculando essa playlist automática, por favor, espere...",
+
+    "music-plinfo-empty-auto" : "Não existem músicas nessa lista de reprodução, use {} para começar a adicionar algumas!",
+
+    "music-plinfo-not-accessible" : "NÃO É ACESSÍVEL, REMOVA ISSO COM {}",
+
+    "music-plinfo-perso-display" : "A lista de reprodução de{} tem {} músicas !",
+
+    "music-plinfo-display" : "A lista de reprodução {} tem {} músicas !",
+
+    "music-plinfo-warnings" : "Alerta : Tem {} links mortos na sua lista de reprodução. Você pode remove-los todos com {}",
+
+    "music-plinfo-warning" : "Alerta : Tem um link morto na sua lista de reprodução. Você pode remove-lo facilmente com {}",
+
+    "music-plinfo-too-much" : "A lista de reprodução tem muitas músicas para serem exibidas aqui. Eu irei te enviar o conteúdo dessa playlist automática na sua DM em alguns segundos.",
+
+    "music-plrepair-someone" : "Você pode apenas editar sua lista de reprodução pessoal.",
+
+    "music-plrepair-loading" : "Estou arrumando essa lista de reprodução, por favor, espere...",
+
+    "music-plrepair-all-ok" : "tudo está okay, essa lista de reprodução não precisa ser reparada !",
+
+    "music-plrepair-removed-links" : "Sucesso, {} links mortos foram removidos da sua lista de reprodução.",
+
+    "music-plrepair-removed-link" : "Sucesso, `1` link morto foi removido da sua lista de reprodução.",
+
+    "music-lyrics-title-not-find" : "Não consegui encontrar o título, por favor, garanta que sua URL é correta.",
+
+    "music-lyrics-no-current-song" : "Nenhuma música sendo tocada, por favor especifique uma URL.",
+
+    "music-lyrics-not-found" : "Não consegui encontrar as letras dessa música. Desculpe.",
+
+    "music-pladd-already-present" : "Essa música já está está presente na lista de reprodução!",
+
+    "music-pladd-added" : "{} foi adicionado para a lista de reprodução.",
+
+    "music-pladd-pl-added" : "Eu adicionei {} músicas para a lista de reprodução.",
+
+    "music-pladd-pls-added" : "Eu adicionei {} músicas, mas {} já tinha sido adicionada.",
+
+    "music-pladd-all-already" : "Todas as músicas já estavam na lista de reprodução, não adicionei nada.",
+
+    "music-pladd-already-present" : "Música já presente na lista de reprodução!",
+
+    "music-plremove-not-found" : "Não encontrei essa música na lista de reprodução atual.",
+
+    "music-plremove-removed" : "{} foi removida da lista de reprodução.",
+
+    "music-plremove-pl-removed" : "Eu removi {} músicas da lista de reprodução.",
+
+    "music-plremove-pls-removed" : "Eu removi {} músicas, mas {} não estava na lista de reprodução.",
+
+    "music-plremove-all-already" : "Todas as músicas não estavam na lista de reprodução, não removi nada.",
+
+    "music-plclear-your-p-a" : "sua lista de reprodução pessoal.",
+
+    "music-plclear-confirmation" : "Você realmente quer deletar **{}** ? Digite `sim` ou `não`.",
+
+    "music-plclear-cancelled" : "Cancelando o deletamento da lista de reprodução.",
+
+    "music-plclear-cleared" : "**{}** foi deletado com sucesso.",
+
+    "music-plclone-confirmation" : "**{}** vai ser clonado. Por favor, digite o nome da nova lista de reprodução :",
+
+    "music-plclone-cloned" : "**{}** has been cloned with success as **{}**.",
+
+    "music-plclone-cancelled" : "Cancelando a clonagem da lista de reprodução.",
+
     "music-repeat-disabled" : "Não vou mais repetir a playlist.",
+
     "music-repeat-empty" : "Não posso repetir uma playlist vazia.",
+
     "music-repeat-enabled" : "OK, irei repetir a playlist!",
+
     "music-clear-empty" : "Não posso limpar uma playlist vazia.",
+
     "music-clear-cleared" : "A playlist foi limpa!",
+
     "music-clear-vote" : "Seu voto para limpar a playlist foi adicionado.",
+
     "music-clear-already" : "Você já votou para limpar a playlist.",
+
     "music-promote-empty" : "Não posso promover algo numa playlist vazia.",
+
     "music-promote-error" : "Você precisa especificar a posição da música entre 1 e {}.",
+
     "music-promote-promoted" : "Promoveu {} à primeira posição da playlist.",
+
     "music-promote-promoted-to" : "Promoveu {} à posição {} da playlist.",
+
     "music-promote-playlist" : "Você não pode usar esse comando numa playlist...",
+
     "music-shuffle-shuffled" : "Lista misturada !",
+
     "music-shuffle-empty" : "Playlist embaralhada!",
+
     "music-remove-empty" : "Não posso remover algo de uma playlist vazia.",
+
     "music-remove-removed" : "Removeu {} da playlist.",
+
     "music-remove-removed-multiples" : "Foram removidas {} músicas da playlist.",
+
     "music-previous-no-previous" : "Não há uma música anterior.",
+
     "music-stream-added" : "Eu adicionei a faixa à playlist.",
+
     "music-setdj-everyone" : "Minhas permissões de DJ foram concedidas a todos nessa sessão.",
+
     "music-setdj-are" : "Os DJs da sessão são : {}",
+
     "music-setdj-is" : "O DJ da sessão é : {}",
+
     "music-setdj-no-roles" : "Não há nenhum DJ nessa sessão!",
+
     "music-setdj-all-removed" : "Todos os DJs foram removidos!",
+
     "music-setdj-modified" : "Minhas permissões de DJ foram concedidas a todos nessa sessão.",
+
     "music-setdj-are-now" : "Os DJs da sessão são : {}",
+
     "music-setdj-is-now" : "O DJ da sessão é : {}",
+
     "music-radio-invalid-syntax" : "Não conheço essa rádio, use {} para mostrar a lista das minhas estações de rádios disponíveis. Ou você pode usar uma URL com o comando play.",
+
     "music-radio-list-title" : "Estações de rádio disponíveis.",
+
     "music-search-ensure" : "Por favor, certifique que sua busca está correta.",
+
     "music-search-max" : "Você não pode pesquisar mais de {} vídeos por vez.",
+
     "music-search-loading" : "Procurando...",
+
     "music-search-didnt-find" : "Não encontrei nada, desculpe...",
+
     "music-search-result" : "Resultado",
+
     "music-search-no-answer" : "Sem resposta? Bom, OK...",
+
     "music-search-exited" : "Busca avançada retirada.",
+
     "music-search-stopping" : "Bom...",
+
     "music-supersearch-select" : "Digite o número da música que você deseja que toque.",
+
     "music-moveto-stream" : "Não se pode mover enquanto o streaming estiver tocando...",
+
     "music-moveto-correct" : "Por favor, me de tempos corretos.",
+
     "music-moveto-exceeds" : "Estes tempos excedem a duração da música...",
+
     "music-moveto-moved" : "Mover música para {}.",
+
     "music-download-only" : "Somente links do YouTube podem ser baixados.",
+
     "music-defvolume-set" : "Agora, o padrão de volume nesse servidor é {}",
+
     "music-defvolume-reset" : "O padrão de volume foi ajustado para {}",
+
     "music-defvolume-now" : "O padrão de volume atual é {}",
+
     "music-autoleave-set" : "Por agora, eu vou deixar o canal de voz por inatividade após {}.",
+
     "music-autoleave-reset" : "O tempo antes de sair do canal de voz por inatividade foi reajustado para {}.",
+
     "music-autoleave-now" : "Meu atual tempo de saída do canal por inatividade é {}.",
+
     "music-autoleave-now-never" : "Minha função de desconexão automática por inatividade foi desabilitada, não vou mais me desconectar por inatividade.",
+
     "music-autoleave-unreasonable" : "Você tem que escolher entre {} e {} segundos se você não é Patron do meu servidor.",
+
     "music-autoleave-unreasonable-patron" : "Você não pode configurar um tempo maior que {}, use {} se você deseja nunca me desconectar por inatividade.",
+
     "music-autoleave-never" : "Nunca",
+
     "music-npmsg-reset" : "Agora, as mensagens no início de uma nova música serão enviadas automaticamente, dependendo de onde você está usando os comandos.",
+
     "music-npmsg-set" : "Agora, as mensagens no começo de uma nova música serão enviadas no {}.",
+
     "music-npmsg-set-disabled" : "Agora, as mensagens no início de uma nova música estão desabilitadas.",
+
     "music-npmsg-not-found" : "Eu não encontrei o canal de texto {}",
+
     "music-npmsg-now" : "Agora as mensagens de uma nova música serão enviadas para {}.",
+
     "music-npmsg-now-never" : "Agora, as mensagens no começo de uma nova música estão desabilitadas.",
+
     "music-npmsg-now-default" : "Agora, as mensagens no início de uma nova música serão enviadas automaticamente, dependendo de onde você está usando os comandos."
-}
