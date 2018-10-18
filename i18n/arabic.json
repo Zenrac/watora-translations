@@ -1,0 +1,11 @@
+{
+    "need-manage-messages-permission" : "أحتاج إلى إذن للتعامل مع الرسائل",
+    "need-manage-roles-permission" : "أحتاج إلى إذن للتعامل مع الأدوار.",
+    "need-embed-permission" : "أحتاج إلى إذن `لدمج الروابط",
+    "need-attach-files-permission" : "أحتاج إلى إذن لإرفاق الملفات",
+    "need-add-emojis" : "أحتاج إلى إذن لإضافة ردود أفعال",    
+    "need-connect-permission" : "أحتاج إلى إذن للتواصل في هذه الغرفة الصوتية!",
+    "need-speak-permission" : "أحتاج إلى إذن للتحدث في هذه الغرفة الصوتية!",
+    "need-embed-permission-for-goodbye" : "أحتاج إلى إذن لتضمين روابط لإرسال رسائل وداعًا إلى هذه الغرفة."
+    
+}
