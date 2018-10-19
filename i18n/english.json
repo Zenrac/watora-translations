@@ -18,7 +18,7 @@
     "role-not-enough-high" : "Your role is not high enough.",
     "put-the-role-id-instead" : "Invalid type of command, you have to put the ID of the role, you can find it with",
     
-    "music-over-used" : "Sorry. I'm currently over-used. To keep a decent global performance, you cannot play a song for the moment.",
+    "music-over-used" : "Sorry. I'm currently over-used. To keep a decent global performance, you cannot play a song at the moment.",
     "music-no-result" : "Sorry, there is no result for your search. Try to use {} to perform an advanced search.",
     "music-load-failed" : "Sorry, this video is not available anymore. Try to use {} to perform an advanced search.",  
     "music-upnext" : "Up next",
