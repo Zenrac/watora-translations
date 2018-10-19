@@ -166,7 +166,7 @@
     "cmd-clear-help" : "Clears the current queue.",
     "cmd-promote-help" : "Moves a song by specifying its queue index.\nIf you don't specify an after position, moves it to the first position of the queue.\nIf you don't specify a song either, it will promotes the last song of queue to the first position of the queue.",
     "cmd-shuffle-help" : "Shuffles the queue.",
-    "cmd-remove-help" : "Removes a song from the queue.\nIf you don't specify any position, removes the last song in queue.\nOtherwise remove a song based on his position in queue.\nYou can specify a second position to remove every song between the two positions.",
+    "cmd-remove-help" : "Removes a song from the queue.\nIf you don't specify any position, removes the last song in queue.\nOtherwise remove a song based on its position in queue.\nYou can specify a second position to remove every song between the two positions.",
     "cmd-playnow-help" : "Immediately plays a song.",
     "cmd-playnext-help" : "Enqueues a song to the first position of the queue.",         
     "cmd-previous-help" : "Enqueues the previous song.", 
