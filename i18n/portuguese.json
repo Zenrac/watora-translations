@@ -77,7 +77,6 @@
     "cmd-clan-delete-help" : "Permite retirar o clã do servidor.",
     "cmd-clan-list-help" : "Exibe os clãs disponíveis no servidor.",
     "cmd-8ball-help" : "Responde de forma aleatória a sua pergunta.",
-
     "cmd-ily-help" : "Se você deseja saber se eu te amo.",
     "cmd-roll-help" : "Gerar um número aleatório entre 0 e um máximo especificado.\nPode também gerar um número aleatório entre dois números.\nDe outra forma gera um número aleatório entre 0 e 100.",
     "cmd-flip-help" : "Lance uma moeda se nenhum usuário for especificado, senão, lance um usuário.",
@@ -155,7 +154,6 @@
     "cmd-lyrics-help" : "Mostra a letra de uma música.\nSe não especificar nenhuma url ou palavras chaves, mostrará a letra da música atual.",
     "cmd-pladd-help" : "Adicionar uma música à lista de reprodução automática atual, se você não especificar uma url, adicionar a música atual na lista de reprodução automática.\nVocê pode utilizar palavras reservadas para tentar adiciona-la sem uma url.",
     "cmd-pl-add-help" : "Adicionar uma música à lista de reprodução automática atual, se você não especificar uma url, adicionar a música atual na lista de reprodução automática.\nVocê pode utilizar palavras reservadas para tentar adiciona-la sem uma url.",
-
     "cmd-pl-remove-help" : "Remove uma música da lista de reprodução automática atual, se você não especificar uma url, remove a canção atual do lista de reprodução automática.\nVocê pode utilizar palavras reservadas para tentar remove-la sem uma url.\nVocê pode especificar uma posição na lista de reprodução automática (pode ser buscada com plinfo)",
     "cmd-plremove-help" : "Remove uma música da lista de reprodução automática atual, se você não especificar uma url, remove a canção atual do lista lista de reprodução automática.\nVocê pode utilizar palavras reservadas para tentar remove-la sem uma url.\nVocê pode especificar uma posição na lista de reprodução automática (pode ser buscada com plinfo)",
     "cmd-pl-clear-help" : "Remove a lista de reprodução automática e todo o seu conteúdo.\nAlerta : Essa operação não pode ser desfeita.",
