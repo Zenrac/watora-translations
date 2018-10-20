@@ -265,7 +265,7 @@
     "cmd-ban-succes" : "{} został zbanowany przez",
     "cmd-ban-cancelled" : "Ban anulowany",
     "cmd-hackban-confirmation-ban" : "Czy na pewno chcesz zhackbanować **{}** ? Wpisz `yes` lub `no`.",
-    "cmd-hackban-cancelled" : "Anulowanie hackbana, brak odpowiedzi...",
+    "cmd-hackban-cancelling-ban" : "Anulowanie hackbana, brak odpowiedzi...",
     "cmd-hackban-failed" : "Ale hackban nie zadziałał!",
     "cmd-hackban-succes" : "{} został/a zhackbanowany przez",
     "cmd-hackban-cancelled" : "Hackban anulowany",

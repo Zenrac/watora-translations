@@ -265,7 +265,7 @@
     "cmd-ban-succes" : "{} ha sido prohibido por",
     "cmd-ban-cancelled" : "Prohibición cancelada",
     "cmd-hackban-confirmation-ban" : "Realmente desea hacer un hackban a **{}** ? Responde `si` o `no`.",
-    "cmd-hackban-cancelled" : "Cancelando hackban, sin respuesta...",
+    "cmd-hackban-cancelling-ban" : "Cancelando hackban, sin respuesta...",
     "cmd-hackban-failed" : "Pero el hackban no funcionó!",
     "cmd-hackban-succes" : "{} ha sido hackbanned por",
     "cmd-hackban-cancelled" : "Hackban cancelado",

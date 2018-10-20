@@ -265,7 +265,7 @@
   "cmd-ban-succes" : "{} tarafından banlandı",
   "cmd-ban-cancelled" : "Ban iptal edildi",
   "cmd-hackban-confirmation-ban" : "Do you really want to hackban **{}** ? Type `yes` or `no`.",
-  "cmd-hackban-cancelled" : "Hackban iptal ediliyor, cevapsız...",
+  "cmd-hackban-cancelling-ban" : "Hackban iptal ediliyor, cevapsız...",
   "cmd-hackban-failed" : "But the hackban didn't work!",
   "cmd-hackban-succes" : "{} has been hackbanned by",
   "cmd-hackban-cancelled" : "Hackban iptal edildi",
