@@ -540,7 +540,7 @@
     "music-plstart-loaded-user" : "{}'s personal autoplaylist has been loaded!",
     "music-plstart-your-loaded" : "Your personal autoplaylist has been loaded!",
     "music-plstart-loaded" : "The autoplaylist {} has been loaded!",
-    "music-plstart-dont-have" : "Sorry! This user don't have a personal autoplaylist.",
+    "music-plstart-dont-have" : "Sorry! This user doesn't have a personal autoplaylist.",
     "music-plstart-doesnt-exists" : "The autoplaylist called {} doesn't exist! Please ensure your message or use {} if you want to create it.",
     "music-plnew-special-char" : "Please don't use any specials characters.",
     "music-plnew-try-to-hack" : "You cannot create a personal autoplaylist like this, especially if it's not your ID.",
