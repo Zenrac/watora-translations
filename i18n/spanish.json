@@ -374,7 +374,7 @@
     "cmd-slap-yourself" : "{}, recibiste una abofeteada de parte de ti mismo?!",
     "cmd-punch" : "{}, recibiste un golpe de parte de {}",
     "cmd-punch-yourself" : "{}, recibiste un golpe de parte de ti mismo?!",
-    "cmd-shoot" : "{} dispara {}",
+    "cmd-shoot" : "{} dispara a {}",
     "cmd-shoot-yourself" : "No te permitiré hacer esto!",
     "cmd-shoot-watora" : "Ni siquiera pienses en ello!",
     "cmd-help-cmd-not-found" : "Ningún comando llamado {} ha sido encontrado.",
