@@ -547,7 +547,7 @@
     "music-plnew-already-exists" : "{} ya existe! perdón...",
     "music-plnew-created" : "Nueva lista de reproducción automática {} creada!",
     "music-plinfo-not-found" : "No encontré esta lista de reproducción automática... Perdón!",
-    "music-pl-disabled" : "TLa lista de reproducción automática esta deshabilitada! Usa {} para cargar una.",
+    "music-pl-disabled" : "La lista de reproducción automática esta deshabilitada! Usa {} para cargar una.",
     "music-plinfo-loading" : "Estoy calculando la lista de reproducción automática, por favor espera...",
     "music-plinfo-empty-auto" : "No hay canciones en esta lista de reproducción automática, usa {} para añadir algunas!",
     "music-plinfo-not-accessible" : "NO SE PUEDE ACCEDER, borrala con {}",
