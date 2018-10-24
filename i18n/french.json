@@ -564,7 +564,6 @@
     "music-lyrics-title-not-find" : "Je ne peux pas trouver le titre, s'il vous plaît vérifiez que votre URL est correct.",
     "music-lyrics-no-current-song" : "Aucune musique en cours, s'il vous plaît spécifiez un URL.",
     "music-lyrics-not-found" : "Je n'ai pas trouvé les paroles de cette musique, désolée.",
-    "music-pladd-already-present" : "Musique déjà présente dans l'autoplaylist!",
     "music-pladd-added" : "{} a été ajouté à l'autoplaylist.",
     "music-pladd-pl-added" : "J'ai ajouté {} musiques à l'autoplaylist.",
     "music-pladd-pls-added" : "J'ai ajouté {} musiques, mais {} étaient déjà ajoutées.",

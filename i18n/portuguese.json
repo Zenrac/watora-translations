@@ -564,7 +564,6 @@
     "music-lyrics-title-not-find" : "Impossível encontrar o título, por favor confira se sua URL está correta.",
     "music-lyrics-no-current-song" : "Nenhuma música sendo reproduzida, por favor especifique uma URL.",
     "music-lyrics-not-found" : "Não foi possível encontrar a letra desta música. Desculpe.",
-    "music-pladd-already-present" : "Música já presente nesta lista de reprodução automática!",
     "music-pladd-added" : "{} foi adicionada a lista de reprodução automática.",
     "music-pladd-pl-added" : "Eu adicionei {} músicas a lista de reprodução automática.",
     "music-pladd-pls-added" : "Eu adicionei {} músicas, porém {} já estavam presentes.",
