@@ -564,7 +564,6 @@
     "music-lyrics-title-not-find" : "Не могу найти песню, проверьте ваш URL.",
     "music-lyrics-no-current-song" : "Песни сейчас не играют, пожалуйста укажите URL.",
     "music-lyrics-not-found" : "Не удалось найти текст песни для этой песни. Сожалею.",
-    "music-pladd-already-present" : "Песня уже сущевствует в автоплейлисте!",
     "music-pladd-added" : "{} была добавлена в автоплейлист.",
     "music-pladd-pl-added" : "Я добавила {} песни в автоплейлист.",
     "music-pladd-pls-added" : "Я добавила {} песни, но {} уже были в плейлисте.",
