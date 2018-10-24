@@ -274,7 +274,7 @@
     "cmd-welcome-enabled" : "El siguiente mensaje de bienvenida ha sido activado en este canal",
     "cmd-welcome-off-already" : "El mensaje de bienvenida ya estaba deshabilitado en este canal...",
     "cmd-welcome-off-success" : "Se acaba de desactivar el mensaje de bienvenida en este canal.",
-    "cmd-goodbye-no-goodbye-now" : "No he encontrado ningún mensaje de despedida.\nPuede establecer un mensaje de bienvenida al ejecutar{}",
+    "cmd-goodbye-no-goodbye-now" : "No he encontrado ningún mensaje de despedida.\nPuede establecer un mensaje de despedida al ejecutar {}",
     "cmd-goodbye-current" : "El mensaje de despedida actual en este canal es",
     "cmd-goodbye-enabled" : "El siguiente mensaje de despedida ha sido activado en este canal",
     "cmd-goodbye-off-already" : "El mensaje de despedida ya está desactivado en este canal...",
