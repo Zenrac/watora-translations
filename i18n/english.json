@@ -569,7 +569,6 @@
     "music-pladd-pl-added" : "I've added {} songs to the autoplaylist.",
     "music-pladd-pls-added" : "I've added {} songs, but {} were already added.",
     "music-pladd-all-already" : "Every song were already in the autoplaylist, I didn't add anything.",
-    "music-pladd-already-present" : "Song already present in the autoplaylist!",          
     "music-plremove-not-found" : "I didn't find this song in the current autoplaylist.",  
     "music-plremove-removed" : "{} has been removed from the autoplaylist.",
     "music-plremove-pl-removed" : "I've removed {} songs from the autoplaylist.",
