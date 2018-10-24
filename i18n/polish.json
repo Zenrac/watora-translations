@@ -564,7 +564,6 @@
     "music-lyrics-title-not-find" : "Nie można znaleźć tytułu, upewnij się proszę, że URL jest poprawny.",
     "music-lyrics-no-current-song" : "Żaden utwór nie jest aktualnie odtwarzany, wskaż proszę adres URL.",
     "music-lyrics-not-found" : "Nie znaleziono tekstu dla tego utworu. Przykro mi.",
-    "music-pladd-already-present" : "Utwór znajduje się już na autoplayliście!",
     "music-pladd-added" : "{} został dodany do autoplaylisty.",
     "music-pladd-pl-added" : "Dodałem {} utworów do autoplaylisty.",
     "music-pladd-pls-added" : "Dodałem {} utworów, ale {} już znajdowały się na liście.",
