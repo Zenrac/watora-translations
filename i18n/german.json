@@ -642,10 +642,10 @@
     "music-npmsg-now-never" : "'Wird gerade abgespielt' Benachrichtigung zu Beginn eines neuen Liedes ist nun deaktiviert.",
     "music-npmsg-now-default" : "'Wird gerade abgespielt' Benachrichtigung zu Beginn eines neuen Liedes wird nun automatisch abhängig davon abgesendet, wo du Befehle verwendest.",
     
-    "music-bass-boost-now" : "Bass boost currently set on {}",
-    "music-bass-boost-set" : "Bass boost now set on {}",
-    "cmd-bassboost-help" : "Changes the player's bass frequencies up to 4 levels. OFF, LOW, MEDIUM, HIGH and INSANE.\nYou can use the equalizer to make adjustments as you want.",
-    "cmd-equalizer-help" : "Manages an equlizer with 15 bands. Valid values are from -0.25 to 1.\n-0.25 means that the given frequency is completely muted and 0.25 means it is doubled.\nUse reaction to move the cursor and edit gains interactively. You can press the circle to reset the equalizer.\nOtherwise you can specify a band and a gain to edit it quickly.",
-    "music-equalizer-set" : "Band {}'s gain set to {}",
-    "cmd-voicekick-help" : "Kicks a user from a voice channel."
+    "music-bass-boost-now" : "Bass boost ist momentan gesetzt auf {}",
+    "music-bass-boost-set" : "Bass boost ist nun gesetzt auf {}",
+    "cmd-bassboost-help" : "Ändert die Bassfrequenzen des Players auf bis zu 4 Stufen. AUS, NIEDRIG, MITTEL, HOCH und IRRE. \nDu kannst den Equalizer verwenden, um Einstellungen vorzunehmen, wie du möchtest.",
+    "cmd-equalizer-help" : "Verwaltet einen Equlizer mit 15 Bändern. Gültige Werte sind von -0,25 bis 1. \n-0,25 bedeutet, dass die angegebene Frequenz vollständig stummgeschaltet ist und 0,25 bedeutet, dass sie verdoppelt wird.\nVerwenden Sie die Reaktion, um den Cursor zu bewegen und die Verstärkung interaktiv zu bearbeiten. Drücke den Kreis, um den Equalizer zurückzusetzten.\nAndernfalls können Sie ein Band und eine Verstärkung festlegen, um es schnell zu bearbeiten.",
+    "music-equalizer-set" : "Verstärkung von Band {} ist gesetzt auf {}",
+    "cmd-voicekick-help" : "Schmeißt einen Nutzer von einem Sprachkanal."
 }
