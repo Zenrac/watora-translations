@@ -640,5 +640,12 @@
     "music-npmsg-not-found" : "Je n'ai pas trouvé de salon textuel {}",
     "music-npmsg-now" : "Le message de notification au début de chaque nouvelle musique est envoyé dans le salon {}.",
     "music-npmsg-now-never" : "Le message de notification au début de chaque nouvelle musique est désactivé.",
-    "music-npmsg-now-default" : "Le message de notification au début de chaque nouvelle musique est envoyé automatiquement en fonction de là où vous utilisez les commandes."
+    "music-npmsg-now-default" : "Le message de notification au début de chaque nouvelle musique est envoyé automatiquement en fonction de là où vous utilisez les commandes.",
+
+    "music-bass-boost-now" : "Boost des basses actuellement sur {}",
+    "music-bass-boost-set" : "Boost des basses désormais sur {}",
+    "cmd-bassboost-help" : "Change la fréquence des basses jusqu'à 4 niveaux. OFF, LOW, MEDIUM, HIGH et INSANE.\nVous pouvez utiliser l'equalizer pour faire vos propres réglages.",
+    "cmd-equalizer-help" : "Gestion d'un equalizer (égaliseur) avec 15 bandes. Les valeurs valides vont de -0.25 à 1.\n-0.25 signifie que la fréquence donnée est completement coupée et 0.25 signifie qu'elle est doublée.\nUtilisez les réactions pour déplacer le curseur et éditer les gains intéractivement. Vous pouvez appuyer sur le cercle pour réinitialiser l'égaliseur.\nSinon vous pouvez directement spécifier une bande et un gain pour l'éditer rapidement.",
+    "music-equalizer-set" : "Le gain de la bande {} est désormais {}",
+    "cmd-voicekick-help" : "Expulse un utilisateur d'un salon vocal."
 }
