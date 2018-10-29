@@ -649,4 +649,3 @@
     "music-equalizer-set" : "Band {}'s gain set to {}",
     "cmd-voicekick-help" : "Kicks a user from a voice channel."
 }
-}
