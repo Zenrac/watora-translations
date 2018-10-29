@@ -645,7 +645,7 @@
     "music-bass-boost-now" : "Reforço dos graves está atualmente definido em {}",
     "music-bass-boost-set" : "Reforço dos graves agora definido em {}",
     "cmd-bassboost-help" : "Altera as frequências graves do player em até 4 níveis. DESLIGADO, BAIXO, MÉDIO, ALTO e INSANO.\nVocê pode usar o equalizador para fazer os ajustes que quiser.",
-    "cmd-equalizer-help" : "Gerencie um equalizador com 15 faixas. Os valores válidos são de -0.25 a 1.\n-0.25 significa que a frequência dada é completamente silenciada e 0.25 significa que é o dobro.\nUtilize a paleta para mover o cursor e editar os ganhos de forma interativa. Você pode pressionar o círculo para redefinir o equalizador.\nCaso contrário, você pode especificar uma faixa e facilidade para editá-la rapidamente.",
-    "music-equalizer-set" : "Ganho da banda {} definido para {}",
+    "cmd-equalizer-help" : "Gerencie um equalizador com 15 faixas. Os valores válidos são de -0.25 a 1.\n-0.25 significa que a frequência dada é completamente silenciada e 0.25 significa que é o dobro.\nUtilize o controle para mover o cursor e editar os ganhos de forma interativa. Você pode pressionar o círculo para redefinir o equalizador.\nCaso contrário, você pode especificar uma faixa e facilidade para editá-la rapidamente.",
+    "music-equalizer-set" : "Ganho de faixa {} definido para {}",
     "cmd-voicekick-help" : "Expulsa a um usuário de um canal de voz."
 }
