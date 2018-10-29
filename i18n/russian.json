@@ -642,10 +642,10 @@
     "music-npmsg-now-never" : "'Играет сейчас' сообщение в начале каждой песни отключено.",
     "music-npmsg-now-default" : "'Играет сейчас' сообщение в начале каждой песни отображется автоматически в зависмотси от того где вы используйте команды.",
 
-    "music-bass-boost-now" : "Bass boost currently set on {}",
-    "music-bass-boost-set" : "Bass boost now set on {}",
-    "cmd-bassboost-help" : "Changes the player's bass frequencies up to 4 levels. OFF, LOW, MEDIUM, HIGH and INSANE.\nYou can use the equalizer to make adjustments as you want.",
-    "cmd-equalizer-help" : "Manages an equlizer with 15 bands. Valid values are from -0.25 to 1.\n-0.25 means that the given frequency is completely muted and 0.25 means it is doubled.\nUse reaction to move the cursor and edit gains interactively. You can press the circle to reset the equalizer.\nOtherwise you can specify a band and a gain to edit it quickly.",
-    "music-equalizer-set" : "Band {}'s gain set to {}",
-    "cmd-voicekick-help" : "Kicks a user from a voice channel."
+    "music-bass-boost-now" : "Bass boost в настоящее время установлен на {}",
+    "music-bass-boost-set" : "Усилитель басов теперь включен {}",
+    "cmd-bassboost-help" : "Управляет эквалайзером с 15 полосами. Допустимые значения: от -0,25 до 1. \ n-0.25 означает, что данная частота полностью отключена, а 0.25 означает, что она удваивается. \ NИспользуйте реакцию для перемещения курсора и редактирования в интерактивном режиме. Вы можете нажимать круг для сброса эквалайзера. \ NВ противном случае вы можете указать диапазон и коэффициент усиления, чтобы быстро отредактировать его.",
+    "cmd-equalizer-help" : "",
+    "music-equalizer-set" : "силение диапазона {}, установленное на {}",
+    "cmd-voicekick-help" : "Удаляет пользователя из голосового канала."
 }
