@@ -5,6 +5,7 @@
 
 Watora is a Music discord bot.<br>
 You can translate yourself Watora to your own languages.<br>
+#### Only translate to language you're sure to mastered, DO NOT USE AUTO-TRANSLATOR. Quality over quantity !
 You can also correct my spelling mistakes.<br>
 
 ## Before trying to translate the bot, this is some things to know :<br><br> 
