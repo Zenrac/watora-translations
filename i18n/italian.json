@@ -642,10 +642,10 @@
     "music-npmsg-now-never" : "Il messaggio 'Sto riproduicendo' all'inizio della nuova canzone è disabilitato.",
     "music-npmsg-now-default" : "Il messaggio 'Sto riproducendo' all'inizio di ogni nuova canzone è stato inviato automaticamente in base a dove stai usando i comandi.",
 
-    "music-bass-boost-now" : "Bass boost currently set on {}",
-    "music-bass-boost-set" : "Bass boost now set on {}",
-    "cmd-bassboost-help" : "Changes the player's bass frequencies up to 4 levels. OFF, LOW, MEDIUM, HIGH and INSANE.\nYou can use the equalizer to make adjustments as you want.",
-    "cmd-equalizer-help" : "Manages an equlizer with 15 bands. Valid values are from -0.25 to 1.\n-0.25 means that the given frequency is completely muted and 0.25 means it is doubled.\nUse reaction to move the cursor and edit gains interactively. You can press the circle to reset the equalizer.\nOtherwise you can specify a band and a gain to edit it quickly.",
-    "music-equalizer-set" : "Band {}'s gain set to {}",
-    "cmd-voicekick-help" : "Kicks a user from a voice channel."
+    "music-bass-boost-now" : "Amplificazione bassi attualmente impostato a {.",
+    "music-bass-boost-set" : "Amplificazione bassi impostato a {}.",
+    "cmd-bassboost-help" : "Modifica le frequenze basse del riproduttore con 4 diversi livelli. 0FF, LOW, MEDIUM, HIGH e INSANE.\nPuoi utilizzare l'equalizzatore per fare tutti i cambiamenti che vuoi.",
+    "cmd-equalizer-help" : "Gestisce un equalizzatore a 15 bande. I valori ammessi vanno da -0.25 a 1.\n-0.25 significa che la relativa frequenza è completamente disattivata mentre 0.25 significa che il segnale ha potenza doppia.\n Utilizza il controllo per muovere il cursore e modificare i guadagni in modo interattivo. Puoi premere il cerchio per resettare l'equalizzatore.\nAltrimenti puoi specificare una banda e un guadagno per modificare velocemente le frequenze.",
+    "music-equalizer-set" : "Guadagno per la frequenza {} impostato a {}.",
+    "cmd-voicekick-help" : "Espelli un utente dal canale audio."
 }
