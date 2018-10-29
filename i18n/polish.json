@@ -642,10 +642,10 @@
     "music-npmsg-now-never" : "Wiadomość 'Teraz odtwarzane' na początku nowego utworu jest wyłączona.",
     "music-npmsg-now-default" : "Wiadomość 'Teraz odtwarzane' jest wysyłana automatycznie w zależności od tego gdzie używasz komend.",
 
-    "music-bass-boost-now" : "Bass boost currently set on {}",
-    "music-bass-boost-set" : "Bass boost now set on {}",
-    "cmd-bassboost-help" : "Changes the player's bass frequencies up to 4 levels. OFF, LOW, MEDIUM, HIGH and INSANE.\nYou can use the equalizer to make adjustments as you want.",
-    "cmd-equalizer-help" : "Manages an equlizer with 15 bands. Valid values are from -0.25 to 1.\n-0.25 means that the given frequency is completely muted and 0.25 means it is doubled.\nUse reaction to move the cursor and edit gains interactively. You can press the circle to reset the equalizer.\nOtherwise you can specify a band and a gain to edit it quickly.",
-    "music-equalizer-set" : "Band {}'s gain set to {}",
-    "cmd-voicekick-help" : "Kicks a user from a voice channel."
+    "music-bass-boost-now" : "Podbicie basu aktualnie ustawione na {}",
+    "music-bass-boost-set" : "Podbicie basu teraz ustawione na {}",
+    "cmd-bassboost-help" : "Zmienia częstotliwość basu odtwarzacza na 4 poziomach. WYŁĄCZONY, NISKI, ŚREDNI, WYSOKI i SZALONY.\nMożesz użyc equalizera aby wprowadzić własne zmiany.",
+    "cmd-equalizer-help" : "Zarządza equalizerem z 15 pasmami. Prawidłowe wartości: od -0.25 do 1.\n-0.25 oznacza, że dana częstotliwość jest całkowicie wyciszona, 0.25 oznacza jej podwojenie.\nUżyj reakcji aby poruszać kursorem aby interaktywnie zmieniać wzmocnienie. Możesz nacisnąć kółko aby zresetować equalizer.\nW innym przypadku możesz wybrać pasmo częstotliwości i jego wzmocnienie aby je szybko edytować.",
+    "music-equalizer-set" : "Wzmocnienie pasma {} ustawiono na {}",
+    "cmd-voicekick-help" : "Wyrzuca użytkownika z kanału głosowego."
 }
