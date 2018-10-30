@@ -1,5 +1,5 @@
 ﻿{
-    "need-manage-messages-permission" : "需要管理的的消息，许可。",
+    "need-manage-messages-permission" : "我沒有管理訊息的權限。",
     "need-manage-roles-permission" : "我沒有管理角色的權限。",
     "need-embed-permission" : "我沒有嵌入連結的權限。",
     "need-attach-files-permission" : "我沒有加入附件的權限。",   
