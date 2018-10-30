@@ -3,7 +3,7 @@
     "need-manage-roles-permission" : "我沒有管理角色的權限。",
     "need-embed-permission" : "我沒有嵌入連結的權限。",
     "need-attach-files-permission" : "我沒有加入附件的權限。",   
-    "need-add-emojis" : "我沒有增加表情的權限。",      
+    "need-add-emojis" : "你需要添加一个表情符号。",      
     "need-connect-permission" : "在這個頻道，我沒有連線的權限！",
     "need-speak-permission" : "在這個頻道，我沒有說話的權限！",
     "need-embed-permission-for-goodbye" : "要傳送再見訊息，我需要嵌入連結的權限。",    
