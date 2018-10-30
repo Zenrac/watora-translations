@@ -642,10 +642,10 @@
     "music-npmsg-now-never" : "El mensaje de reproducción al inicio de una nueva canción esta deshabilitado.",
     "music-npmsg-now-default" : "El mensaje de reproducción en curso se envía automáticamente dependiendo de dónde esté utilizando los comandos.",
 
-    "music-bass-boost-now" : "Bass boost currently set on {}",
-    "music-bass-boost-set" : "Bass boost now set on {}",
-    "cmd-bassboost-help" : "Changes the player's bass frequencies up to 4 levels. OFF, LOW, MEDIUM, HIGH and INSANE.\nYou can use the equalizer to make adjustments as you want.",
-    "cmd-equalizer-help" : "Manages an equlizer with 15 bands. Valid values are from -0.25 to 1.\n-0.25 means that the given frequency is completely muted and 0.25 means it is doubled.\nUse reaction to move the cursor and edit gains interactively. You can press the circle to reset the equalizer.\nOtherwise you can specify a band and a gain to edit it quickly.",
-    "music-equalizer-set" : "Band {}'s gain set to {}",
-    "cmd-voicekick-help" : "Kicks a user from a voice channel."
+    "music-bass-boost-now" : "Refuerzo de graves actualmente establecido en {}",
+    "music-bass-boost-set" : "Refuerzo de graves ahora establecido en {}",
+    "cmd-bassboost-help" : "Cambia las frecuencias de graves del reproductor hasta 4 niveles. APAGADO, BAJO, MEDIO, ALTO y ALOJADO.\nAhora puedes utilizar el ecualizador para realizar los ajustes que deseas.",
+    "cmd-equalizer-help" : "Gestiona un ecualizador con 15 bandas. Los valores válidos son de -0.25 a 1.\n-0.25 significa que la frecuencia dada está completamente silenciada y 0.25 significa que se duplica.\nUsa la reacción para mover el cursor y editar ganancias interactivamente. Puede presionar el círculo para restablecer el ecualizador.\nDe lo contrario, puede especificar una banda y una ganancia para editarla rápidamente.",
+    "music-equalizer-set" : "Banda {}'s ganancia establecida en {}",
+    "cmd-voicekick-help" : "Elimina a un usuario de un canal de voz."
 }
