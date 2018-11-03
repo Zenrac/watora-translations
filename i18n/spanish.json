@@ -642,10 +642,10 @@
     "music-npmsg-now-never" : "El mensaje de reproducción al inicio de una nueva canción esta deshabilitado.",
     "music-npmsg-now-default" : "El mensaje de reproducción en curso se envía automáticamente dependiendo de dónde esté utilizando los comandos.",
 
-    "music-bass-boost-now" : "Refuerzo de graves actualmente establecido en {}",
-    "music-bass-boost-set" : "Refuerzo de graves ahora establecido en {}",
-    "cmd-bassboost-help" : "Cambia las frecuencias de graves del reproductor hasta 4 niveles. APAGADO, BAJO, MEDIO, ALTO y ALOJADO.\nAhora puedes utilizar el ecualizador para realizar los ajustes que deseas.",
+    "music-bass-boost-now" : "Refuerzo de los bajos actualmente establecido a {}",
+    "music-bass-boost-set" : "Refuerzo de los bajos ahora establecido a {}",
+    "cmd-bassboost-help" : "Cambia las frecuencias de los bajos del reproductor hasta 4 niveles. APAGADO, BAJO, MEDIO, ALTO y ALOCADO.\nAhora puedes utilizar el ecualizador para realizar los ajustes que deseas.",
     "cmd-equalizer-help" : "Gestiona un ecualizador con 15 bandas. Los valores válidos son de -0.25 a 1.\n-0.25 significa que la frecuencia dada está completamente silenciada y 0.25 significa que se duplica.\nUsa la reacción para mover el cursor y editar ganancias interactivamente. Puede presionar el círculo para restablecer el ecualizador.\nDe lo contrario, puede especificar una banda y una ganancia para editarla rápidamente.",
-    "music-equalizer-set" : "Banda {}'s ganancia establecida en {}",
+    "music-equalizer-set" : "Ganancia de la banda {} establecida a {}",
     "cmd-voicekick-help" : "Elimina a un usuario de un canal de voz."
 }
