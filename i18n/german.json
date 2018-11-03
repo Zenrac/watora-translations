@@ -97,7 +97,7 @@
     "cmd-manga-help" : "Zeigt Informationen über einen Manga an.",
     "cmd-char-help" : "Zeigt Informationen über einen Anime oder Manga Charakter an.",
     "cmd-nextep-help" : "Gibt die verbleibende Zeit bis zur nächsten Folge eines Anime an.",
-    "cmd-picture-help" : "Zeigt meine Bild-Befehlsliste an (Ermöglicht durch weeb.sh und triggered-api.tk).",
+    "cmd-picture-help" : "Zeigt meine Bild-Befehlsliste an (Ermöglicht durch weeb.sh und arcadia-api.xyz).",
     "cmd-help-help" : "Gibt meine Befehlsliste oder Hilfe für einzelne Befehle aus.",
     "cmd-stats-help" : "Zeigt meine Statistiken an.",
     "cmd-ping-help" : "Zeigt meinen Ping.",
