@@ -93,7 +93,7 @@
     "cmd-manga-help": "만화에 관한 정보를 표시합니다.",
     "cmd-char-help": "애니메이션, 만화 캐릭터에 관한 정보를 표시합니다.",
     "cmd-nextep-help": "애니메이션의 다음 화 방영까지 남은 시간을 표시합니다.",
-    "cmd-picture-help": "Displays my picture commands list. (Powered by weeb.sh and triggered-api.tk)",
+    "cmd-picture-help": "Displays my picture commands list. (Powered by weeb.sh and arcadia-api.xyz)",
     "cmd-help-help": "Shows my commands or displays help for a command.",
     "cmd-stats-help": "제 통계 정보를 표시합니다.",
     "cmd-ping-help": "제 핑(ping) 정보를 표시합니다.",
