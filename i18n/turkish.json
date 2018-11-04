@@ -97,7 +97,7 @@
 	"cmd-manga-help" : "Mangalar hakkında bilgiler gösterir.",
 	"cmd-char-help" : "Bir karakter hakkında bilgiler gösterir. (Anime/Manga)",
 	"cmd-nextep-help" : "Bir sonraki anime bölümünden önce kalan zamanı görüntüler.",
-	"cmd-picture-help" : "Resim komutların listesini görüntüler. (weeb.sh ve triggered-api.tk tarafından desteklenmektedir)",
+	"cmd-picture-help" : "Resim komutların listesini görüntüler. (weeb.sh ve arcadia-api.xyz tarafından desteklenmektedir)",
 	"cmd-help-help" : "Komutlarımı gösterir veya komut için yardımı görüntüler.",
 	"cmd-stats-help" : "İstatistiklerimi gösterir",
 	"cmd-ping-help" : "Pingimi verir.",
@@ -364,12 +364,12 @@
 	"cmd-bite" : "{}, you were bitten by {}",
 	"cmd-stare" : "{} is staring {}",
 	"cmd-tickle" : "{}, you got a tickle from {}",
-	"cmd-cuddle" : "{}, you got a cuddle from {}", 
-	"cmd-kiss" : "{}, you got a kiss from {}", 
-	"cmd-pat" : "{}, you got a pat from {}", 
-	"cmd-lick" : "{}, you got a lick from {}", 
+	"cmd-cuddle" : "{}, you got a cuddle from {}",
+	"cmd-kiss" : "{}, you got a kiss from {}",
+	"cmd-pat" : "{}, you got a pat from {}",
+	"cmd-lick" : "{}, you got a lick from {}",
 	"cmd-hug" : "{}, you got a hug from {}",
-	"cmd-poke" : "{}, you got a poke from {}", 
+	"cmd-poke" : "{}, you got a poke from {}",
 	"cmd-slap" : "{}, you got a slap from {}",
 	"cmd-slap-yourself" : "{}, you got a slap from yourself?!",
 	"cmd-punch" : "{}, you got a punch from {}",
@@ -640,5 +640,12 @@
 	"music-npmsg-not-found" : "Yazı kanalını bulamadım {}",
 	"music-npmsg-now" : "Now playing message at the beginning of new song is now sent on {}.",
 	"music-npmsg-now-never" : "Now playing message at the beginning of new song is disabled.",
-	"music-npmsg-now-default" : "Now playing message is sent automatically depending of where you are using commands."
-	}
+	"music-npmsg-now-default" : "Now playing message is sent automatically depending of where you are using commands.",
+
+    "music-bass-boost-now" : "Bass boost currently set on {}",
+    "music-bass-boost-set" : "Bass boost now set on {}",
+    "cmd-bassboost-help" : "Changes the player's bass frequencies up to 4 levels. OFF, LOW, MEDIUM, HIGH and INSANE.\nYou can use the equalizer to make adjustments as you want.",
+    "cmd-equalizer-help" : "Manages an equalizer with 15 bands. Valid values are from -0.25 to 1.\n-0.25 means that the given frequency is completely muted and 0.25 means it is doubled.\nUse reactions to move the cursor and edit gains interactively. You can press the circle to reset the equalizer.\nOtherwise you can specify a band and a gain to edit it quickly.",
+    "music-equalizer-set" : "Band {}'s gain set to {}",
+    "cmd-voicekick-help" : "Kicks a user from a voice channel."
+}

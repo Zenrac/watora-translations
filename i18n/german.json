@@ -11,13 +11,13 @@
     "need-nsfw-channel-to-be-used" : "Du musst in einem NSFW Kanal sein, um diesen Befehl nutzen zu können!",
     "cant-send-pm" : "Ich kann dir keine Privatnachrichten senden, versuche mir diesen Befehl im Privaten-Chat zu senden.",
     "message-send-to-mp" : "Nachricht gesendet, überprüfe deine Privatnachrichten!",
-    "have-to-be-lover" : "Du musst ein Liebhaber auf meinen Server sein, um das machen zu können!",
-    
+    "have-to-be-lover" : "Du musst ein Liebhaber auf meinem Server sein, um das machen zu können!",
+
     "command-invalid-usage" : "Unbekannter Befehl. Benutze `{}` um dir Befehle anzeigen zu lassen.",
     "not-enough-permissions" : "Ich habe nicht genügend Berechtigungen.",
     "role-not-enough-high" : "Deine Rolle ist unzureichend.",
     "put-the-role-id-instead" : "Ungültiger Aufbau des Befehls. Du musst die ID der Rolle einsetzen {}.",
-    
+
     "music-over-used" : "Entschuldigung, aber ich bin momentan überlastet. Um eine globale Mindestleistung aufrechtzuerhalten, kann ich zurzeit kein Lied abspielen.",
     "music-no-result" : "Entschuldigung, für deine Suche gibt es leider keine Ergebnisse. Verwende {}, um eine erweiterte Suche durchzuführen.",
     "music-load-failed" : "Entschuldigung, aber dieses Video ist nicht mehr verfügbar. Benutze {}, um die erweiterte Suche zu aktivieren.",
@@ -37,14 +37,14 @@
     "no-result" : "Keine Ergebnisse :(.",
     "not-connected" : "Ich bin zurzeit nicht mit einem Sprach-Kanal verbunden!",
     "not-playing" : "Ich spiele zurzeit nichts ab.",
-    "not-the-right-channel" : "Du musst in einen Sprach-Kanal sein, um diesen Befehl ausführen zu können.",
+    "not-the-right-channel" : "Du musst in einem Sprach-Kanal sein, um diesen Befehl ausführen zu können.",
 
     "bot-disabled-command" : "Du kannst diesen Befehl nicht auf diesem Server ausführen, da er deaktiviert ist.",
     "bot-bind-mod" : "Du kannst in diesem Kanal keine Befehle verwenden, ich bin an einen anderen Kanal gebunden.",
     "bot-cooldown" : "Du bist etwas zu hastig. Versuche es in einen Moment erneut.",
     "bot-not-mp" : "Dieser Befehl kann nicht in Privatnachrichten benutzt werden.",
     "bot-not-enough-permissions" : "Du kannst diesen Befehl nicht benutzen, da dir die benötigten Berechtigungen fehlen.",
-    
+
     "cmd-clean-help" : "Löscht meine Nachrichten von diesem Kanal.\nWenn du nicht angibst, wie viele Nachrichten gelöscht werden sollen, werden 100 meiner Nachrichten gelöscht.",
     "cmd-purge-help" : "Löscht bis zu (num_msg) Nachrichten in diesen Kanal.\nWenn du nicht angibst, wie viele Nachrichten gelöscht werden sollen, werden 100 Nachrichten gelöscht.",
     "cmd-stfu-help" : "Löscht bis zu (num_msg) Nachrichten von einem Benutzer in diesen Kanal.\nWenn du nicht angibst, wie viele Nachrichten gelöscht werden sollen, werden 100 Nachrichten gelöscht.",
@@ -97,7 +97,7 @@
     "cmd-manga-help" : "Zeigt Informationen über einen Manga an.",
     "cmd-char-help" : "Zeigt Informationen über einen Anime oder Manga Charakter an.",
     "cmd-nextep-help" : "Gibt die verbleibende Zeit bis zur nächsten Folge eines Anime an.",
-    "cmd-picture-help" : "Zeigt meine Bild-Befehlsliste an (Ermöglicht durch weeb.sh und triggered-api.tk).",
+    "cmd-picture-help" : "Zeigt meine Bild-Befehlsliste an (Ermöglicht durch weeb.sh und arcadia-api.xyz).",
     "cmd-help-help" : "Gibt meine Befehlsliste oder Hilfe für einzelne Befehle aus.",
     "cmd-stats-help" : "Zeigt meine Statistiken an.",
     "cmd-ping-help" : "Zeigt meinen Ping.",
@@ -183,10 +183,10 @@
     "cmd-defvolume-now-help" : "Zeigt meine momentane Standardlautstärke.",
     "cmd-defvolume-set-help" : "Setzt meine Standardlautstärke",
     "cmd-defvolume-reset-help" : "Setzt mein Standardlautstärke zurück.",
-    "cmd-autoleave-help" : "Zeit bevor die Verbindung zum Sprachkanal Management getrennt wurde.",
-    "cmd-autoleave-now-help" : "Zeigt meine Zeit bevor der Sprachkanal wegen Inaktivität verlassen wurde.",
-    "cmd-autoleave-set-help" : "Bearbeitet meine Zeit bevor der Sprachkanal wegen Inaktivität verlassen wurde.",
-    "cmd-autoleave-reset-help" : "Setzt meine Zeit bevor der Sprachkanal wegen Inaktivität verlassen wurde zurück.",
+    "cmd-autoleave-help" : "Zeit, bevor die Verbindung zum Sprachkanal Management getrennt wurde.",
+    "cmd-autoleave-now-help" : "Zeigt meine Zeit, bevor der Sprachkanal wegen Inaktivität verlassen wurde.",
+    "cmd-autoleave-set-help" : "Bearbeitet meine Zeit, bevor der Sprachkanal wegen Inaktivität verlassen wurde.",
+    "cmd-autoleave-reset-help" : "Setzt meine Zeit, bevor der Sprachkanal wegen Inaktivität verlassen wurde zurück.",
     "cmd-autoleave-never-help" : "Deaktiviert meine automatische Deaktivierung bei Inaktivität.",
     "cmd-npmsg-help" : "Verwaltung der automatischen 'Wird gerade abgespielt' Benachrichtigungen.",
     "cmd-npmsg-now-help" : "Zeigt meine aktuelle Einstellung der 'Wird gerade abgespielt' Benachrichtigungen zu Beginn der Wiedergabe eines neuen Lieder.",
@@ -196,8 +196,8 @@
     "cmd-settings-help" : "Zeigt meine derzeitigen Gilden-Einstellungen an.",
     "cmd-marry-help" : "Verheiratet dich mit einem anderen Benutzer.",
     "cmd-divorce-help" : "Scheidet von dem Benutzer, mit dem du gegenwärtig verheiratet bist.",
-    "cmd-owo-help" : "Aktiviert oder deaktiviert mein OwO-Modul.",    
-    
+    "cmd-owo-help" : "Aktiviert oder deaktiviert mein OwO-Modul.",
+
     "cmd-settings-title" : "Gilden-Einstellungen",
     "cmd-settings-guild-pref" : "Präfix",
     "cmd-settings-language" : "Sprache",
@@ -221,7 +221,7 @@
     "cmd-settings-messages" : "Benachrichtigungen",
     "cmd-settings-player" : "Spieler",
     "cmd-settings-owo" : "OwO-Modul",
-    
+
     "cmd-blacklist-added" : "Benutzer wurde zur Blacklist hinzugefügt.",
     "cmd-blacklist-r-added" : "Diese Rolle wurde zur Blacklist hinzugefügt.",
     "cmd-blacklist-r-removed" : "Diese Rolle wurde von der Gilden-Blacklist entfernt.",
@@ -264,7 +264,7 @@
     "cmd-ban-failed" : "Der Bann ist fehlgeschlagen!",
     "cmd-ban-success" : "{} wurde gebannt von",
     "cmd-ban-cancelled" : "Bann abgebrochen",
-    "cmd-hackban-confirmation-ban" : "Möchtest du wirklich **{}** hackbannen? Gebe `yes` oder `no` ein.",
+    "cmd-hackban-confirmation-ban" : "Möchtest du wirklich **{}** hackbannen? Gib `yes` oder `no` ein.",
     "cmd-hackban-cancelling-ban" : "Keine Antwort erhalten, Hackbann abgebrochen...",
     "cmd-hackban-failed" : "Der Hackbann ist fehlgeschlagen!",
     "cmd-hackban-success" : "{} wurde gehackbannt von",
@@ -333,7 +333,7 @@
     "cmd-anime-score" : "Bewertung",
     "cmd-anime-status" : "Status",
     "cmd-anime-aired-from" : "Ausgestrahlt von",
-    "cmd-anime-to" : "zu",    
+    "cmd-anime-to" : "zu",
     "cmd-anime-aired" : "Ausgestrahlt",
     "cmd-manga-chapter" : "Kapitel",
     "cmd-manga-chapters" : "Kapitel",
@@ -476,7 +476,7 @@
     "cmd-divorce-confirmation" : "Möchtest du dich wirklich von `{}` scheiden lassen? Ihr seid bereits seit dem **{}** verheiratet.\nSchreibe {} oder {}.",
     "cmd-owo-status" : "Mein OwO-Modul ist jetzt",
     "cmd-owo-enabled" : "aktiviert",
-    "cmd-owo-disabled" : "deaktiviert",    
+    "cmd-owo-disabled" : "deaktiviert",
 
     "music-spotify-processing-a" : "Verarbeite Album {}",
     "music-spotify-processing-p" : "Verarbeite Playlist {}",
@@ -485,8 +485,8 @@
     "music-spotify-disabled" : "Tut mir leid... Meine Spotify-Integration ist momentan deaktiviert. Versuche es später nochmal!",
     "music-spotify-all-failed" : "Tut mir leid... Nichts konnte abgespielt werden, ich habe nichts hinzugefügt!",
     "music-spotify-songs-failed" : "{} Lieder konnten nicht abgespielt werden",
-    "music-spotify-song-failed" : "{} Lied konnte nicht abgespielt werden",      
-    
+    "music-spotify-song-failed" : "{} Lied konnte nicht abgespielt werden",
+
     "music-autoplaylist-noten-perms" : "Diese Autoplaylist ist privat. Du hast keine Berechtigung sie zu bearbeiten.",
     "music-autoplaylist-only-owner" : "Nur der Besitzer der Autoplaylist kann ihre Einstellungen bearbeiten.",
     "music-plsettings-yes" : "Ja",
@@ -498,8 +498,8 @@
     "music-plsettings-nobody" : "Niemand",
     "music-plsettings-personal" : "Persönlich",
     "music-plsettings-autopl" : "{} persönliche Autoplaylist",
-    "music-plsettings-got-deleted" : "Die aktuelle Autoplaylist wurde entfernt. Du kannst keine Informationen zu ihr anzeigen oder bearbeiten.",     
-    
+    "music-plsettings-got-deleted" : "Die aktuelle Autoplaylist wurde entfernt. Du kannst keine Informationen zu ihr anzeigen oder bearbeiten.",
+
     "music-join-playing-a-song" : "Ich spiele bereits ein Lied in einem Sprach-Kanal ab. Du hast nicht die nötigen Berechtigungen um mich deinen hinzufügen.",
     "music-join-no-channel" : "Keinem Kanal beigetreten. Bitte trete einem bei.",
     "music-join-failed" : "Kann dem Sprach-Kanal gegenwärtig nicht beitreten. Bitte versuche es nochmal.",
@@ -633,12 +633,19 @@
     "music-autoleave-now-never" : "Meine Auto-Disconnect Funktion wegen Inaktivität wurde deaktiviert, ich werde meine Verbindung nicht wegen Inaktivität trennen.",
     "music-autoleave-unreasonable" : "Du musst eine Zeit zwischen {} und {} Sekunden wählen, wenn du kein Moderator auf meinem Server bist.",
     "music-autoleave-unreasonable-patron" : "Du kannst keine größere Zeit als {} angeben, benutze {} wenn du möchtest dass ich meine Verbindung niemals wegen Inaktivität trenne.",
-    "music-autoleave-never" : "Niemals",    
+    "music-autoleave-never" : "Niemals",
     "music-npmsg-reset" : "'Wird gerade abgespielt' Benachrichtigung zu Beginn eines neuen Liedes wird nun automatisch abhängig davon abgesendet, wo du Befehle verwendest.",
     "music-npmsg-set" : "'Wird gerade abgespielt' Benachrichtigung zu Beginn eines neuen Liedes wird auf {} gesendet.",
     "music-npmsg-set-disabled" : "'Wird gerade abgespielt' Benachrichtigung zu Beginn eines neuen Liedes ist nun deaktiviert.",
     "music-npmsg-not-found" : "Ich konnte keinen Text-Kanal mit dem Namen {} finden.",
     "music-npmsg-now" : "'Wird gerade abgespielt' Benachrichtigung zu Beginn eines neuen Liedes wird gesendet auf {}.",
     "music-npmsg-now-never" : "'Wird gerade abgespielt' Benachrichtigung zu Beginn eines neuen Liedes ist nun deaktiviert.",
-    "music-npmsg-now-default" : "'Wird gerade abgespielt' Benachrichtigung zu Beginn eines neuen Liedes wird nun automatisch abhängig davon abgesendet, wo du Befehle verwendest."
+    "music-npmsg-now-default" : "'Wird gerade abgespielt' Benachrichtigung zu Beginn eines neuen Liedes wird nun automatisch abhängig davon abgesendet, wo du Befehle verwendest.",
+
+    "music-bass-boost-now" : "Bass boost ist momentan auf {} gesetzt",
+    "music-bass-boost-set" : "Bass boost ist nun auf {} gesetzt",
+    "cmd-bassboost-help" : "Ändert die Bassfrequenzen des Players auf bis zu 4 Stufen. AUS, NIEDRIG, MITTEL, HOCH und IRRE. \nDu kannst den Equalizer verwenden, um Einstellungen vorzunehmen, wie du möchtest.",
+    "cmd-equalizer-help" : "Verwaltet einen Equalizer mit 15 Bändern. Gültige Werte sind von -0,25 bis 1. \n-0,25 bedeutet, dass die angegebene Frequenz vollständig stummgeschaltet ist und 0,25 bedeutet, dass sie verdoppelt wird.\nVerwenden Sie die Reaktion, um den Cursor zu bewegen und die Verstärkung interaktiv zu bearbeiten. Drücke den Kreis, um den Equalizer zurückzusetzten.\nAndernfalls können Sie ein Band und eine Verstärkung festlegen, um es schnell zu bearbeiten.",
+    "music-equalizer-set" : "Verstärkung von Band {} ist auf {} gesetzt",
+    "cmd-voicekick-help" : "Schmeißt einen Nutzer von einem Sprachkanal."
 }

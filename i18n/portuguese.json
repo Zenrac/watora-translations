@@ -97,7 +97,7 @@
     "cmd-manga-help" : "Exibe informações sobre mangá.",
     "cmd-char-help" : "Exibe informações sobre um personagem. (Anime/Manga)",
     "cmd-nextep-help" : "Exibe o tempo restante antes do próximo episódio do anime.",
-    "cmd-picture-help" : "Exibe a lista de meu comandos de imagem. (Provido por weeb.sh e triggered-api.tk)",
+    "cmd-picture-help" : "Exibe a lista de meu comandos de imagem. (Provido por weeb.sh e arcadia-api.xyz)",
     "cmd-help-help" : "Mostra meus comandos ou exibe a ajuda do comando.",
     "cmd-stats-help" : "Exibe as minhas estatísticas.",
     "cmd-ping-help" : "Mostra o meu ping.",
@@ -265,10 +265,10 @@
     "cmd-ban-success" : "{} foi banido por",
     "cmd-ban-cancelled" : "Banimento cancelado",
     "cmd-hackban-confirmation-ban" : "Você quer mesmo fazer o hackban **{}** ? Digite `yes` ou `no`.",
-    "cmd-hackban-cancelling-ban" : "Cancelar a ação de hackbanir, sem resposta...", 
+    "cmd-hackban-cancelling-ban" : "Cancelar a ação de hackbanir, sem resposta...",
     "cmd-hackban-failed" : "Mas a ação de hackbanir não funcionou!",
     "cmd-hackban-success" : "{} foi hackbanido por",
-    "cmd-hackban-cancelled" : "Hackbanimento cancelado",    
+    "cmd-hackban-cancelled" : "Hackbanimento cancelado",
     "cmd-welcome-no-welcome-now" : "Não encontrei nenhuma mensagem de boas-vindas neste canal. \nVocê pode definir uma mensagem de boas-vindas fazendo {}",
     "cmd-welcome-current" : "A mensagem atual de boas-vindas neste canal é",
     "cmd-welcome-enabled" : "A seguinte mensagem de boas-vindas foi ativada neste canal",
@@ -640,5 +640,12 @@
     "music-npmsg-not-found" : "Eu não encontrei o canal de texto {}",
     "music-npmsg-now" : "Agora as mensagens de uma nova música serão enviadas para {}.",
     "music-npmsg-now-never" : "Agora, as mensagens no começo de uma nova música estão desabilitadas.",
-    "music-npmsg-now-default" : "Agora, as mensagens no início de uma nova música serão enviadas automaticamente, dependendo de onde você está usando os comandos."
+    "music-npmsg-now-default" : "Agora, as mensagens no início de uma nova música serão enviadas automaticamente, dependendo de onde você está usando os comandos.",
+
+    "music-bass-boost-now" : "Reforço dos graves está atualmente definido em {}",
+    "music-bass-boost-set" : "Reforço dos graves agora definido em {}",
+    "cmd-bassboost-help" : "Altera as frequências graves do player em até 4 níveis. DESLIGADO, BAIXO, MÉDIO, ALTO e INSANO.\nVocê pode usar o equalizador para fazer os ajustes que quiser.",
+    "cmd-equalizer-help" : "Gerencie um equalizador com 15 faixas. Os valores válidos são de -0.25 a 1.\n-0.25 significa que a frequência dada é completamente silenciada e 0.25 significa que é o dobro.\nUtilize o controle para mover o cursor e editar os ganhos de forma interativa. Você pode pressionar o círculo para redefinir o equalizador.\nCaso contrário, você pode especificar uma faixa e facilidade para editá-la rapidamente.",
+    "music-equalizer-set" : "Ganho de faixa {} definido para {}",
+    "cmd-voicekick-help" : "Expulsa a um usuário de um canal de voz."
 }

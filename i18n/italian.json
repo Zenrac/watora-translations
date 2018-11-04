@@ -97,7 +97,7 @@
     "cmd-manga-help": "Mostra informazioni su un manga.",
     "cmd-char-help": "Mostra informazioni su un personaggio. (Anime / Manga)",
     "cmd-nextep-help": "Visualizza il tempo rimanente prima del prossimo episodio di un anime.",
-    "cmd-picture-help": "Visualizza l'elenco dei miei comandi immagine. (Realizzato da weeb.sh e triggered-api.tk)",
+    "cmd-picture-help": "Visualizza l'elenco dei miei comandi immagine. (Realizzato da weeb.sh e arcadia-api.xyz)",
     "cmd-help-help": "Mostra i miei comandi o visualizza la guida per un comando.",
     "cmd-stats-help": "Visualizza le mie statistiche.",
     "cmd-ping-help": "Fornisce il mio ping.",
@@ -640,5 +640,12 @@
     "music-npmsg-not-found" : "Non trovo il canale di testo {}",
     "music-npmsg-now" : "Il messaggio 'Sto riproducendo' all'inizio della nuova canzone verrà inviato su {}.",
     "music-npmsg-now-never" : "Il messaggio 'Sto riproduicendo' all'inizio della nuova canzone è disabilitato.",
-    "music-npmsg-now-default" : "Il messaggio 'Sto riproducendo' all'inizio di ogni nuova canzone è stato inviato automaticamente in base a dove stai usando i comandi."
+    "music-npmsg-now-default" : "Il messaggio 'Sto riproducendo' all'inizio di ogni nuova canzone è stato inviato automaticamente in base a dove stai usando i comandi.",
+
+    "music-bass-boost-now" : "Amplificazione bassi attualmente impostato a {}.",
+    "music-bass-boost-set" : "Amplificazione bassi impostato a {}.",
+    "cmd-bassboost-help" : "Modifica le frequenze basse del riproduttore con 4 diversi livelli. 0FF, LOW, MEDIUM, HIGH e INSANE.\nPuoi utilizzare l'equalizzatore per fare tutti i cambiamenti che vuoi.",
+    "cmd-equalizer-help" : "Gestisce un equalizzatore a 15 bande. I valori ammessi vanno da -0.25 a 1.\n-0.25 significa che la relativa frequenza è completamente disattivata mentre 0.25 significa che il segnale ha potenza doppia.\n Utilizza il controllo per muovere il cursore e modificare i guadagni in modo interattivo. Puoi premere il cerchio per resettare l'equalizzatore.\nAltrimenti puoi specificare una banda e un guadagno per modificare velocemente le frequenze.",
+    "music-equalizer-set" : "Guadagno per la frequenza {} impostato a {}.",
+    "cmd-voicekick-help" : "Espelli un utente dal canale audio."
 }
