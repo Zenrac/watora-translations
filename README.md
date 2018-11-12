@@ -1,6 +1,6 @@
 [![Discord Bots](https://discordbots.org/api/widget/220644154177355777.svg)](https://discordbots.org/bot/220644154177355777)
 [![Discord Boats](https://discord.boats/api/widget/220644154177355777)](https://discord.boats/bot/220644154177355777)
-[![Bots For Discord](https://botsfordiscord.com/api/bot/220644154177355777/widget)](https://botsfordiscord.com/bots/220644154177355777)
+[![Bots For Discord](https://botsfordiscord.com/api/bot/220644154177355777/widget?theme=dark)](https://botsfordiscord.com/bots/220644154177355777)
 <br><br><a href="https://www.patreon.com/bePatron?u=7139372"><img alt="Become a Watora's Patron" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" height="35px"></a>
 # Watora Translations
 
