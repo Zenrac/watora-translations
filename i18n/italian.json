@@ -171,6 +171,8 @@
     "cmd-playnext-help": "Accoda una canzone nella prima posizione della coda.",
     "cmd-previous-help": "Accoda la canzone precedente.",
     "cmd-replay-help": "Accoda la canzone corrente.",
+    "cmd-replaynow-help" : "Immediately replay the current song.",
+    "cmd-previousnow-help" : "Immediately replay the last song.",
     "cmd-stream-help": "Esegue il flusso di una canzone.",
     "cmd-setdj-help": "Configura un ruolo come un ruolo di DJ (o diversi). \nIn modo che un ruolo di DJ possa utilizzare tutti i comandi musicali. \nreset: rimuove le autorizzazioni DJ di ogni ruolo sul server. \nnow: visualizza tutti i ruoli con le autorizzazioni DJ. \neveryone: concede le mie autorizzazioni DJ a tutti sul server. ",
     "cmd-radio-help": "Gestione comandi radio.",
@@ -197,6 +199,7 @@
     "cmd-marry-help": "Ti sposa con un utente.",
     "cmd-divorce-help": "Divorzia da chiunque tu fossi sposato.",
     "cmd-owo-help" : "Abilita o disabilita il mio OwO Mod.",
+    "cmd-lazy-help" : "Abilita o disabilita il mio Lazy Mod.",
 
     "cmd-settings-title": "Impostazioni gilda",
     "cmd-settings-guild-pref": "Prefisso",
@@ -221,6 +224,7 @@
     "cmd-settings-messages": "Messaggi",
     "cmd-settings-player": "Player",
     "cmd-settings-owo" : "OwO Mod",
+    "cmd-settings-lazy" : "Lazy Mod",
 
     "cmd-blacklist-added": "L'utente è stato nella lista nera.",
     "cmd-blacklist-r-added": "Questo ruolo è stato inserito nella blacklist.",
@@ -477,6 +481,9 @@
     "cmd-owo-status" : "Ora il mio OwO Mod è",
     "cmd-owo-enabled" : "abilitato",
     "cmd-owo-disabled" : "disabilitato",
+    "cmd-lazy-status" : "Ora il mio Lazy Mod è",
+    "cmd-lazy-enabled" : "abilitato",
+    "cmd-lazy-disabled" : "disabilitato",
 
     "music-spotify-processing-a" : "Elaborazione album {}",
     "music-spotify-processing-p" : "Elaborazione playlist {}",

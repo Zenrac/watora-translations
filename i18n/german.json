@@ -171,6 +171,8 @@
     "cmd-playnext-help" : "Reiht ein Lied an der ersten Position in der Warteschlange ein.",
     "cmd-previous-help" : "Reiht das zuletzt abgespielte Lied ein.",
     "cmd-replay-help" : "Reiht das aktuell abgespielte Lied ein.",
+    "cmd-replaynow-help" : "Immediately replay the current song.",
+    "cmd-previousnow-help" : "Immediately replay the last song.",
     "cmd-stream-help" : "Streamt ein Lied.",
     "cmd-setdj-help" : "Konfiguriert eine oder mehrere Rollen als DJ-Rolle.\nEin Mitglied mit einer DJ-Rolle kann jeden Musik-Befehl verwenden.\nreset : Entfernt die DJ-Berechtigungen von jeder Rolle auf dem Server.\nnow : Zeigt alle Rollen mit DJ-Berechtigungen an.\neveryone : Gewährt jedem auf dem Server DJ-Berechtigungen.",
     "cmd-radio-help" : "Radio Befehl-Management.",
@@ -197,6 +199,7 @@
     "cmd-marry-help" : "Verheiratet dich mit einem anderen Benutzer.",
     "cmd-divorce-help" : "Scheidet von dem Benutzer, mit dem du gegenwärtig verheiratet bist.",
     "cmd-owo-help" : "Aktiviert oder deaktiviert mein OwO-Modul.",
+    "cmd-lazy-help" : "Aktiviert oder deaktiviert mein Lazy-Modul.",
 
     "cmd-settings-title" : "Gilden-Einstellungen",
     "cmd-settings-guild-pref" : "Präfix",
@@ -221,6 +224,7 @@
     "cmd-settings-messages" : "Benachrichtigungen",
     "cmd-settings-player" : "Spieler",
     "cmd-settings-owo" : "OwO-Modul",
+    "cmd-settings-lazy" : "Lazy-Modul",
 
     "cmd-blacklist-added" : "Benutzer wurde zur Blacklist hinzugefügt.",
     "cmd-blacklist-r-added" : "Diese Rolle wurde zur Blacklist hinzugefügt.",
@@ -477,6 +481,9 @@
     "cmd-owo-status" : "Mein OwO-Modul ist jetzt",
     "cmd-owo-enabled" : "aktiviert",
     "cmd-owo-disabled" : "deaktiviert",
+    "cmd-lazy-status" : "Mein Lazy-Modul ist jetzt",
+    "cmd-lazy-enabled" : "aktiviert",
+    "cmd-lazy-disabled" : "deaktiviert",
 
     "music-spotify-processing-a" : "Verarbeite Album {}",
     "music-spotify-processing-p" : "Verarbeite Playlist {}",

@@ -171,6 +171,8 @@
     "cmd-playnext-help" : "Ставит песню на первое место в очереди.",
     "cmd-previous-help" : "Ставит в очередь предыдущую песню.",
     "cmd-replay-help" : "Ставит в очередь текущую песню.",
+    "cmd-replaynow-help" : "Immediately replay the current song.",
+    "cmd-previousnow-help" : "Immediately replay the last song.",
     "cmd-stream-help" : "Проигрывает песню.",
     "cmd-setdj-help" : "Настраивает роль как роль DJ (или несколько).\nПользователь с ролью DJ может использовать все музыкальные команды.\nreset : убирает у всех ролей на сервере роль DJ.\nnow : отображает все роли на сервере с ролью DJ.\neveryone : раздает DJ роль всем на сервере.",
     "cmd-radio-help" : "Управление командамми радио.",
@@ -197,6 +199,7 @@
     "cmd-marry-help" : "Заключаете брак с пользователем.",
     "cmd-divorce-help" : "Разводитесь с пользователем на котором вы были женаты/замужем.",
     "cmd-owo-help" : "Включает или выключает мой 'OwO Mod'.",
+    "cmd-lazy-help" : "Включает или выключает мой 'Lazy Mod'.",
 
     "cmd-settings-title" : "Настройки гильдии",
     "cmd-settings-guild-pref" : "Префикс",
@@ -221,6 +224,7 @@
     "cmd-settings-messages" : "Сообщения",
     "cmd-settings-player" : "Проигрыватель",
     "cmd-settings-owo" : "OwO Mod",
+    "cmd-settings-lazy" : "Lazy Mod",
 
     "cmd-blacklist-added" : "Пользователь занесен в черный список.",
     "cmd-blacklist-r-added" : "Эта роль была включена в черный список.",
@@ -477,6 +481,9 @@
     "cmd-owo-status" : "Мой OwO Mod включен",
     "cmd-owo-enabled" : "включен",
     "cmd-owo-disabled" : "отключен",
+    "cmd-lazy-status" : "Мой Lazy Mod включен",
+    "cmd-lazy-enabled" : "включен",
+    "cmd-lazy-disabled" : "отключен",
 
     "music-spotify-processing-a" : "Обработка альбома {}",
     "music-spotify-processing-p" : "Обработка плейлиста {}",

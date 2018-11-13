@@ -171,6 +171,8 @@
     "cmd-playnext-help" : "Zakolejkowuje utwór na początku kolejki",
     "cmd-previous-help" : "Zakolejkowuje poprzedni utwór.",
     "cmd-replay-help" : "Zakolejkowuje bieżący utwór.",
+    "cmd-replaynow-help" : "Immediately replay the current song.",
+    "cmd-previousnow-help" : "Immediately replay the last song.",
     "cmd-stream-help" : "Streamuje utwór.",
     "cmd-setdj-help" : "Konfiguruje rolę (lub role) jako DJ.\nUżytkownicy z rolą DJa mogą używać wszystkich komend muzycznych.\nreset : usuwa pozwolenia DJa z każdej roli na serwerze.\nnow : wyświetla wszystkie role z pozwoleniami DJa.\neveryone : przyznaje moje pozwolenia DJa wszystkim na serwerze.",
     "cmd-radio-help" : "Zarządzanie poleceniami radiowymi.",
@@ -197,6 +199,7 @@
     "cmd-marry-help" : "Zaślubia cię z użytkownikiem.",
     "cmd-divorce-help" : "Rozwodzi cię jeśli wcześniej brałeś/aś ślub.",
     "cmd-owo-help" : "Włącza lub wyłącza mój OwO Mod.",
+    "cmd-lazy-help" : "Włącza lub wyłącza mój Lazy Mod.",
 
     "cmd-settings-title" : "Ustawienia gildii",
     "cmd-settings-guild-pref" : "Prefiks",
@@ -221,6 +224,7 @@
     "cmd-settings-messages" : "Wiadomości",
     "cmd-settings-player" : "Odtwarzacz",
     "cmd-settings-owo": "Mod OwO",
+    "cmd-settings-lazy": "Mod Lazy",
 
     "cmd-blacklist-added" : "Użytkownik trafił na czarną listę.",
     "cmd-blacklist-r-added" : "Ta rola trafiła na czarną listę.",
@@ -477,6 +481,9 @@
     "cmd-owo-status" : "Mój Mod OwO jest teraz",
     "cmd-owo-enabled" : "włączony",
     "cmd-owo-disabled" : "wyłączony",
+    "cmd-lazy-status" : "Mój Mod Lazy jest teraz",
+    "cmd-lazy-enabled" : "włączony",
+    "cmd-lazy-disabled" : "wyłączony",
 
     "music-spotify-processing-a" : "Przetwarzanie albumu {}",
     "music-spotify-processing-p" : "Przetwarzanie playlisty {}",
