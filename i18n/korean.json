@@ -167,6 +167,8 @@
     "cmd-playnext-help": "Enqueues a song to the first position of the queue.",
     "cmd-previous-help": "이전 음악을 대기열에 추가합니다.",
     "cmd-replay-help": "재생중인 음악을 대기열에 또 추가합니다.",
+    "cmd-replaynow-help" : "Immediately replay the current song.",
+    "cmd-previousnow-help" : "Immediately replay the last song.",
     "cmd-stream-help": "음악을 스트리밍합니다.",
     "cmd-setdj-help": "Configures a role as a DJ role (or several).\nMember with a DJ role can uses every musical commands.\nreset : removes the DJ permissions of every role on the server.\nnow : displays every roles with the DJ permissions.\neveryone : grants my DJ permissions to everyone on the server.",
     "cmd-radio-help": "라디오 명령어를 관리합니다.",
@@ -193,6 +195,8 @@
     "cmd-marry-help": "특정 사용자와 결혼합니다.",
     "cmd-divorce-help": "당신이 결혼한 사람과 이혼합니다.",
     "cmd-owo-help": "영어 옹알이 모드를 (비)활성화합니다.",
+    "cmd-lazy-help" : "Enables or disables my Lazy Mod.",
+
     "cmd-settings-title": "서버 설정",
     "cmd-settings-guild-pref": "명령어 접두사",
     "cmd-settings-language": "언어",
@@ -216,6 +220,8 @@
     "cmd-settings-messages": "메시지",
     "cmd-settings-player": "음악",
     "cmd-settings-owo": "영어 옹알이 모드",
+    "cmd-settings-lazy": "Lazy Mod",
+
     "cmd-blacklist-added": "사용자가 블랙 리스트에 추가되었습니다.",
     "cmd-blacklist-r-added": "역할이 블랙 리스트에 추가되었습니다.",
     "cmd-blacklist-r-removed": "역할이 블랙 리스트에서 제거되었습니다.",
@@ -471,6 +477,10 @@
     "cmd-owo-status": "영어 옹알이 모드",
     "cmd-owo-enabled": "활성화",
     "cmd-owo-disabled": "비활성화",
+    "cmd-lazy-status" : "My Lazy Mod is now",
+    "cmd-lazy-enabled" : "enabled",
+    "cmd-lazy-disabled" : "disabled",
+
     "music-spotify-processing-a": "앨범 {}을(를) 처리중입니다.",
     "music-spotify-processing-p": "재생 목록 {}을(를) 처리중입니다.",
     "music-spotify-not-supported": "지원되는 Spotify URI, URL이 아니에요.",

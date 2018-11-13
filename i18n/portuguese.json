@@ -171,6 +171,8 @@
     "cmd-playnext-help" : "Enfileira uma música para a primeira posição da fila.",
     "cmd-previous-help" : "Coloca na fila a música anterior.",
     "cmd-replay-help" : "Coloca na fila a música atual.",
+    "cmd-replaynow-help" : "Immediately replay the current song.",
+    "cmd-previousnow-help" : "Immediately replay the last song.",
     "cmd-stream-help" : "Transmitir uma música.",
     "cmd-setdj-help" : "Configura um papel como papel DJ (ou vários).\nMembros com um papel DJ podem utilizar qualquer comando de música.\nreset : remove a permissão de DJ para cada papel no servidor.\nnow : exibe cada papel com permissão de DJ.\neveryone : concede minhas permissões DJ para todos no servidor.",
     "cmd-radio-help" : "Gerenciamento de comandos de rádio.",
@@ -197,6 +199,7 @@
     "cmd-marry-help" : "Casar você com um usuário.",
     "cmd-divorce-help" : "Separa você de qualquer usuário no qual você era casado(a).",
     "cmd-owo-help" : "Habilita ou desabilita meu mod OwO.",
+    "cmd-lazy-help" : "Habilita ou desabilita meu mod Lazy.",
 
     "cmd-settings-title" : "Parâmetros do servidor",
     "cmd-settings-guild-pref" : "Prefixo",
@@ -221,6 +224,7 @@
     "cmd-settings-messages" : "Mensagens",
     "cmd-settings-player" : "Tocador",
     "cmd-settings-owo" : "Mod OwO",
+    "cmd-settings-lazy" : " Mod Lazy",
 
     "cmd-blacklist-added" : "O usuário entrou para a lista negra.",
     "cmd-blacklist-r-added" : "Esse papel está colocado na Lista negra.",
@@ -477,6 +481,9 @@
     "cmd-owo-status" : "Meu mod OwO é agora",
     "cmd-owo-enabled" : "habilitado",
     "cmd-owo-disabled" : "desabilitado",
+    "cmd-lazy-status" : "Meu mod Lazy é agora",
+    "cmd-lazy-enabled" : "habilitado",
+    "cmd-lazy-disabled" : "desabilitado",
 
     "music-spotify-processing-a" : " Processando álbum {}",
     "music-spotify-processing-p" : "Processando a lista de reprodução {}",

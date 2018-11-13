@@ -171,6 +171,8 @@
     "cmd-playnext-help" : "Coloca una canción en la primera posición de la cola.",
     "cmd-previous-help" : "Encola la canción previa.",
     "cmd-replay-help" : "Encola la canción actual.",
+    "cmd-replaynow-help" : "Immediately replay the current song.",
+    "cmd-previousnow-help" : "Immediately replay the last song.",
     "cmd-stream-help" : "Transmite una canción.",
     "cmd-setdj-help" : "Configura un rol (o varios) con el rol DJ.\nUn miembro con rol DJ puede utilizar todos los comandos musicales.\nreset : elimina los permisos de DJ de todos los roles en el servidor.\nnow : muestra todos los roles con los permisos de DJ.\neveryone : otorga mis permisos de DJ a todos en el servidor.",
     "cmd-radio-help" : "Gestión de comandos de radio.",
@@ -197,6 +199,7 @@
     "cmd-marry-help" : "Le casa con un usuario.",
     "cmd-divorce-help" : "Le divorcia de aquel con el que estuvo casado(a).",
     "cmd-owo-help" : "Habilita o deshabilita mi mod OwO.",
+    "cmd-lazy-help" : "Habilita o deshabilita mi mod Lazy.",
 
     "cmd-settings-title" : "Configuración del servidor",
     "cmd-settings-guild-pref" : "Prefijo",
@@ -221,6 +224,7 @@
     "cmd-settings-messages" : "Mensajes",
     "cmd-settings-player" : "Reproductor",
     "cmd-settings-owo" : " Mod OwO",
+    "cmd-settings-lazy" : " Mod Lazy",
 
     "cmd-blacklist-added" : "El usuario ha sido incluido en la lista negra.",
     "cmd-blacklist-r-added" : "Este rol ha sido incluido en la lista negra.",
@@ -474,9 +478,12 @@
     "cmd-divorce-success" : "Entendido, ahora estas soltero/a !",
     "cmd-divorce-cancelled" : "Divorcio cancelado.",
     "cmd-divorce-confirmation" : "Estas seguro que quieres divorciarte de {} ? Ustedes han estado casados desde el {}.\nResponde {} o {}.",
-    "cmd-owo-status" : "Mi Modo OwO esta activo",
+    "cmd-owo-status" : "Mi Modo OwO esta",
     "cmd-owo-enabled" : "habilitado",
     "cmd-owo-disabled" : "deshabilitado",
+    "cmd-lazy-status" : "Mi Modo Lazy esta",
+    "cmd-lazy-enabled" : "habilitado",
+    "cmd-lazy-disabled" : "deshabilitado",
 
     "music-spotify-processing-a" : "Procesando album {}",
     "music-spotify-processing-p" : "Procesando lista de reproducción {}",

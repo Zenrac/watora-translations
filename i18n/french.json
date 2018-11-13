@@ -171,6 +171,8 @@
     "cmd-playnext-help" : "Ajoute une musique à la première position de la playlist.",
     "cmd-previous-help" : "Ajoute à la playlist la musique précédente.",
     "cmd-replay-help" : "Ajoute à la playlist la musique actuelle.",
+    "cmd-replaynow-help" : "Relance immédiatement la musique actuelle.",
+    "cmd-previousnow-help" : "Relance immédiatement la musique précédente.",
     "cmd-stream-help" : "Permet d'ajouter un stream à la playlist.",
     "cmd-setdj-help" : "Configure un rôle existant du serveur comme étant DJ (ou plusieurs).\nreset : retire la permission DJ à tous les rôles du serveur.\nnow : affiche tous les rôles qui ont les permissions DJ.\neveryone : donne les permissions DJ à tous les membres du serveur.",
     "cmd-radio-help" : "Gestion des commandes de radio.",
@@ -197,6 +199,7 @@
     "cmd-marry-help" : "Vous marie avec un utilisateur.",
     "cmd-divorce-help" : "Vous divorce peut importe avec qui vous étiez marié.",
     "cmd-owo-help" : "Active ou désactive mon Mode OwO.",
+    "cmd-lazy-help" : "Active ou désactive mon Mode Lazy.",
 
     "cmd-settings-title" : "Paramètres du serveur",
     "cmd-settings-guild-pref" : "Préfixe",
@@ -221,6 +224,7 @@
     "cmd-settings-messages" : "Messages",
     "cmd-settings-player" : "Lecteur",
     "cmd-settings-owo" : "Mode OwO",
+    "cmd-settings-lazy" : "Mode Lazy",
 
     "cmd-blacklist-added" : "Cet utilisateur a été ajouté à la blacklist du serveur.",
     "cmd-blacklist-r-added" : "Ce rôle a été ajouté à la blacklist du serveur.",
@@ -477,6 +481,9 @@
     "cmd-owo-status" : "Mon Mode OwO est désormais",
     "cmd-owo-enabled" : "activé",
     "cmd-owo-disabled" : "désactivé",
+    "cmd-lazy-status" : "Mon Mode Lazy est désormais",
+    "cmd-lazy-enabled" : "activé",
+    "cmd-lazy-disabled" : "désactivé",
 
     "music-spotify-processing-a" : "Chargement de l'album {}",
     "music-spotify-processing-p" : "Chargement de la playlist {}",

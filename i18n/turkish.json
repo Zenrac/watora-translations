@@ -171,6 +171,8 @@
 	"cmd-playnext-help" : "Birinci sıradaki şarkıyı sıraya koyar.",
 	"cmd-previous-help" : "Önceki şarkıyı sıraya koyar.",
 	"cmd-replay-help" : "Mevcut şarkıyı sıraya koyar.",
+    "cmd-replaynow-help" : "Immediately replay the current song.",
+    "cmd-previousnow-help" : "Immediately replay the last song.",
 	"cmd-stream-help" : "Bir şarkı çalar.",
 	"cmd-setdj-help" : "Bir veaya birden fazla DJ rolünü yapılandırır.\nMember with a DJ role can uses every musical commands.\nreset : removes the DJ permissions of every role on the server.\nnow : displays every roles with the DJ permissions.\neveryone : grants my DJ permissions to everyone on the server.",
 	"cmd-radio-help" : "Radyo komutları yönetimi.",
@@ -197,6 +199,7 @@
 	"cmd-marry-help" : "Bir kullanıcıyla seni evlendirir.",
 	"cmd-divorce-help" : "Kimle evliysen seni boşar.",
 	"cmd-owo-help" : "OwO Modumu etkinleştirir veya devre dışı bırakır.",
+	"cmd-lazy-help" : "Lazy Modumu etkinleştirir veya devre dışı bırakır.",
 
 	"cmd-settings-title" : "Guild ayarları",
 	"cmd-settings-guild-pref" : "Önek",
@@ -221,6 +224,7 @@
 	"cmd-settings-messages" : "Mesajlar",
 	"cmd-settings-player" : "Oynatıcı",
 	"cmd-settings-owo" : "OwO Modu",
+	"cmd-settings-lazy" : "Lazy Modu",
 
 	"cmd-blacklist-added" : "Kullanıcı karalisteye alındı.",
 	"cmd-blacklist-r-added" : "Bu rol karalisteye alındı.",
@@ -477,6 +481,9 @@
 	"cmd-owo-status" : "Şimdiki modum OwO Modu",
 	"cmd-owo-enabled" : "aktifleştirildi",
 	"cmd-owo-disabled" : "etkisizleştirildi",
+	"cmd-lazy-status" : "Şimdiki modum Lazy Modu",
+	"cmd-lazy-enabled" : "aktifleştirildi",
+	"cmd-lazy-disabled" : "etkisizleştirildi",
 
 	"music-spotify-processing-a" : "Albüm işleniyor {}",
 	"music-spotify-processing-p" : "Oynatma listesi işleniyor {}",
