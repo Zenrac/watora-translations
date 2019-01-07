@@ -451,7 +451,7 @@
     "cmd-roleinfo-all-users" : "Toti Useri",
     "cmd-roleinfo-creation" : "Creatie",
     "cmd-info" : "**Despre:** ```Sunt Hazuki Watora, un bot creat de Zenrac#0001 in 2016 cu python 3.5.\nIn 2018 Sunt scrisa de la 0 rescrisa cu discord.py in Python 3.6.\nSunt in mare parte un bot de muzica, dar nu numai! Sunt total codata cu discord.py. (Multumiri lui Danny)``````Caracterul Hazuki Watora a fost desenat/creat de Peko. Nu am nicio imagine cu Watora. https://www.zerochan.net/Peko / http://lumino.sakura.ne.jp``````Poti avea o lista cu comenzi folosind =help\nPoti avea mai multe informatii despre permisiuni folosind =permsinfo\nPoti afisa multumirile mele speciale lui =credits``````fix\nPrin folosirea mea, acceptati faptul ca pot conserva istoria comenzilor folosite.```",
-    "cmd-credits-title" : "Lista cu comenzile cine a facut acest bot posibil.",
+    "cmd-credits-title" : "Lista cu persoanele care a facut acest bot posibil.",
     "cmd-credits-watora-designer" : "Designer Watora",
     "cmd-credits-bot-dev" : "Botul developer-ului",
     "cmd-current-translation-written-by" : "Tradus de catre:",
