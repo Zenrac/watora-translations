@@ -641,7 +641,7 @@
     "music-download-only" : "Doar link-urile de la YouTube pot fi descarcate.",
     "music-defvolume-set" : "Volumul implicit pe server este acum {}",
     "music-defvolume-reset" : "Volumul implicit este acum {}",
-    "music-defvolume-now" : "Volumul implicit este acum {",
+    "music-defvolume-now" : "Volumul implicit este acum {}",
     "music-autoleave-set" : "De acum, O sa plec din camera de voce dupa {} de inactivitate.",
     "music-autoleave-reset" : "Timpul inainte de a pleca din camera de voce pentru inactivitate a fost resetat la {}.",
     "music-autoleave-now" : "Timpul meu curent inainte de a pleca din camera de voce este de {}.",
