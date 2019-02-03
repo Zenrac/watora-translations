@@ -682,7 +682,7 @@
 
     "music-bass-boost-now" : "Bass boost ist momentan auf {} gesetzt",
     "music-bass-boost-set" : "Bass boost ist nun auf {} gesetzt",
-    "cmd-bassboost-help" : "Ändert die Bassfrequenzen des Players auf bis zu 4 Stufen. AUS, NIEDRIG, MITTEL, HOCH und IRRE. \nDu kannst den Equalizer verwenden, um Einstellungen vorzunehmen, wie du möchtest.",
+    "cmd-bassboost-help" : "Ändert die Bassfrequenzen des Players auf bis zu 5 Stufen. OFF, LOW, MEDIUM, HIGH, INSANE und WTF. \nDu kannst den Equalizer verwenden, um Einstellungen vorzunehmen, wie du möchtest.",
     "cmd-equalizer-help" : "Verwaltet einen Equalizer mit 15 Bändern. Gültige Werte sind von -0,25 bis 1. \n-0,25 bedeutet, dass die angegebene Frequenz vollständig stummgeschaltet ist und 0,25 bedeutet, dass sie verdoppelt wird.\nVerwenden Sie die Reaktion, um den Cursor zu bewegen und die Verstärkung interaktiv zu bearbeiten. Drücke den Kreis, um den Equalizer zurückzusetzten.\nAndernfalls können Sie ein Band und eine Verstärkung festlegen, um es schnell zu bearbeiten.",
     "music-equalizer-set" : "Verstärkung von Band {} ist auf {} gesetzt",
     "cmd-voicekick-help" : "Schmeißt einen Nutzer von einem Sprachkanal."

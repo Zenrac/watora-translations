@@ -681,7 +681,7 @@
 
     "music-bass-boost-now" : "Dorongan bass sekarang pada {}",
     "music-bass-boost-set" : "Dorongan bass sekarang diubah menjadi {}",
-    "cmd-bassboost-help" : "Merubah frekuensi bass pemain hingga 4 tingkatan. OFF, LOW, MEDIUM, HIGH, dan INSANE.\nAnda dapat menggunakan equalizer untuk membuat penyesuaian.",
+    "cmd-bassboost-help" : "Merubah frekuensi bass pemain hingga 5 tingkatan. OFF, LOW, MEDIUM, HIGH, INSANE, dan WTF.\nAnda dapat menggunakan equalizer untuk membuat penyesuaian.",
     "cmd-equalizer-help" : "Mengelola sebuah equalizer dengan 15 band. Nilai yang valid antara 0.25 sampai 1.\n-0.25 berarti frekuensi tersebut dimatikan total dan 0.25 berarti dikali dua.\nGunakan reaction untuk memindahkan cursor dan mengedit gain secara interaktif. Anda dapat memencet lingkaran tersebut untuk mereset equalizer.\nAtau tidak, Anda dapat memilih sebuah band dan sebuah gain untuk mengedit dengan cepat.",
     "music-equalizer-set" : "Gain band {} diubah menjadi {}",
     "cmd-voicekick-help" : "Mengeluarkan user dari sebuah channel suara."
