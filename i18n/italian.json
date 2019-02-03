@@ -680,7 +680,7 @@
 
     "music-bass-boost-now" : "Amplificazione bassi attualmente impostato a {}.",
     "music-bass-boost-set" : "Amplificazione bassi impostato a {}.",
-    "cmd-bassboost-help" : "Modifica le frequenze basse del riproduttore con 4 diversi livelli. 0FF, LOW, MEDIUM, HIGH e INSANE.\nPuoi utilizzare l'equalizzatore per fare tutti i cambiamenti che vuoi.",
+    "cmd-bassboost-help" : "Modifica le frequenze basse del riproduttore con 5 diversi livelli. 0FF, LOW, MEDIUM, HIGH, INSANE e WTF.\nPuoi utilizzare l'equalizzatore per fare tutti i cambiamenti che vuoi.",
     "cmd-equalizer-help" : "Gestisce un equalizzatore a 15 bande. I valori ammessi vanno da -0.25 a 1.\n-0.25 significa che la relativa frequenza è completamente disattivata mentre 0.25 significa che il segnale ha potenza doppia.\n Utilizza il controllo per muovere il cursore e modificare i guadagni in modo interattivo. Puoi premere il cerchio per resettare l'equalizzatore.\nAltrimenti puoi specificare una banda e un guadagno per modificare velocemente le frequenze.",
     "music-equalizer-set" : "Guadagno per la frequenza {} impostato a {}.",
     "cmd-voicekick-help" : "Espelli un utente dal canale audio."
