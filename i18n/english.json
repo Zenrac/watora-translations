@@ -689,5 +689,15 @@
     "cmd-bassboost-help" : "Changes the player's bass frequencies up to 5 levels. OFF, LOW, MEDIUM, HIGH, INSANE and WTF.\nYou can use the equalizer to make adjustments as you want.",
     "cmd-equalizer-help" : "Manages an equalizer with 15 bands. Valid values are from -0.25 to 1.\n-0.25 means that the given frequency is completely muted and 0.25 means it is doubled.\nUse reactions to move the cursor and edit gains interactively. You can press the circle to reset the equalizer.\nOtherwise you can specify a band and a gain to edit it quickly.",
     "music-equalizer-set" : "Band {}'s gain set to {}",
-    "cmd-voicekick-help" : "Kicks a user from a voice channel."
+    "cmd-voicekick-help" : "Kicks a user from a voice channel.",
+
+    "cmd-autoconnect-set-help" : "Allows to add channels on which I'll autoconnect myself when someone joins it.\nYou can specify either an URL, query, an autoplaylist or a radio.",
+    "cmd-autoconnect-help" : "Manages autoconnect channels.",
+    "cmd-autoconnect-remove-help" : "Removes a channel from my autoconnect channels.",
+    "cmd-settings-ac" : "Autoconnect channels",
+    "cmd-autoconnect-reset-help" : "Resets all my autoconnect channels on this server.",
+    "cmd-autoconnect-now-help" : "Displays the list of the current autoconnect channels on the server.",
+    "music-autoconnect-list-empty" : "This server doesn't have any autoconnect channel. Use {} to start to add some.",
+    "music-autoconnect-limit" : "You reached your maximum number of autoconnect channels ({}) ! To increase this limit you need to be a Patron and you have to claim this server.",
+    "music-autoleave-need-claim" : "You need to claim this server by using {} !"
 }
