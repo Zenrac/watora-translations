@@ -683,5 +683,15 @@
     "cmd-bassboost-help" : "Zmienia częstotliwość basu odtwarzacza na 5 poziomach. 0FF, LOW, MEDIUM, HIGH, INSANE i WTF.\nMożesz użyc equalizera aby wprowadzić własne zmiany.",
     "cmd-equalizer-help" : "Zarządza equalizerem z 15 pasmami. Prawidłowe wartości: od -0.25 do 1.\n-0.25 oznacza, że dana częstotliwość jest całkowicie wyciszona, 0.25 oznacza jej podwojenie.\nUżyj reakcji aby poruszać kursorem aby interaktywnie zmieniać wzmocnienie. Możesz nacisnąć kółko aby zresetować equalizer.\nW innym przypadku możesz wybrać pasmo częstotliwości i jego wzmocnienie aby je szybko edytować.",
     "music-equalizer-set" : "Wzmocnienie pasma {} ustawiono na {}",
-    "cmd-voicekick-help" : "Wyrzuca użytkownika z kanału głosowego."
+    "cmd-voicekick-help" : "Wyrzuca użytkownika z kanału głosowego.",
+
+    "cmd-autoconnect-set-help" : "Allows to add channels on which I'll autoconnect myself when someone joins it.\nYou can specify either an URL, query, an autoplaylist or a radio.",
+    "cmd-autoconnect-help" : "Manages autoconnect channels.",
+    "cmd-autoconnect-remove-help" : "Removes a channel from my autoconnect channels.",
+    "cmd-settings-ac" : "Autoconnect channels",
+    "cmd-autoconnect-reset-help" : "Resets all my autoconnect channels on this server.",
+    "cmd-autoconnect-now-help" : "Displays the list of the current autoconnect channels on the server.",
+    "music-autoconnect-list-empty" : "This server doesn't have any autoconnect channel. Use {} to start to add some.",
+    "music-autoconnect-limit" : "You reached your maximum number of autoconnect channels ({}) ! To increase this limit you need to be a Patron and you have to claim this server.",
+    "music-autoleave-need-claim" : "You need to claim this server by using {} !"
 }

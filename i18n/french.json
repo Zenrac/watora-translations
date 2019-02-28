@@ -686,5 +686,15 @@
     "cmd-bassboost-help" : "Change la fréquence des basses jusqu'à 5 niveaux. OFF, LOW, MEDIUM, HIGH, INSANE et WTF.\nVous pouvez utiliser l'equalizer pour faire vos propres réglages.",
     "cmd-equalizer-help" : "Gestion d'un equalizer (égaliseur) avec 15 bandes. Les valeurs valides vont de -0.25 à 1.\n-0.25 signifie que la fréquence donnée est completement coupée et 0.25 signifie qu'elle est doublée.\nUtilisez les réactions pour déplacer le curseur et éditer les gains intéractivement. Vous pouvez appuyer sur le cercle pour réinitialiser l'égaliseur.\nSinon vous pouvez directement spécifier une bande et un gain pour l'éditer rapidement.",
     "music-equalizer-set" : "Le gain de la bande {} est désormais {}",
-    "cmd-voicekick-help" : "Expulse un utilisateur d'un salon vocal."
+    "cmd-voicekick-help" : "Expulse un utilisateur d'un salon vocal.",
+
+    "cmd-autoconnect-set-help" : "Permet d'ajouter des salons auquels je me connecterai automatiquement dès qu'une personne s'y connectera.\nVous pouvez spécifier soit un URL, des mots clés, une autoplaylist ou une radio.",
+    "cmd-autoconnect-help" : "Permet de gérer les salons auquels je me connecte automatiquement.",
+    "cmd-autoconnect-remove-help" : "Retire un salon de mes salons auquels je me connecte automatiquement.",
+    "cmd-settings-ac" : "Salons avec Auto-Connexion",
+    "cmd-autoconnect-reset-help" : "Réinitialise tous mes salons où je me connecte automatiquement sur ce serveur.",
+    "cmd-autoconnect-now-help" : "Affiche la liste des salons auquels je me connecte automatiquement sur ce serveur.",
+    "music-autoconnect-list-empty" : "Ce serveur n'a aucun salon où je dois me connecter automatiquement. Utilisez {} pour commencter à en ajouter.",
+    "music-autoconnect-limit" : "Vous avez atteint le nombre maximal de salon auquel je dois me connecter automatiquement ({}) ! Pour augmenter cette limite, vous devez être Patron et vous devez claim ce serveur.",
+    "music-autoleave-need-claim" : "Vous devez claim ce serveur en utilisant {} !"
 }
