@@ -693,5 +693,12 @@
     "cmd-autoconnect-now-help" : "Displays the list of the current autoconnect channels on the server.",
     "music-autoconnect-list-empty" : "This server doesn't have any autoconnect channel. Use {} to start to add some.",
     "music-autoconnect-limit" : "You reached your maximum number of autoconnect channels ({}) ! To increase this limit you need to be a Patron and you have to claim this server.",
-    "music-autoleave-need-claim" : "You need to claim this server by using {} !"
+    "music-autoleave-need-claim" : "You need to claim this server by using {} !",
+
+    "disconnecting-inactivity" : "Disconnecting for inactivity!",
+    "support-watora" : "Support Watora",
+    "support-watora-end" : "and enjoy some little perks!",
+    "suggest-features" : "Suggest features with {}.",
+    "thanks-support" : "Thanks for supporting Watora!",
+    "manage-autoleave-time" : "You can manage autoleave time with {}."
 }

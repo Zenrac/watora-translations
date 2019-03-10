@@ -325,7 +325,7 @@
     "cmd-clan-not-existing" : "Ce clan n'existe pas.",
     "cmd-clan-list" : "**Liste des clans:**\n",
     "cmd-clan-no-clans" : "Il n'y a pas de clan sur ce serveur. Utilisez `{}` pour commencer à en ajouter.",
-    "cmd-8ball-options" : "Oui !|Non...|Peut-être...|Mes sources me disent que non!|C'est certain!|N'y pense même pas.|Je pense pas...|Sûrement",
+    "cmd-8ball-options" : "Oui !|Non...|Peut-être...|Mes sources me disent que non!|Ouais, mais c'est pas toi qui décide.|C'est certain!|N'y pense même pas.|Je pense pas...|Sûrement",
     "cmd-ily-nope" : "Je ne t'aime pas...",
     "cmd-ily-yes" : "Moi aussi ❤|Pour de vrai ? >///< ❤|C'est trop mignon >///< ❤|C'est vrai >///< ❤|Merci! Moi aussi! ❤|Je t'ai toujours aimé moi aussi ❤ ❤ ❤",
     "cmd-ily-no" : "Pas moi... 💔|Arrête de m'harceler... Je t'ai déjà dit non...|Il me semble t'avoir déjà répondu...|Arrête de me parler...|Ce n'est pas réciproque désolée..|Désolée, c'est pas réciproque...|Mais... on se connait pas?|Je préfère qu'on reste amis..|Désolée... J'ai déjà quelqu'un..",
@@ -696,5 +696,12 @@
     "cmd-autoconnect-now-help" : "Affiche la liste des salons auquels je me connecte automatiquement sur ce serveur.",
     "music-autoconnect-list-empty" : "Ce serveur n'a aucun salon où je dois me connecter automatiquement. Utilisez {} pour commencter à en ajouter.",
     "music-autoconnect-limit" : "Vous avez atteint le nombre maximal de salon auquel je dois me connecter automatiquement ({}) ! Pour augmenter cette limite, vous devez être Patron et vous devez claim ce serveur.",
-    "music-autoleave-need-claim" : "Vous devez claim ce serveur en utilisant {} !"
+    "music-autoleave-need-claim" : "Vous devez claim ce serveur en utilisant {} !",
+
+    "disconnecting-inactivity" : "Déconnexion pour inactivité!",
+    "support-watora" : "Soutenir Watora",
+    "support-watora-end" : "et recevez quelques petits avantages!",
+    "suggest-features" : "Suggérez des fonctionnalités avec {}.",
+    "thanks-support" : "Merci de soutenir Watora!",
+    "manage-autoleave-time" : "Vous pouvez gérer le temps de déconnexion automatique avec {}."
 }
