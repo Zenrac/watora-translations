@@ -703,5 +703,15 @@
     "support-watora-end" : "et recevez quelques petits avantages!",
     "suggest-features" : "Suggérez des fonctionnalités avec {}.",
     "thanks-support" : "Merci de soutenir Watora!",
-    "manage-autoleave-time" : "Vous pouvez gérer le temps de déconnexion automatique avec {}."
+    "manage-autoleave-time" : "Vous pouvez gérer le temps de déconnexion automatique avec {}.",
+
+    "upvote-added" : "Vote ajouté!",
+    "upvote-removed" : "Vote retiré!",
+    "plfind-result-votes" : "{} {} ({} votes)",
+    "plfind-result-vote" : "{} {} ({} vote)",
+    "plfind-result-middle" : "de {}",
+    "cmd-plfind-help" : "Cherche une autoplaylist en triant les résultats par vote.\nVous pouvez spécifier des mots clés pour préciser votre recherche.",
+    "cmd-plupvote" : "Vote pour une autoplaylist.\nLes autoplaylists avec le plus de vote ont plus de visibilité.",
+    "cmd-pl-find-help" : "Cherche une autoplaylist en triant les résultats par vote.\nVous pouvez spécifier des mots clés pour préciser votre recherche.",
+    "cmd-pl-upvote-help" : "Vote pour une autoplaylist.\nLes autoplaylists avec le plus de vote ont plus de visibilité."
 }
