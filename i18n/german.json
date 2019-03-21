@@ -702,5 +702,15 @@
     "support-watora-end" : "and enjoy some little perks!",
     "suggest-features" : "Suggest features with {}.",
     "thanks-support" : "Thanks for supporting Watora!",
-    "manage-autoleave-time" : "You can manage autoleave time with {}."
+    "manage-autoleave-time" : "You can manage autoleave time with {}.",
+
+    "upvote-added" : "Upvote added!",
+    "upvote-removed" : "Upvote removed!",
+    "plfind-result-votes" : "{} {} ({} upvotes)",
+    "plfind-result-vote" : "{} {} ({} upvote)",
+    "plfind-result-middle" : "by {}",
+    "cmd-plfind-help" : "Searches for an autoplaylist sorted by upvote.\nYou can specify a query to accurate your search.",
+    "cmd-plupvote" : "Upvotes an autoplaylist.\nAutoplaylists with more upvotes have more visibility.",
+    "cmd-pl-find-help" : "Searches for an autoplaylist sorted by upvote.\nYou can specify a query to accurate your search.",
+    "cmd-pl-upvote-help" : "Upvotes an autoplaylist.\nAutoplaylists with more upvotes have more visibility."
 }
