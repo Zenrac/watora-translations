@@ -713,5 +713,6 @@
     "cmd-plfind-help" : "Cherche une autoplaylist en triant les résultats par vote.\nVous pouvez spécifier des mots clés pour préciser votre recherche.",
     "cmd-plupvote" : "Vote pour une autoplaylist.\nLes autoplaylists avec le plus de vote ont plus de visibilité.",
     "cmd-pl-find-help" : "Cherche une autoplaylist en triant les résultats par vote.\nVous pouvez spécifier des mots clés pour préciser votre recherche.",
-    "cmd-pl-upvote-help" : "Vote pour une autoplaylist.\nLes autoplaylists avec le plus de vote ont plus de visibilité."
+    "cmd-pl-upvote-help" : "Vote pour une autoplaylist.\nLes autoplaylists avec le plus de vote ont plus de visibilité.",
+    "now-empty" : "Désormais vide!"
 }
