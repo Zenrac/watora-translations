@@ -716,5 +716,6 @@
     "cmd-plfind-help" : "Searches for an autoplaylist sorted by upvote.\nYou can specify a query to accurate your search.",
     "cmd-plupvote" : "Upvotes an autoplaylist.\nAutoplaylists with more upvotes have more visibility.",
     "cmd-pl-find-help" : "Searches for an autoplaylist sorted by upvote.\nYou can specify a query to accurate your search.",
-    "cmd-pl-upvote-help" : "Upvotes an autoplaylist.\nAutoplaylists with more upvotes have more visibility."
+    "cmd-pl-upvote-help" : "Upvotes an autoplaylist.\nAutoplaylists with more upvotes have more visibility.",
+    "now-empty" : "Now empty!"
 }
