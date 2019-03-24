@@ -546,7 +546,7 @@
     "music-stop-vote" : "Seu voto para eu me desconectar foi foi adicionado!",
     "music-stop-already" : "Você já votou para que eu me desconecte...",
     "music-stop-success" : "Desconectando e limpando fila...",
-    "music-pause-success" : "{} passou a música.",
+    "music-pause-success" : "{} pausou a música.",
     "music-resume-success" : "{} retomou a música.",
     "music-skip-success" : "{} pulou a música.",
     "music-skip-added" : "Voto para pular adicionado.",
