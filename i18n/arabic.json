@@ -95,7 +95,7 @@
     "cmd-ascii-help" : "Displays a text in ascii art.",
     "cmd-poll-help" : "Interactively creates a poll with the following question.",
     "cmd-meme-help" : "Generates a meme.\nIt displays your text on the user avatar or on a custom picture.",
-    "cmd-osu-help" : "Displays information about an osu! profile\nYou can choose a mode, if you don't specify any mode, standard is used.\nMode list : Standard, Taiko, Ctb, Mania",
+    "cmd-osu-help" : "Displays information about an osu! profile.\nYou can choose a mode, if you don't specify any mode, standard is used.\nMode list : Standard, Taiko, Ctb, Mania",
     "cmd-choice-help" : "Randomly selects a random option between multiple options.\nBy putting >>> at the beginning, it will start the selected command.\n\n- Image links in this command are automatically hidden.",
     "cmd-anime-help" : "Displays information about an anime.",
     "cmd-manga-help" : "Displays information about a manga.",
@@ -711,5 +711,7 @@
     "cmd-plupvote" : "Upvotes an autoplaylist.\nAutoplaylists with more upvotes have more visibility.",
     "cmd-pl-find-help" : "Searches for an autoplaylist sorted by upvote.\nYou can specify a query to accurate your search.",
     "cmd-pl-upvote-help" : "Upvotes an autoplaylist.\nAutoplaylists with more upvotes have more visibility.",
-    "now-empty" : "Now empty!"
+    "now-empty" : "Now empty!",
+
+    "cmd-minesweeper-help" : "Starts a minesweeper game.\nAvailable levels:"
 }
