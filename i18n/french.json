@@ -95,7 +95,7 @@
     "cmd-ascii-help" : "Affiche un texte en art ascii.",
     "cmd-poll-help" : "Permet de créer un sondage interactivement avec la question spécifiée.",
     "cmd-meme-help" : "Génère un meme.\nLe texte est affiché sur l'avatar de l'utilisateur ou sur une image customisée.",
-    "cmd-osu-help" : "Affiche des informations sur un profil osu!, si aucun mode n'est spécifié dans le mode standard.\nListe des modes : Standard, Taiko, Ctb, Mania",
+    "cmd-osu-help" : "Affiche des informations sur un profil osu!\nSi aucun mode n'est spécifié dans le mode standard.\nListe des modes : Standard, Taiko, Ctb, Mania",
     "cmd-choice-help" : "Sélectionne aléatoirement une option entre plusieurs options.\nEn mettant >>> au début, ça lancera la commande sélectionnée.\n\n- Les liens d'image sur cette commande sont automatiquement cachés.",
     "cmd-anime-help" : "Affiche des informations sur un animé.",
     "cmd-manga-help" : "Affiche des informations sur un manga.",
@@ -714,5 +714,7 @@
     "cmd-plupvote" : "Vote pour une autoplaylist.\nLes autoplaylists avec le plus de vote ont plus de visibilité.",
     "cmd-pl-find-help" : "Cherche une autoplaylist en triant les résultats par vote.\nVous pouvez spécifier des mots clés pour préciser votre recherche.",
     "cmd-pl-upvote-help" : "Vote pour une autoplaylist.\nLes autoplaylists avec le plus de vote ont plus de visibilité.",
-    "now-empty" : "Désormais vide!"
+    "now-empty" : "Désormais vide!",
+
+    "cmd-minesweeper-help" : "Commence une partie de démineur.\nNiveau disponibles:"
 }
