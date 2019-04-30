@@ -699,16 +699,18 @@
     "cmd-blindtest-mal-same-time" : "You can only start {} anime lists at the same time.",
     "cmd-blindtest-max-animelist" : "You can't put this amount of anime lists. (max is 5)",
     "cmd-blindtest-empty" : "This autoplaylist is empty! It requires at least one song to start a blindtest...",
-    "cmd-blindtest-help" : "Starts a blindtest in the current channel.\n\nAvailable options:\n\ndifficulty=number:\n Between 0 and 5. 0 means everything, 1 is easy. 6 is hard.\n\nlongestword=true|false (Default to False):\n Accept the longest word as a good answer.\n\nlistening=true|false (Default to False):\n Do not accept answers, just listen the songs.\n\ntimeout=number (Default to 120):\n Timeout before stopping the song if not found. Between 3 and 300 seconds.\n\nseverity=number (Default to 100):\n Severity in percentage of word to accept an answer. Between 1 and 100%.\n\npercentage=number,number,number (Default to 100,0,0):\n Percentage of OP, ED, OST. The sum of all values should be 100.",
+    "cmd-blindtest-help" : "Starts a blindtest in the current channel.\n\nAvailable options:\n\nlongestword=true|false (Default to False):\n Accept the longest word as a good answer.\n\nlistening=true|false (Default to False):\n Do not accept answers, just listen the songs.\n\ntimeout=number (Default to 120):\n Timeout before stopping the song if not found. Between 3 and 300 seconds.\n\nseverity=number (Default to 100):\n Severity in percentage of word to accept an answer. Between 1 and 100%.\n\npercentage=number,number,number (Default to 100,0,0):\n Percentage of OP, ED, OST. The sum of all values should be 100.\n\nwait=number (Default to 5):\n Time to wait before each song. Between 0 and 30 seconds.\n\nargument=status (Default to all):\n Only select a type of watched anime in the given anime lists.\nAvailable status are: all, completed, watching, onhold, dropped, ptw.\n\nremove=status,status2 (Default to ptw):\n Ignore a type (or serveral) of watched anime (separated by commas) in the given anime lists.\nAvailable status are: completed, watching, onhold, dropped, ptw.",
     "cmd-blindtest-is-running" : "A blindtest is already running.. Do you want to stop it ? (yes/no)",
     "cmd-blindtest-stop-blindtest" : "Stopping blindtest!",
     "cmd-blindtest-invalid-param" : "The parameter {} isn't valid.",
     "cmd-blindtest-invalid-value" : "The value {} isn't valid for the parameter {}.",
     "cmd-blindtest-blindtest-info" : "Fetching information from MyAnimeList...",
     "cmd-blindtest-fail" : "Fail",
-    "cmd-blindtest-start" : "Starting a blindtest game in this channel! Be ready!",
+    "cmd-blindtest-start" : "Starting a blindtest game in this channel with {} songs!",
     "cmd-blindtest-mal-fail" : "Failed to fetch information from MyAnimeList, try again later!",
     "cmd-blindtest-timeout" : "Timeout",
+    "cmd-blindtest-rank" : "Ranking",
+    "cmd-blindtest-enjoyed" : "Enjoyed this game?",
     "cmd-blindtest-final-rank" : "Final Ranking",
     "cmd-blindtest-video" : "Video",
     "cmd-blindtest-perfect" : "Perfect : +3 points",
@@ -716,6 +718,11 @@
     "cmd-blindtest-good" : "Good : +1 point",
     "cmd-blindtest-not-found" : "Not Found",
     "cmd-blindtest-found-in" : "Found in {} secs!",
+    "cmd-blindtest-next-song" : "Next song is coming!",
+    "cmd-blindtest-same-remove" : "You cannot set the same value to this parameters or it will give an empty result.",
+    "cmd-blindtestscore-no-saved" : "No score currently saved on this server... Use {} to start a blindtest!",
+    "cmd-blindtestscore-help" : "Displays the server blindtest ranking.",
+
 
     "cmd-plsettings-modify-name" : "You can't modify the autoplaylist's name. You can only edit the uppercases and lowercases of the name."
 }
