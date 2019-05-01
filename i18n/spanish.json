@@ -143,6 +143,7 @@
     "cmd-active-help" : "Muestra todos mis reproductores con sus estados.",
     "cmd-volume-help" : "Establece el volumen de reproducción. Valores aceptados en el rango de 0 a 1000.\nColocando + o - antes del volumen hará que este cambie relativamente con el volumen actual.\nSi no especifica un nuevo volumen, se retorna el volumen actual.",
     "cmd-ploff-help" : "Deshabilita la lista de reproducción automática actual.",
+    "cmd-pl-help" : "Administra mis listas de reproducción automáticas.",
     "cmd-plnow-help" : "Muestra la lista de reproducción automática actual.",
     "cmd-plstart-help" : "Inicia una lista de reproducción automática.\nSi no especifica una lista de reproducción automática, se cargará la suya.",
     "cmd-plnew-help" : "Crea una nueva lista de reproducción automática que pueda ser cargada.",

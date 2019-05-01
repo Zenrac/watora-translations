@@ -139,6 +139,7 @@
     "cmd-active-help": "Displays all my players with their status.",
     "cmd-volume-help": "Sets the playback volume. Accepted values are from 0 to 1000.\nPutting + or - before the volume will make the volume change relative to the current volume.\nIf you don't specify any new volume, returns the current volume.",
     "cmd-ploff-help": "현재 자동 재생 목록을 비활성화합니다.",
+    "cmd-pl-help": "자동 재생 목록을 관리합니다.",
     "cmd-plnow-help": "현재 자동 재생 목록을 표시합니다.",
     "cmd-plstart-help": "자동 재생을 시작합니다.\n따로 목록을 지정하지 않으면, 당신의 목록을 불러옵니다.",
     "cmd-plnew-help": "Creates a new autoplaylist that can be loaded.",

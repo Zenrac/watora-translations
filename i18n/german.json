@@ -143,6 +143,7 @@
     "cmd-active-help" : "Zeigt alle meine Player und deren Zustände an.",
     "cmd-volume-help" : "Legt die Lautstärke fest. Akzeptiert werden Angaben von 0 bis 100.\nDie Angabe von + oder - vor die gewünschte Lautstärke ändert diese relativ zur gegenwärtigen Lautstärke.\nWenn du keine neue Lautstärke angibst, wird die gegenwärtige Lautstärke verwendet.",
     "cmd-ploff-help" : "Deaktiviert meine gegenwärtige Autoplaylist.",
+    "cmd-pl-help" : "Verwaltet meine Autoplaylist.",
     "cmd-plnow-help" : "Zeigt meine gegenwärtige Autoplaylist an.",
     "cmd-plstart-help" : "Startet eine Autoplaylist.\nWenn du keine spezifische Autoplaylist angibst, wird deine geladen.",
     "cmd-plnew-help" : "Erstellt eine neue Autoplaylist, die geladen werden kann.",

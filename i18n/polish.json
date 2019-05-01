@@ -143,6 +143,7 @@
     "cmd-active-help" : "Wyświetla wszystkie moje odtwarzacze wraz z ich stanami.",
     "cmd-volume-help" : "Ustawia głośność odtwarzania. Akceptowane wartości wynoszą od 0 do 1000.\nUmieszczenie + lub - przed wartością umożliwia zmianę poziomu głośności w odniesieniu do jej aktualnego poziomu.\nJeśli nie określisz nowego poziomu głośności, zwraca aktualny poziom głośności.",
     "cmd-ploff-help" : "Wyłącza aktualną autoplaylistę.",
+    "cmd-pl-help" : "Zarządza moimi autoplaylistami.",
     "cmd-plnow-help" : "Wyświetla aktualną autoplaylistę.",
     "cmd-plstart-help" : "Uruchamia autoplaylistę.\nJeśli nie wskażesz żadnej autoplaylisty - uruchamia twoją.",
     "cmd-plnew-help" : "Tworzy nową autoplaylistę, którą można załadować.",

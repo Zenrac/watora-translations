@@ -143,6 +143,7 @@
     "cmd-active-help" : "Affiche tous mes players avec leur status.",
     "cmd-volume-help" : "Configure le volume. Les valeurs acceptés sont de 1 à 1000.\nMettre + ou - avant le volume permet d'additionner le nombre et le volume actuel.\nSi vous ne spécifiez pas de nouveau volume, affiche le volume actuel.",
     "cmd-ploff-help" : "Désactive l'autoplaylist actuelle.",
+    "cmd-pl-help" : "Gestion de mes autoplaylist.",
     "cmd-plnow-help" : "Affiche l'autoplaylist actuelle.",
     "cmd-plstart-help" : "Démarre une autoplaylist.\nSi vous ne spécifiez aucune autoplaylist, charge la vôtre.",
     "cmd-plnew-help" : "Crée une nouvelle autoplaylist qui peut être chargée.",

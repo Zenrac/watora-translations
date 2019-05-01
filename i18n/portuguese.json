@@ -143,6 +143,7 @@
     "cmd-active-help" : "Exibe todos os meus jogadores com seus estados.",
     "cmd-volume-help" : "Define o volume de reprodução. Os valores aceitos são de 0 a 1000.\nColocar + ou - antes do volume fará com que o volume mude em relação ao volume atual.\nSe você não especificar nenhum novo volume, retornará o volume atual",
     "cmd-ploff-help" : "Desabilita a lista de reprodução automática atual.",
+    "cmd-pl-help" : "Gerencia minhas listas de reprodução automáticas.",
     "cmd-plnow-help" : "Exibe a lista de reprodução automática atual",
     "cmd-plstart-help" : "Inicial uma lista de reprodução automática.\nSe não for especificada uma lista de reprodução automática, carrega a sua.",
     "cmd-plnew-help" : "Cria uma nova lista de reprodução automática que pode ser carregada.",

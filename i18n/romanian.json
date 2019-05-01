@@ -143,6 +143,7 @@
     "cmd-active-help" : "Afiseaza toti jucatorii cu statusurile lor.",
     "cmd-volume-help" : "Seteaza volumul playback-ului. VAlorile acceptate sunt de la 0 la 1000.\nPunand + sau - inainte ca volumul sa fie schimbat va fi la volumul curent.\nDaca n-ai specificat noul volum, vei avea volumul curent.",
     "cmd-ploff-help" : "Dezactiveaza autoplaylist.",
+    "cmd-pl-help" : "Gestioneaza=mi autoplaylist-ul.",
     "cmd-plnow-help" : "Afiseaza autoplaylist-ul.",
     "cmd-plstart-help" : "Porneste autoplaylist-ul.\nDaca n-ai specificat ce autoplaylist, se va incarca pe a ta.",
     "cmd-plnew-help" : "Creaza un nou autoplaylist care poate fi incarcat.",

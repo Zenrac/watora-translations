@@ -143,6 +143,7 @@
     "cmd-active-help" : "Tüm oynatıcılarımı durumlarıyla birlikte gösterir.",
     "cmd-volume-help" : "Oynatıcı sesini ayarlar. Kabul edilen değerler 0 ile 1000 arasındadır.\nSes ayarından önce + veya - koymak, var olan ses ayarına göre değiştirecektir.\nEğer herhangi bir ses ayarı tanımlamazsan, var olan ses ayarını döndürür.",
     "cmd-ploff-help" : "Mevcut otomatik oynatma listesini devre dışı bırakır.",
+    "cmd-pl-help" : "Oto-oynatmalistelerini yönetir.",
     "cmd-plnow-help" : "Mevcut otomatik oynatma listesini görüntüler.",
     "cmd-plstart-help" : "Oto-oynatma listesini başlatır.\nEğer herhangi bir oto oynatma listesi tanımlamadıysanız, kendizinkileri yükler.",
     "cmd-plnew-help" : "Yüklenebilecek yeni bir otomatik oynatma listesi oluşturur.",

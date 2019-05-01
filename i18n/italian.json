@@ -143,6 +143,7 @@
     "cmd-active-help": "Visualizza tutti i miei giocatori con i loro stati.",
     "cmd-volume-help": "Imposta il volume di riproduzione.I valori accettati vanno da 0 a 1000. \nPotendo + o - prima che il volume faccia cambiare il volume rispetto al volume corrente. \nSe non si specifica alcun nuovo volume, restituisce il volume corrente. ",
     "cmd-ploff-help": "Disabilita la lista autoplay corrente.",
+    "cmd-pl-help": "Gestisce le mie autoplaylist.",
     "cmd-plnow-help": "Visualizza l'elenco di riproduzione automatica corrente.",
     "cmd-plstart-help": "Avvia una playlist automatica. \nSe non si specifica alcuna playlist automatica, carica la tua.",
     "cmd-plnew-help": "Crea una nuova autoplay che può essere caricata.",
