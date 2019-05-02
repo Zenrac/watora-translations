@@ -722,14 +722,13 @@
     "cmd-blindtest-video" : "Vídeo",
     "cmd-blindtest-perfect" : "Perfeito : +3 pontos",
     "cmd-blindtest-very-good" : "Muito Bom : +2 pontos",
-    "cmd-blindtest-good" : "Bom : +1 pontos",
+    "cmd-blindtest-good" : "Bom : +1 ponto",
     "cmd-blindtest-not-found" : "Não encontrado",
     "cmd-blindtest-found-in" : "Encontrado em {} segundos!",
     "cmd-blindtest-next-song" : "Próxima musica em breve!",
     "cmd-blindtest-same-remove" : "Você não pode setar o mesmo valor para esse parâmetro ou isso irá gerar um resultado vazio.",
     "cmd-blindtestscore-no-saved" : "Atualmente não há pontuação salva nesse servidor... Use {} para começar um blindtest!",
     "cmd-blindtestscore-help" : "Mostra o Rank blindtest do servidor.",
-
 
     "cmd-plsettings-modify-name" : "You can't modify the autoplaylist's name. You can only edit the uppercases and lowercases of the name."
 }
