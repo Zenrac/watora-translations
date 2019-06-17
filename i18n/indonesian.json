@@ -656,7 +656,7 @@
     "music-autoleave-now-never" : "Fungsi meninggalkan otomatis aku sekarang dimatikan. Aku tidak akan meninggalkan kanal dengan sendirian karena ketidakaktifan lagi.",
     "music-autoleave-unreasonable" : "Kamu hanya dapat memilih waktu antara {} hingga {} detik apabila kamu bukan Patron di server ku.",
     "music-autoleave-unreasonable-patron" : "Kamu tidak dapat mengatur waktu melebihi dari {}. Kirim {} jika kamu ingin aku tidak pernah meninggalkan kanal karena ketidakaktifan.",
-    "music-autoleave-never" : "Jangan pernah",
+    "music-autoleave-never" : "Tidak akan meninggalkan",
     "music-npmsg-reset" : "Pesan 'dimainkan sekarang' pada awal lagu sekarang dikirim otomatis tergantung dimana kamu menggunakan perintah.",
     "music-npmsg-set" : "Pesan 'dimainkan sekarang' pada awal lagu sekarang dikirim otomatis ke {}.",
     "music-npmsg-set-disabled" : "Pesan 'dimainkan sekarang' pada awal lagu sekarang dinonaktifkan.",
