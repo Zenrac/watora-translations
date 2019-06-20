@@ -37,7 +37,7 @@
     "no-result" : "無結果。",
     "not-connected" : "我並未與話音連接！",
     "not-playing" : "我沒有播放任何歌曲。",
-    "not-the-right-channel" : "你需要在我的文字頻道來使用這句指令。",
+    "not-the-right-channel" : "你需要在我的文字頻道來使用指令。",
 
     "bot-disabled-command" : "你無法使用此指令，該指令在此服務器上已禁用。",
     "bot-bind-mod" : "你不能在這個頻道上使用指令，我已綁定到另一個頻道。",
