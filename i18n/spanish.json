@@ -697,7 +697,7 @@
     "plfind-result-vote" : "{} {} ({} upvote)",
     "plfind-result-middle" : "por {}",
     "cmd-plfind-help" : "Busca una lista de reproducción automática ordenada por upvote.\nPuede especificar una consulta para hacer mas precisa su búsqueda.",
-    "cmd-plupvote" : "Upvotes una lista de reproducción automática.\nLas listas de reproducción automática con más upvotes tienen más visibilidad.",
+    "cmd-plupvote-help" : "Upvotes una lista de reproducción automática.\nLas listas de reproducción automática con más upvotes tienen más visibilidad.",
     "now-empty" : "Ahora vacio!",
 
     "cmd-minesweeper-help" : "Inicia un juego de buscaminas.\nNiveles disponibles:",

@@ -703,7 +703,7 @@
     "plfind-result-vote" : "{} {} ({} upvote)",
     "plfind-result-middle" : "by {}",
     "cmd-plfind-help" : "Searches for an autoplaylist sorted by upvote.\nYou can specify a query to narrow your search.",
-    "cmd-plupvote" : "Upvotes an autoplaylist.\nAutoplaylists with more upvotes have more visibility.",
+    "cmd-plupvote-help" : "Upvotes an autoplaylist.\nAutoplaylists with more upvotes have more visibility.",
     "now-empty" : "Now empty!",
 
     "cmd-minesweeper-help" : "Starts a minesweeper game.\nAvailable levels:",

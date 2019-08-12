@@ -700,7 +700,7 @@
     "plfind-result-vote" : "{} {} ({} vote)",
     "plfind-result-middle" : "de {}",
     "cmd-plfind-help" : "Cherche une autoplaylist en triant les résultats par vote.\nVous pouvez spécifier des mots clés pour préciser votre recherche.",
-    "cmd-plupvote" : "Vote pour une autoplaylist.\nLes autoplaylists avec le plus de vote ont plus de visibilité.",
+    "cmd-plupvote-help" : "Vote pour une autoplaylist.\nLes autoplaylists avec le plus de vote ont plus de visibilité.",
     "now-empty" : "Désormais vide!",
 
     "cmd-minesweeper-help" : "Commence une partie de démineur.\nNiveau disponibles:",

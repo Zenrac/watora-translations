@@ -697,7 +697,7 @@
     "plfind-result-vote" : "{} {} ({} upvote)",
     "plfind-result-middle" : "by {}",
     "cmd-plfind-help" : "Searches for an autoplaylist sorted by upvote.\nYou can specify a query to narrow your search.",
-    "cmd-plupvote" : "提出一個自動播放列表。\nAutoplaylists with more upvotes have more visibility.",
+    "cmd-plupvote-help" : "提出一個自動播放列表。\nAutoplaylists with more upvotes have more visibility.",
     "now-empty" : "現在是空的！",
 
     "cmd-minesweeper-help" : "Starts a minesweeper game.\nAvailable levels:",

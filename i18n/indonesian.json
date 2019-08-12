@@ -697,7 +697,7 @@
     "plfind-result-vote" : "{} {} ({} upvote)",
     "plfind-result-middle" : "oleh {}",
     "cmd-plfind-help" : "Mencari autoplaylst yang diurutkan dari total upvote.\nKamu juga dapat menentukan kueri untuk mempersempit hasil pencarian.",
-    "cmd-plupvote" : "Memberikan/mencabut upvotes pada autoplaylist.\nAutoplaylist dengan upvote lebih banyak akan muncul lebih.",
+    "cmd-plupvote-help" : "Memberikan/mencabut upvotes pada autoplaylist.\nAutoplaylist dengan upvote lebih banyak akan muncul lebih.",
     "now-empty" : "Sekarang kosong!",
 
     "cmd-minesweeper-help" : "Mulai permainan minesweeper.\nLevel tersedia:",
