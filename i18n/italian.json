@@ -110,7 +110,7 @@
     "cmd-avatar-help": "Visualizza un avatar utente. \nSe non si specifica alcun utente, viene visualizzato il proprio.",
     "cmd-userinfo-help": "Visualizza le informazioni su un utente. \nSe non si specifica alcun utente, verranno visualizzate le proprie.",
     "cmd-serverinfo-help": "Visualizza le informazioni del server.",
-    "cmd-roleinfo-help": "Mostra informazioni su un ruolo. Attenzione, verrà visualizzata la differenza tra i caratteri maiuscoli e minuscoli.", 
+    "cmd-roleinfo-help": "Mostra informazioni su un ruolo. Attenzione, verrà visualizzata la differenza tra i caratteri maiuscoli e minuscoli.",
     "cmd-info-help": "Mostra informazioni su di me.",
     "cmd-credits-help": "Visualizza il mio elenco di ringraziamenti speciali.",
     "cmd-changelog-help": "Visualizza gli aggiornamenti sulle patch. \nPer ulteriori informazioni sulle vecchie modifiche, visita il mio server.",
@@ -697,7 +697,7 @@
     "plfind-result-vote" : "{} {} ({} voto)",
     "plfind-result-middle" : "da {}",
     "cmd-plfind-help" : "Ricercando una playlist votata.\nÈ possibile specificare una query per restringere la ricerca.",
-    "cmd-plupvote" : "Vota una playlist.\nAPlaylists con più voti hanno una visibilità maggiore.",
+    "cmd-plupvote-help" : "Vota una playlist.\nAPlaylists con più voti hanno una visibilità maggiore.",
     "now-empty" : "Svuotata!",
 
     "cmd-minesweeper-help" : "Cominciato un minesweeper minigioco.\nLivelli possibili:",
