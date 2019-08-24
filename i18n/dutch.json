@@ -112,18 +112,18 @@
     "cmd-serverinfo-help" : "Laat server informatie zien.",
     "cmd-roleinfo-help" : "Laat rol informatie zien. Let op: dit is hoofdlettergevoelig.",
     "cmd-info-help" : "Laat informatie over mezelf zien.",
-    "cmd-credits-help" : "Displays my special thanks list.",
-    "cmd-changelog-help" : "Displays my last patch notes.\nFor further information about old patch notes, visit my official server.",
-    "cmd-don-help" : "Displays information and links to support me.",
-    "cmd-permsinfo-help" : "Displays information about my permissions.",
-    "cmd-id-help" : "Displays the ID of a user.\nIf you don't specify any user, it displays yours.",
-    "cmd-invitation-help" : "Displays my invitation links.",
-    "cmd-suggestion-help" : "Sends a suggestion to the developer.",
+    "cmd-credits-help" : "Toon mijn bedanklijst.",
+    "cmd-changelog-help" : "Toont mijn patch notities.\nVoor meer informatie over oude patch notities, bezoek mijn officiële server.",
+    "cmd-don-help" : "Toont informatie en links om mij te ondersteunen.",
+    "cmd-permsinfo-help" : "Geeft informatie weer over mijn rechten.",
+    "cmd-id-help" : "Toont de ID van een gebruiker.\nAls u geen gebruiker opgeeft, wordt de uwe weergegeven.",
+    "cmd-invitation-help" : "Toont mijn uitnodigingslinks.",
+    "cmd-suggestion-help" : "Stuurt een suggestie naar de ontwikkelaar.",
     "cmd-bug-help" : "Reports a bug to the developer.",
-    "cmd-feedback-help" : "Sends a feedback about me to the developer.",
-    "cmd-version-help" : "Displays my current version.",
-    "cmd-infoshard-help" : "Displays information about my shards.",
-    "cmd-giverole-help" : "Gives a role to an user on the gilde.",
+    "cmd-feedback-help" : "Stuurt een feedback over mij naar de ontwikkelaar.",
+    "cmd-version-help" : "Toont mijn huidige versie.",
+    "cmd-infoshard-help" : "Toont informatie over mijn scherven.",
+    "cmd-giverole-help" : "Gives a role to an user on the guild.",
     "cmd-setrole-help" : "Configures which roles can be obtained with the getrole command.",
     "cmd-setrole-add-help" : "Makes a role obtainable with the getrole command.",
     "cmd-setrole-remove-help" : "Un-makes a role obtainable with the getrole command.",
@@ -731,5 +731,5 @@
     "cmd-blindtestscore-help" : "Displays the server blindtest ranking.",
 
 
-    "cmd-plsettings-modify-name" : "You can't modify the autoplaylist's name. You can only edit the uppercases and lowercases of the name."
+    "cmd-plsettings-modify-name" : "U kunt de naam van de autoplaylist niet wijzigen. U kunt alleen de hoofdletters en kleine letters van de naam wijzigen."
 }
