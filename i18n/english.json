@@ -19,6 +19,7 @@
     "put-the-role-id-instead" : "Invalid type of command, you have to put the role's ID, you can find it with {}.",
 
     "music-over-used" : "Sorry. I'm currently overused. To keep a decent global performance, you cannot play a song at the moment.",
+    "music-nodes-unavailable" : "Sorry. Music commands are disabled because all my servers are unavailable!",
     "music-no-result" : "Sorry, there are no results for your search. Try to use {} to perform an advanced search.",
     "music-load-failed" : "Sorry, this video is not available anymore. Try to use {} to perform an advanced search.",
     "music-upnext" : "Up next",

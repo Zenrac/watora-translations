@@ -19,6 +19,7 @@
     "put-the-role-id-instead" : "Tipo de comando inválido, você deve informar o ID do papel, você pode encontrá-lo com {}.",
 
     "music-over-used" : "Desculpe. Atualmente estou sobrecarregado. Para manter um serviço decente, você não pode tocar músicas no momentos.",
+    "music-nodes-unavailable" : "Sorry. Music commands are disabled because all my servers are unavailable!",
     "music-no-result" : "Desculpe, não há resultado para a sua busca. Tente utilizar {} para realizar uma busca avançada.",
     "music-load-failed" : "Desculpe, esse vídeo não está mais disponível. Tente utilizar {} para realizar uma busca avançada.",
     "music-upnext" : "Próxima",
