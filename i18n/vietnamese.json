@@ -19,6 +19,7 @@
     "put-the-role-id-instead" : "Lệnh này không đúng, bạn phải bỏ ID của vai trò, bạn có thể kiếm được với {}.",
 
     "music-over-used" : "Xin lỗi. Bây giờ, tôi đang bị quá tải. Có thể để hoạt động toàn cầu, bạn không thể chơi nhạc bây giờ được.",
+    "music-nodes-unavailable" : "Sorry. Music commands are disabled because all my servers are unavailable!",
     "music-no-result" : "Xin lỗi, tôi không có kết quả cho những gì bạn đang tìm kiếm. Xin dùng {} advance search.",
     "music-load-failed" : "Xin lỗi, video này không thể truy cập được nữa. Xin dùng {} advance search.",
     "music-upnext" : "Tiếp theo",
@@ -236,7 +237,7 @@
     "cmd-blacklist-r-removed" : "Vai trò này đã được xóa từ danh sách đen trong máy chủ.",
     "cmd-blacklist-r-a-bl" : "Vai trò đã có sẵn trong danh sách đen.",
     "cmd-blacklist-a-bl" : "Thành viên đã có sẵn trong danh sách đen.",
-    "cmd-blacklist-removed" : "Thành viên đã đã được xóa từ danh sách đen trong máy chủ.", 
+    "cmd-blacklist-removed" : "Thành viên đã đã được xóa từ danh sách đen trong máy chủ.",
     "cmd-blacklist-not-bl" : "Thành viên này không có trong danh sách đen.",
     "cmd-blacklist-no-bl-og" : "Không có thành viên nào nằm trong sách đen trong máy chủ này.",
     "cmd-blacklist-now-empty" : "Danh sách đen cho guild đang trống bây giờ.",

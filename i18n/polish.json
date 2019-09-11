@@ -19,6 +19,7 @@
     "put-the-role-id-instead" : "Niewłaściwy typ komendy, musisz podać ID roli, do której się odwołujesz {}.",
 
     "music-over-used" : "Przykro mi. Jestem aktualnie przeciążony. Nie możesz w tym momencie odtworzyć utworu ze względu na konieczność utrzymania globalnej wydajności.",
+    "music-nodes-unavailable" : "Sorry. Music commands are disabled because all my servers are unavailable!",
     "music-no-result" : "Przykro mi, brak wyników dla twojego zapytania. Spróbuj użyć {} aby przeprowadzić zaawansowane wyszukiwanie.",
     "music-load-failed" : "Przykro mi, to wideo nie jest dłużej dostępne. Spróbuj użyć {} aby przeprowadzić zaawansowane wyszukiwanie.",
     "music-upnext" : "Następy",

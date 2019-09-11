@@ -19,6 +19,7 @@
     "put-the-role-id-instead" : "Invalid type of command, you have to put the ID of the role, you can find it with {}.",
 
     "music-over-used" : "آسف. انا مشغول حاليا. للحفاظ على أداء عالمي لائق ، لا يمكنك لعب أغنية في الوقت الحالي.",
+    "music-nodes-unavailable" : "Sorry. Music commands are disabled because all my servers are unavailable!",
     "music-no-result" : "عذرا ، لا توجد نتيجة لبحثك. حاول استخدام {} لإجراء بحث متقدم.",
     "music-load-failed" : "عذرًا ، هذا الفيديو غير متوفر بعد الآن. حاول استخدام {} لإجراء بحث متقدم.",
     "music-upnext" : "التالي",

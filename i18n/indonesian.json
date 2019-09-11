@@ -19,6 +19,7 @@
     "put-the-role-id-instead" : "Perintah tidak sah, kamu harus memasukkan ID peran, kamu bisa menemukannya dengan {}",
 
     "music-over-used" : "Maaf, aku sudah terlalu lama digunakan. Untuk menjaga kinerja, kamu saat ini tidak dapat memutar lagu.",
+    "music-nodes-unavailable" : "Sorry. Music commands are disabled because all my servers are unavailable!",
     "music-no-result" : "Maaf, pencarian tidak ditemukan. Coba gunakan {} untuk melakukan pencarian lebih lanjut.",
     "music-load-failed" : "Maaf, video ini tidak lagi tersedia. Coba gunakan {} untuk melakukan pencarian lebih lanjut.",
     "music-upnext" : "Selanjutnya",

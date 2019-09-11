@@ -19,6 +19,7 @@
     "put-the-role-id-instead" : "Ungültiger Aufbau des Befehls. Du musst die ID der Rolle einsetzen {}.",
 
     "music-over-used" : "Entschuldigung, aber ich bin momentan überlastet. Um eine globale Mindestleistung aufrechtzuerhalten, kann ich zurzeit kein Lied abspielen.",
+    "music-nodes-unavailable" : "Sorry. Music commands are disabled because all my servers are unavailable!",
     "music-no-result" : "Entschuldigung, für deine Suche gibt es leider keine Ergebnisse. Verwende {}, um eine erweiterte Suche durchzuführen.",
     "music-load-failed" : "Entschuldigung, aber dieses Video ist nicht mehr verfügbar. Benutze {}, um die erweiterte Suche zu aktivieren.",
     "music-upnext" : "Jetzt",

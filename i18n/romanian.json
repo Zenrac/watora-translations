@@ -19,6 +19,7 @@
     "put-the-role-id-instead" : "Tip de comanda invalida, trebuie sa pui ID-ul rolului, il puteti gasi cu {}.",
 
     "music-over-used" : "Scuze. In prezent sunt supra-utilizata. Pentru a pastra o performanta globala, nu poti pune muzica in acest moment.",
+    "music-nodes-unavailable" : "Sorry. Music commands are disabled because all my servers are unavailable!",
     "music-no-result" : "Scuze, nu exista niciun rezultat pentru cautarea dumneavoastra. Incearca sa folosesti {} pentru a efectua o cautare avansata.",
     "music-load-failed" : "Scuze, acest videoclip nu mai este disponibil. Incearca sa folosesti {} pentru a efectua o cautare avansata.",
     "music-upnext" : "Urmeaza",

@@ -19,6 +19,7 @@
     "put-the-role-id-instead" : "Geçersiz komut, rolünün ID'sini kullanmalısın {}.",
 
     "music-over-used" : "Üzgünüm, gereğinden fazla kullanıldım. İyi bir performans için bu şarkıyı şu an çalamazsın.",
+    "music-nodes-unavailable" : "Sorry. Music commands are disabled because all my servers are unavailable!",
     "music-no-result" : "Üzgünüm, araman için bir sonuç yok. Gelişmiş arama için {} kullan.",
     "music-load-failed" : "Üzgünüm, bu video artık mevcut değil. Gelişmiş arama için {} kullan.",
     "music-upnext" : "Sonraki",

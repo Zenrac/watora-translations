@@ -19,6 +19,7 @@
     "put-the-role-id-instead" : "Type de commande invalide, vous devez mettre l'ID du rôle, vous pouvez le trouver avec {}.",
 
     "music-over-used" : "Désolée. Je suis actuellement trop utilisée. Pour garder une bonne performance globale, vous ne pouvez pas lancer de musique pour le moment...",
+    "music-nodes-unavailable" : "Désolée. Les commandes musicales sont désactivées car tous mes serveurs sont indisponibles!",
     "music-no-result" : "Désolée, il n'y a pas de résultat pour votre recherche. Essayez d'utiliser {} pour faire une recherche avancée.",
     "music-load-failed" : "Désolée, cette vidéo n'est plus disponible. Essayez d'utiliser {} pour faire une recherche avancée.",
     "music-upnext" : "Maintenant",
