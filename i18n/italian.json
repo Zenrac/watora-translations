@@ -19,6 +19,7 @@
     "put-the-role-id-instead": "Tipo di comando non valido, devi inserire l'ID del ruolo, puoi trovarlo con {}.",
 
     "music-over-used": "Mi dispiace, sono occupata. Per il momento non puoi riprodurre canzoni.",
+    "music-nodes-unavailable" : "Sorry. Music commands are disabled because all my servers are unavailable!",
     "music-no-result": "Mi dispiace, non ci sono risultati per la tua ricerca. Prova a usare {} per eseguire una ricerca avanzata.",
     "music-load-failed": "Spiacenti, questo video non è più disponibile. Prova a utilizzare {} per eseguire una ricerca avanzata.",
     "music-upnext": "Il prossimo",
