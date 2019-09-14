@@ -15,7 +15,7 @@
 
     "command-invalid-usage" : "這樣不是一個正確的選項。用`{}`來取得更多資訊。",
     "not-enough-permissions" : "我沒有足夠權限。",
-    "role-not-enough-high" : "你的職級還未夠高呢。",
+    "role-not-enough-high" : "你的權限還不夠高呢。",
     "put-the-role-id-instead" : "這是錯誤的指令類別。你需要加入角色的ID，可以透過 {} 來尋找。",
 
     "music-over-used" : "抱歉。目前，我正在過度使用。為了保持良好的表現，所以目前無法播放歌曲。",
