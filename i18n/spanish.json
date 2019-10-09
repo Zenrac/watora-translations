@@ -19,7 +19,7 @@
     "put-the-role-id-instead" : "Comando invalido, tienes que poner el ID del rol, puedes encontrarlo con {}.",
 
     "music-over-used" : "Lo siento, tengo mucho trabajo por el momento. Para mantener un rendimiento global decente, no puedes reproducir una canción por el momento.",
-    "music-nodes-unavailable" : "Sorry. Music commands are disabled because all my servers are unavailable!",
+    "music-nodes-unavailable" : "Lo siento. ¡Los comandos de música están deshabilitados porque todos mis servidores no están disponibles!",
     "music-no-result" : "Lo siento, no hay resultados para tu búsqueda. Intenta usar {} para una búsqueda avanzada.",
     "music-load-failed" : "Lo siento, este video ya no está disponible. Intenta usar {} para una búsqueda avanzada.",
     "music-upnext" : "Siguiente",
