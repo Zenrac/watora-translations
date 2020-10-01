@@ -665,10 +665,8 @@
     "music-npmsg-now" : "'Wird gerade abgespielt' Benachrichtigung zu Beginn eines neuen Liedes wird gesendet auf {}.",
     "music-npmsg-now-never" : "'Wird gerade abgespielt' Benachrichtigung zu Beginn eines neuen Liedes ist nun deaktiviert.",
     "music-npmsg-now-default" : "'Wird gerade abgespielt' Benachrichtigung zu Beginn eines neuen Liedes wird nun automatisch abhängig davon abgesendet, wo du Befehle verwendest.",
-    "music-autoplay-enabled" : "Autoplay is now enabled.",
-    "music-autoplay-disabled" : "Autoplay is now disabled.",
-    "music-autoplay-enabled" : "Autoplay is now enabled.",
-    "music-autoplay-disabled" : "Autoplay is now disabled.",
+    "music-autoplay-enabled" : "Autoplay ist jetzt aktiviert.",
+    "music-autoplay-disabled" : "Autoplay ist jetzt deaktiviert.",
 
     "music-bass-boost-now" : "Bass boost ist momentan auf {} gesetzt",
     "music-bass-boost-set" : "Bass boost ist nun auf {} gesetzt",
