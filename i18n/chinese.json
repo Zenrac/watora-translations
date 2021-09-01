@@ -547,6 +547,7 @@
     "music-queue-currently-streaming" : "Currently streaming",
     "music-queue-added-by" : "添加 由",
     "music-queue-not-displayed" : "and {} more",
+    "music-queue-list": "Queue list",
     "music-volume-invalid-number" : "{} is not a valid number.",
     "music-volume-updated" : "音量從 {} 更新至 {}.",
     "music-volume-unreasonable-volume-relative" : "Unreasonable volume change provided: {}{:+} -> {}%. Provide a change between `{}%` and `{:+}%`.",

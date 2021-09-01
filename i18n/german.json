@@ -547,6 +547,7 @@
     "music-queue-currently-streaming" : "Zurzeit gestreamt",
     "music-queue-added-by" : "hinzugefügt von",
     "music-queue-not-displayed" : "und {} mehr",
+    "music-queue-list": "Queue list",
     "music-volume-invalid-number" : "{} ist keine gültige Nummer.",
     "music-volume-updated" : "Lautstärke von {} auf {} aktualisiert.",
     "music-volume-unreasonable-volume-relative" : "Ungültige Änderung der Lautstärke angegeben: {}{:+} -> {}%. Gib eine Änderung zwischen `{}%` und `{:+}%` an.",

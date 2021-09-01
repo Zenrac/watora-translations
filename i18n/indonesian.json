@@ -547,6 +547,7 @@
     "music-queue-currently-streaming" : "Streaming sekarang",
     "music-queue-added-by" : "ditambahkan oleh",
     "music-queue-not-displayed" : "dan {} lagi",
+    "music-queue-list": "Queue list",
     "music-volume-invalid-number" : "{} bukan angka yang sah.",
     "music-volume-updated" : "Volume diubah dari {} ke {}.",
     "music-volume-unreasonable-volume-relative" : "Perubahan volume tanpa alasan diberikan: {}{:+} -> {}%. Berikan perubahannya antara `{}%` dengan `{:+}%`.",

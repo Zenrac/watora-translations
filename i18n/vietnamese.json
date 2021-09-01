@@ -553,6 +553,7 @@
     "music-queue-currently-streaming" : "Đang stream",
     "music-queue-added-by" : "bỏ vào bằng",
     "music-queue-not-displayed" : "và thêm {} nữa",
+    "music-queue-list": "Queue list",
     "music-volume-invalid-number" : "{} không phải là một số hợp lý.",
     "music-volume-updated" : "Âm lượng thay đổi từ {} đến {}.",
     "music-volume-unreasonable-volume-relative" : "Số âm lượng không hợp lý: {}{:+} -> {}%. Đưa một số giữa `{}%` và `{:+}%`.",

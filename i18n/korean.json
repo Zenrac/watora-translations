@@ -541,6 +541,7 @@
     "music-queue-currently-streaming": "Currently streaming",
     "music-queue-added-by": "—",
     "music-queue-not-displayed": "and {} more",
+    "music-queue-list": "Queue list",
     "music-volume-invalid-number": "{}은 올바른 숫자가 아닙니다.",
     "music-volume-updated": "볼륨을 {}에서 {}로 조정했습니다.",
     "music-volume-unreasonable-volume-relative": "Unreasonable volume change provided: {}{:+} -> {}%. Provide a change between `{}%` and `{:+}%`.",

@@ -546,6 +546,7 @@
     "music-queue-currently-streaming" : "In prezent ascult",
     "music-queue-added-by" : "Adaugat de",
     "music-queue-not-displayed" : "si {} mia mult",
+    "music-queue-list": "Queue list",
     "music-volume-invalid-number" : "{} nu este un numar valid.",
     "music-volume-updated" : "Volume schimbat de la {} la {}.",
     "music-volume-unreasonable-volume-relative" : "Volumul nerezonabil schimbat: {}{:+} -> {}%. Faceti o schimbare intre `{}%` si `{:+}%`.",

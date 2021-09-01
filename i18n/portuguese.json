@@ -547,6 +547,7 @@
     "music-queue-currently-streaming" : "Streaming agora",
     "music-queue-added-by" : "adicionado por",
     "music-queue-not-displayed" : "e {} mais",
+    "music-queue-list": "Queue list",
     "music-volume-invalid-number" : "{} não é um número válido.",
     "music-volume-updated" : "Volume atualizado de {} para {}.",
     "music-volume-unreasonable-volume-relative" : "Esta mudança de volume não é razoável: {}{:+} -> {}%. Informe um valor entre `{}%` e `{:+}%`.",

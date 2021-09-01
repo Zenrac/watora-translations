@@ -547,6 +547,7 @@
     "music-queue-currently-streaming" : "Сейчас проигрывается",
     "music-queue-added-by" : ", добавил",
     "music-queue-not-displayed" : "и {} больше",
+    "music-queue-list": "Queue list",
     "music-volume-invalid-number" : "{} не является допустимым числом.",
     "music-volume-updated" : "Громкость успешно изменена с {} на {}.",
     "music-volume-unreasonable-volume-relative" : "Выставлена слишком большая громкость: {}{:+} -> {}%. Выберите значение между `{}%` и `{:+}%`.",

@@ -547,6 +547,7 @@
     "music-queue-currently-streaming" : "Obecnie streamuje",
     "music-queue-added-by" : "dodano przez",
     "music-queue-not-displayed" : "oraz {} więcej",
+    "music-queue-list": "Queue list",
     "music-volume-invalid-number" : "{} nie jest poprawną liczbą.",
     "music-volume-updated" : "Głośność zmieniona z {} na {}.",
     "music-volume-unreasonable-volume-relative" : "Wprowadzono nieuzasadnioną zmianę poziomu głośności: {}{:+} -> {}%. Wprowadź wartość z przedziału od `{}%` do `{:+}%`.",
