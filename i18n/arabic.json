@@ -401,7 +401,7 @@
     "cmd-help-description" : "You can create your own aliases and commands with customcommands.",
     "cmd-help-more-info-cmd" : "For more information about a command use",
     "cmd-help-more-info-cat" : "For more information about a category use",
-    "cmd-help-support" : "if you have any question you can ask it on {}",
+    "cmd-help-support" : "If you have any question you can ask it on {}",
     "cmd-shard" : "This server is on the shard {} !",
     "cmd-avatar-my-avatar" : "My avatar",
     "cmd-avatar-someone-avatar" : "{}'s avatar",
