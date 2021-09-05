@@ -1,6 +1,6 @@
 {
-    "need-manage-messages-permission" : "Preciso de permissão para `gerência de mensagens`.",
-    "need-manage-roles-permission" : "Preciso de permissão para `gerência de cargos`.",
+    "need-manage-messages-permission" : "Preciso de permissão para `gerenciar mensagens`.",
+    "need-manage-roles-permission" : "Preciso de permissão para `gerenciar cargos`.",
     "need-embed-permission" : "Preciso de permissão para `embutir links`.",
     "need-attach-files-permission" : "Preciso de permissão para `anexar arquivos`.",
     "need-add-emojis" : "Preciso de permissão para `adicionar reações`.",
