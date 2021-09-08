@@ -19,7 +19,7 @@
     "put-the-role-id-instead" : "Ungültiger Aufbau des Befehls. Du musst die ID der Rolle einsetzen {}.",
 
     "music-over-used" : "Entschuldigung, aber ich bin momentan überlastet. Um eine globale Mindestleistung aufrechtzuerhalten, kann ich zurzeit kein Lied abspielen.",
-    "music-nodes-unavailable" : "Sorry. Music commands are disabled because all my servers are unavailable!",
+    "music-nodes-unavailable" : "Entschuldigung, Musik-Befehle sind derzeit deaktiviert, da alle meine Server nicht erreichabr sind!",
     "music-no-result" : "Entschuldigung, für deine Suche gibt es leider keine Ergebnisse. Verwende {}, um eine erweiterte Suche durchzuführen.",
     "music-load-failed" : "Entschuldigung, aber dieses Video ist nicht mehr verfügbar. Benutze {}, um die erweiterte Suche zu aktivieren.",
     "music-upnext" : "Jetzt",
@@ -666,10 +666,8 @@
     "music-npmsg-now" : "'Wird gerade abgespielt' Benachrichtigung zu Beginn eines neuen Liedes wird gesendet auf {}.",
     "music-npmsg-now-never" : "'Wird gerade abgespielt' Benachrichtigung zu Beginn eines neuen Liedes ist nun deaktiviert.",
     "music-npmsg-now-default" : "'Wird gerade abgespielt' Benachrichtigung zu Beginn eines neuen Liedes wird nun automatisch abhängig davon abgesendet, wo du Befehle verwendest.",
-    "music-autoplay-enabled" : "Autoplay is now enabled.",
-    "music-autoplay-disabled" : "Autoplay is now disabled.",
-    "music-autoplay-enabled" : "Autoplay is now enabled.",
-    "music-autoplay-disabled" : "Autoplay is now disabled.",
+    "music-autoplay-enabled" : "Autoplay ist jetzt aktiviert.",
+    "music-autoplay-disabled" : "Autoplay ist jetzt deaktiviert.",
 
     "music-bass-boost-now" : "Bass boost ist momentan auf {} gesetzt",
     "music-bass-boost-set" : "Bass boost ist nun auf {} gesetzt",
@@ -692,7 +690,7 @@
     "support-watora" : "Support Watora",
     "support-watora-end" : "and enjoy some little perks!",
     "suggest-features" : "Suggest features with {}.",
-    "thanks-support" : "Thanks for supporting Watora!",
+    "thanks-support" : "Danke für die Unterstützung von Watora!",
     "manage-autoleave-time" : "You can manage autoleave time with {}.",
 
     "upvote-added" : "Upvote added!",
