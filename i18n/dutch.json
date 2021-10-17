@@ -165,7 +165,7 @@
     "cmd-playnext-help" : "Enqueues a song to the first position of the queue.",
     "cmd-previous-help" : "Enqueues the previous song.",
     "cmd-replay-help" : "Enqueues the current song.",
-    "cmd-replaynow-help" : "Immediately replays the current song.",
+    "cmd-replaynow-help" : "Speelt onmiddellijk het huidige nummer af.",
     "cmd-previousnow-help" : "Immediately replays the last song.",
     "cmd-stream-help" : "Streams a song.",
     "cmd-setdj-help" : "Configures DJ roles.\nMember with a DJ role can uses every musical commands.",
