@@ -201,7 +201,7 @@
     "cmd-settings-help" : "Displays my current guild settings.",
     "cmd-marry-help" : "Marries you to an user.",
     "cmd-divorce-help" : "Je scheidt van degene met wie je getrouwd was.",
-    "cmd-owo-help" : "Enables or disables my OwO Mod.",
+    "cmd-owo-help" : "Schakelt mijn OwO Mod in of uit.",
     "cmd-lazy-help" : "Enables or disables my Lazy Mod.",
     "cmd-autoplay-help" : "Enables or disables the autoplay of recommended song when the queue is empty.\nOnly available with YouTube links.",
     "cmd-relatedsong-help" : "Enqueues a related song based on a specified URL. \nIf no URL is specified, about the current song.\nOnly works with YouTube links.",
