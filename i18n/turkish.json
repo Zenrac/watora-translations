@@ -603,7 +603,7 @@
     "music-plclone-confirmation" : "**{}** is going to be cloned. Please type the new autoplaylist name :",
     "music-plclone-cloned" : "**{}** has been cloned with success as **{}**.",
     "music-plclone-cancelled" : "Cancelling autoplaylist cloning.",
-    "music-repeat-disabled" : "لن أكرر قائمة الانتظار بعد الآن.",
+    "music-repeat-disabled" : "Artık kuyruğu tekrarlamayacağım.",
     "music-repeat-empty" : "I can't repeat an empty queue.",
     "music-repeat-enabled" : "OK, I'll repeat the queue!",
     "music-clear-empty" : "I can't clear an empty queue.",

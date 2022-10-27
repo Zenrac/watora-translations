@@ -731,7 +731,5 @@
     "cmd-blindtest-same-remove" : "Non puoi impostare lo stesso valore a questo parametro o darà un risulatato nullo.",
     "cmd-blindtestscore-no-saved" : "Nessun punteggio salvato su questo server... Usa {} per iniziare un blindtest!",
     "cmd-blindtestscore-help" : "Mostra il rank per blindtest.",
-
-
     "cmd-plsettings-modify-name" : "Non puoi modificare il nome della playlist. Puoi solamente cambiare il formato (maiuscolo/minuscolo)."
 }
